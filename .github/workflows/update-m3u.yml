@@ -18,6 +18,9 @@ jobs:
       with:
         python-version: '3.9'
 
+    - name: Install dependencies
+      run: pip install requests
+
     - name: Run M3U generator script
       run: python generate_m3u.py
 
@@ -26,5 +29,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add *.m3u
-        git commit -m "Update M3U playlists" || echo "No changes to commit"
+        git diff --staged --quiet || git commit -m "Update M3U playlists"
         git push
