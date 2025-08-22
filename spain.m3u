@@ -1,0 +1,1496 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="dazn-1" tvg-name="DAZN 1" tvg-country="Spain" group-title="Spain",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2941093452/index.m3u8
+
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="REAL MADRID TV" tvg-country="Spain" group-title="Spain",REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3927192385/index.m3u8
+
+#EXTINF:-1 tvg-id="telecinco-hd" tvg-name="TELECINCO HD" tvg-country="Spain" group-title="Spain",TELECINCO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/353095972/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywood" tvg-name="HOLLYWOOD" tvg-country="Spain" group-title="Spain",HOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4079560337/index.m3u8
+
+#EXTINF:-1 tvg-id="cuatro" tvg-name="CUATRO" tvg-country="Spain" group-title="Spain",CUATRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1590334161/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-3-hd" tvg-name="ANTENA 3 HD" tvg-country="Spain" group-title="Spain",ANTENA 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2255480833/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild-hd" tvg-name="NAT GEO WILD HD" tvg-country="Spain" group-title="Spain",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2832532485/index.m3u8
+
+#EXTINF:-1 tvg-id="la-sexta" tvg-name="LA SEXTA" tvg-country="Spain" group-title="Spain",LA SEXTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2660027208/index.m3u8
+
+#EXTINF:-1 tvg-id="la-sexta-hd" tvg-name="LA SEXTA HD" tvg-country="Spain" group-title="Spain",LA SEXTA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/238901671/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Spain" group-title="Spain",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1462723502/index.m3u8
+
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA" tvg-country="Spain" group-title="Spain",NOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2356963873/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-la-liga" tvg-name="MOVISTAR LA LIGA" tvg-country="Spain" group-title="Spain",MOVISTAR LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2428779244/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Spain" group-title="Spain",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3632748102/index.m3u8
+
+#EXTINF:-1 tvg-id="la-1-hd" tvg-name="LA 1 HD" tvg-country="Spain" group-title="Spain",LA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2673626663/index.m3u8
+
+#EXTINF:-1 tvg-id="somos" tvg-name="SOMOS" tvg-country="Spain" group-title="Spain",SOMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4252300734/index.m3u8
+
+#EXTINF:-1 tvg-id="decasa" tvg-name="DECASA" tvg-country="Spain" group-title="Spain",DECASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/326701577/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-district" tvg-name="CRIME DISTRICT" tvg-country="Spain" group-title="Spain",CRIME DISTRICT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4175356411/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-cocina" tvg-name="CANAL COCINA" tvg-country="Spain" group-title="Spain",CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3418635035/index.m3u8
+
+#EXTINF:-1 tvg-id="fdf" tvg-name="FDF" tvg-country="Spain" group-title="Spain",FDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2622585831/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-odisea" tvg-name="CANAL ODISEA" tvg-country="Spain" group-title="Spain",CANAL ODISEA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1795451587/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-hollywood" tvg-name="CANAL HOLLYWOOD" tvg-country="Spain" group-title="Spain",CANAL HOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3288402534/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Spain" group-title="Spain",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3689902952/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-comedia-hd" tvg-name="MOVISTAR COMEDIA HD" tvg-country="Spain" group-title="Spain",MOVISTAR COMEDIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1285043320/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-hd" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-country="Spain" group-title="Spain",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1462574321/index.m3u8
+
+#EXTINF:-1 tvg-id="viajar" tvg-name="VIAJAR" tvg-country="Spain" group-title="Spain",VIAJAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4285181325/index.m3u8
+
+#EXTINF:-1 tvg-id="la-liga-tv-hd" tvg-name="LA LIGA TV HD" tvg-country="Spain" group-title="Spain",LA LIGA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3923153097/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white-hd" tvg-name="AXN WHITE HD" tvg-country="Spain" group-title="Spain",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3062256453/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Spain" group-title="Spain",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2670144662/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-laliga" tvg-name="DAZN LALIGA" tvg-country="Spain" group-title="Spain",DAZN LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3461295847/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-accin-hd" tvg-name="MOVISTAR ACCI©N HD" tvg-country="Spain" group-title="Spain",MOVISTAR ACCI©N HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3697992438/index.m3u8
+
+#EXTINF:-1 tvg-id="calle-13" tvg-name="CALLE 13" tvg-country="Spain" group-title="Spain",CALLE 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1343655533/index.m3u8
+
+#EXTINF:-1 tvg-id="tve-la-2" tvg-name="TVE LA 2" tvg-country="Spain" group-title="Spain",TVE LA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/779986648/index.m3u8
+
+#EXTINF:-1 tvg-id="neox" tvg-name="NEOX" tvg-country="Spain" group-title="Spain",NEOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3950004696/index.m3u8
+
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="BARCA TV" tvg-country="Spain" group-title="Spain",BARCA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2697778342/index.m3u8
+
+#EXTINF:-1 tvg-id="syfy-hd" tvg-name="SYFY HD" tvg-country="Spain" group-title="Spain",SYFY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3126656022/index.m3u8
+
+#EXTINF:-1 tvg-id="calle-13-hd" tvg-name="CALLE 13 HD" tvg-country="Spain" group-title="Spain",CALLE 13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2909740152/index.m3u8
+
+#EXTINF:-1 tvg-id="gol" tvg-name="GOL" tvg-country="Spain" group-title="Spain",GOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/441554993/index.m3u8
+
+#EXTINF:-1 tvg-id="dark" tvg-name="DARK" tvg-country="Spain" group-title="Spain",DARK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/385322260/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-estrenos-hd" tvg-name="MOVISTAR ESTRENOS HD" tvg-country="Spain" group-title="Spain",MOVISTAR ESTRENOS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3585307980/index.m3u8
+
+#EXTINF:-1 tvg-id="mestrenos-hd" tvg-name="M.ESTRENOS HD" tvg-country="Spain" group-title="Spain",M.ESTRENOS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3864398596/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-f1" tvg-name="DAZN F1" tvg-country="Spain" group-title="Spain",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3129220252/index.m3u8
+
+#EXTINF:-1 tvg-id="caza-y-pesca" tvg-name="CAZA Y PESCA" tvg-country="Spain" group-title="Spain",CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3961204377/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-2" tvg-name="DAZN 2" tvg-country="Spain" group-title="Spain",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3907910812/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-f1-hd" tvg-name="MOVISTAR F1 HD" tvg-country="Spain" group-title="Spain",MOVISTAR F1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1826839470/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-3" tvg-name="FOX SPORTS 3" tvg-country="Spain" group-title="Spain",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3537553816/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-3" tvg-name="ANTENA 3" tvg-country="Spain" group-title="Spain",ANTENA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/254679370/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-la-liga" tvg-name="MOVISTAR LA LIGA" tvg-country="Spain" group-title="Spain",MOVISTAR LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2652614938/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-movies" tvg-name="AXN MOVIES" tvg-country="Spain" group-title="Spain",AXN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2493319111/index.m3u8
+
+#EXTINF:-1 tvg-id="cuatro-hd" tvg-name="CUATRO HD" tvg-country="Spain" group-title="Spain",CUATRO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4194733823/index.m3u8
+
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="REAL MADRID TV" tvg-country="Spain" group-title="Spain",REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2755024161/index.m3u8
+
+#EXTINF:-1 tvg-id="maccion-hd" tvg-name="M.ACCION HD" tvg-country="Spain" group-title="Spain",M.ACCION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1704900898/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-24-horas" tvg-name="CANAL 24 HORAS" tvg-country="Spain" group-title="Spain",CANAL 24 HORAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2123081752/index.m3u8
+
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA" tvg-country="Spain" group-title="Spain",MEGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3831249317/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Spain" group-title="Spain",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1041357840/index.m3u8
+
+#EXTINF:-1 tvg-id="teledeporte-hd" tvg-name="TELEDEPORTE HD" tvg-country="Spain" group-title="Spain",TELEDEPORTE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/531598528/index.m3u8
+
+#EXTINF:-1 tvg-id="real-madrid-tv-hd" tvg-name="REAL MADRID TV HD" tvg-country="Spain" group-title="Spain",REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2530683051/index.m3u8
+
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-country="Spain" group-title="Spain",SYFY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3068126176/index.m3u8
+
+#EXTINF:-1 tvg-id="tve-la-1-madrid" tvg-name="TVE LA 1 MADRID" tvg-country="Spain" group-title="Spain",TVE LA 1 MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2021291682/index.m3u8
+
+#EXTINF:-1 tvg-id="xtrm" tvg-name="XTRM" tvg-country="Spain" group-title="Spain",XTRM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2269507513/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sur-a" tvg-name="CANAL SUR A" tvg-country="Spain" group-title="Spain",CANAL SUR A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/460346627/index.m3u8
+
+#EXTINF:-1 tvg-id="clan-tve" tvg-name="CLAN TVE" tvg-country="Spain" group-title="Spain",CLAN TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2747600950/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Spain" group-title="Spain",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/581715654/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar" tvg-name="MOVISTAR+" tvg-country="Spain" group-title="Spain",MOVISTAR+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2881668464/index.m3u8
+
+#EXTINF:-1 tvg-id="gol-tv" tvg-name="GOL TV" tvg-country="Spain" group-title="Spain",GOL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1447300419/index.m3u8
+
+#EXTINF:-1 tvg-id="factoria-de-ficcion" tvg-name="FACTORIA DE FICCION" tvg-country="Spain" group-title="Spain",FACTORIA DE FICCION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4133961499/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-drama-hd" tvg-name="MOVISTAR DRAMA HD" tvg-country="Spain" group-title="Spain",MOVISTAR DRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2748019555/index.m3u8
+
+#EXTINF:-1 tvg-id="neox" tvg-name="NEOX" tvg-country="Spain" group-title="Spain",NEOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1629852623/index.m3u8
+
+#EXTINF:-1 tvg-id="telemadrid" tvg-name="TELEMADRID" tvg-country="Spain" group-title="Spain",TELEMADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2123930014/index.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-country="Spain" group-title="Spain",FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3362806456/index.m3u8
+
+#EXTINF:-1 tvg-id="toros" tvg-name="TOROS" tvg-country="Spain" group-title="Spain",TOROS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/142832720/index.m3u8
+
+#EXTINF:-1 tvg-id="telenovelas" tvg-name="TELENOVELAS" tvg-country="Spain" group-title="Spain",TELENOVELAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1456200012/index.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Spain" group-title="Spain",HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/26978931/index.m3u8
+
+#EXTINF:-1 tvg-id="real-madrid-tv-480" tvg-name="REAL MADRID TV 480" tvg-country="Spain" group-title="Spain",REAL MADRID TV 480
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2707218142/index.m3u8
+
+#EXTINF:-1 tvg-id="mezzo" tvg-name="MEZZO" tvg-country="Spain" group-title="Spain",MEZZO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1556364158/index.m3u8
+
+#EXTINF:-1 tvg-id="mdeportes-hd" tvg-name="M.DEPORTES HD" tvg-country="Spain" group-title="Spain",M.DEPORTES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2981915461/index.m3u8
+
+#EXTINF:-1 tvg-id="amc-hd" tvg-name="AMC HD" tvg-country="Spain" group-title="Spain",AMC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1940642395/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Spain" group-title="Spain",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2423006885/index.m3u8
+
+#EXTINF:-1 tvg-id="hola-tv" tvg-name="HOLA TV" tvg-country="Spain" group-title="Spain",HOLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3449921394/index.m3u8
+
+#EXTINF:-1 tvg-id="divinity" tvg-name="DIVINITY" tvg-country="Spain" group-title="Spain",DIVINITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4187786300/index.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-la-liga" tvg-name="BEIN SPORTS LA LIGA" tvg-country="Spain" group-title="Spain",BEIN SPORTS LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3939390473/index.m3u8
+
+#EXTINF:-1 tvg-id="13-tv" tvg-name="13 TV" tvg-country="Spain" group-title="Spain",13 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1066305614/index.m3u8
+
+#EXTINF:-1 tvg-id="warner-tv" tvg-name="WARNER TV" tvg-country="Spain" group-title="Spain",WARNER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2109803559/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga-tv-bar" tvg-name="LALIGA TV BAR" tvg-country="Spain" group-title="Spain",LALIGA TV BAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2178025822/index.m3u8
+
+#EXTINF:-1 tvg-id="liga-tv" tvg-name="LIGA TV" tvg-country="Spain" group-title="Spain",LIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1995273516/index.m3u8
+
+#EXTINF:-1 tvg-id="boing" tvg-name="BOING" tvg-country="Spain" group-title="Spain",BOING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3971769720/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Spain" group-title="Spain",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3620494453/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FOX SPORTS 2" tvg-country="Spain" group-title="Spain",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4022001704/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-45-tv" tvg-name="CANAL 45 TV" tvg-country="Spain" group-title="Spain",CANAL 45 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2197204081/index.m3u8
+
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="BARCA TV" tvg-country="Spain" group-title="Spain",BARCA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1979280950/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Spain" group-title="Spain",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4128340393/index.m3u8
+
+#EXTINF:-1 tvg-id="101-tv" tvg-name="101 TV" tvg-country="Spain" group-title="Spain",101 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3042734297/index.m3u8
+
+#EXTINF:-1 tvg-id="liga-tv-bar-3-hd" tvg-name="LIGA TV BAR 3 HD" tvg-country="Spain" group-title="Spain",LIGA TV BAR 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4050371970/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Spain" group-title="Spain",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3474692336/index.m3u8
+
+#EXTINF:-1 tvg-id="telecinco" tvg-name="TELECINCO" tvg-country="Spain" group-title="Spain",TELECINCO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1024256819/index.m3u8
+
+#EXTINF:-1 tvg-id="amc-break" tvg-name="AMC BREAK" tvg-country="Spain" group-title="Spain",AMC BREAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3137067513/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Spain" group-title="Spain",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4238619703/index.m3u8
+
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA" tvg-country="Spain" group-title="Spain",MEGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1846141874/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-hd" tvg-name="AXN HD" tvg-country="Spain" group-title="Spain",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/251250868/index.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Spain" group-title="Spain",HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3568177379/index.m3u8
+
+#EXTINF:-1 tvg-id="energy" tvg-name="ENERGY" tvg-country="Spain" group-title="Spain",ENERGY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2540924807/index.m3u8
+
+#EXTINF:-1 tvg-id="vamos" tvg-name="VAMOS" tvg-country="Spain" group-title="Spain",VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2724831939/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Spain" group-title="Spain",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/289455435/index.m3u8
+
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA" tvg-country="Spain" group-title="Spain",NOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/103395382/index.m3u8
+
+#EXTINF:-1 tvg-id="atreseries" tvg-name="ATRESERIES" tvg-country="Spain" group-title="Spain",ATRESERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1358849039/index.m3u8
+
+#EXTINF:-1 tvg-id="teledeporte" tvg-name="TELEDEPORTE" tvg-country="Spain" group-title="Spain",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2183991865/index.m3u8
+
+#EXTINF:-1 tvg-id="vamos-hd" tvg-name="VAMOS HD" tvg-country="Spain" group-title="Spain",VAMOS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/450666896/index.m3u8
+
+#EXTINF:-1 tvg-id="iberalia-tv" tvg-name="IBERALIA TV" tvg-country="Spain" group-title="Spain",IBERALIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/745432578/index.m3u8
+
+#EXTINF:-1 tvg-id="star-channel" tvg-name="STAR CHANNEL" tvg-country="Spain" group-title="Spain",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/501658715/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central-hd" tvg-name="COMEDY CENTRAL HD" tvg-country="Spain" group-title="Spain",COMEDY CENTRAL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1263523264/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-network" tvg-name="PARAMOUNT NETWORK" tvg-country="Spain" group-title="Spain",PARAMOUNT NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2278873401/index.m3u8
+
+#EXTINF:-1 tvg-id="tele-madrid" tvg-name="TELE MADRID" tvg-country="Spain" group-title="Spain",TELE MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/353289702/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-hd" tvg-name="FOX HD" tvg-country="Spain" group-title="Spain",FOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2656093401/index.m3u8
+
+#EXTINF:-1 tvg-id="bom-cine" tvg-name="BOM CINE" tvg-country="Spain" group-title="Spain",BOM CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2566347328/index.m3u8
+
+#EXTINF:-1 tvg-id="cosmo-hd" tvg-name="COSMO HD" tvg-country="Spain" group-title="Spain",COSMO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3767840195/index.m3u8
+
+#EXTINF:-1 tvg-id="ten" tvg-name="TEN" tvg-country="Spain" group-title="Spain",TEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1980405275/index.m3u8
+
+#EXTINF:-1 tvg-id="boing" tvg-name="BOING" tvg-country="Spain" group-title="Spain",BOING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/636171559/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-seriesmania-hd" tvg-name="MOVISTAR SERIESMANIA HD" tvg-country="Spain" group-title="Spain",MOVISTAR SERIESMANIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1344073831/index.m3u8
+
+#EXTINF:-1 tvg-id="teledeporte" tvg-name="TELEDEPORTE" tvg-country="Spain" group-title="Spain",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3401999066/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-la-liga-1" tvg-name="MOVISTAR LA LIGA 1" tvg-country="Spain" group-title="Spain",MOVISTAR LA LIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1969674121/index.m3u8
+
+#EXTINF:-1 tvg-id="gol-play" tvg-name="GOL PLAY" tvg-country="Spain" group-title="Spain",GOL PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/467441495/index.m3u8
+
+#EXTINF:-1 tvg-id="clan-tve" tvg-name="CLAN TVE" tvg-country="Spain" group-title="Spain",CLAN TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1995483814/index.m3u8
+
+#EXTINF:-1 tvg-id="m-laliga" tvg-name="M+ LALIGA" tvg-country="Spain" group-title="Spain",M+ LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3996529465/index.m3u8
+
+#EXTINF:-1 tvg-id="be-mad-hd" tvg-name="BE MAD HD" tvg-country="Spain" group-title="Spain",BE MAD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2840476606/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-deportes" tvg-name="MOVISTAR DEPORTES" tvg-country="Spain" group-title="Spain",MOVISTAR DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1188166343/index.m3u8
+
+#EXTINF:-1 tvg-id="multideporte" tvg-name="MULTIDEPORTE" tvg-country="Spain" group-title="Spain",MULTIDEPORTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/242013171/index.m3u8
+
+#EXTINF:-1 tvg-id="onetoro" tvg-name="ONETORO" tvg-country="Spain" group-title="Spain",ONETORO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1442267705/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-country="Spain" group-title="Spain",HOLLYWOOD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4205258144/index.m3u8
+
+#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" tvg-country="Spain" group-title="Spain",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1934981639/index.m3u8
+
+#EXTINF:-1 tvg-id="distrito-tv" tvg-name="DISTRITO TV" tvg-country="Spain" group-title="Spain",DISTRITO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4257164702/index.m3u8
+
+#EXTINF:-1 tvg-id="mezzo-live" tvg-name="MEZZO LIVE" tvg-country="Spain" group-title="Spain",MEZZO LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1583754502/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-odisea" tvg-name="CANAL ODISEA" tvg-country="Spain" group-title="Spain",CANAL ODISEA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/406958643/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-laliga-2" tvg-name="DAZN LALIGA 2" tvg-country="Spain" group-title="Spain",DAZN LALIGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/427708442/index.m3u8
+
+#EXTINF:-1 tvg-id="tve-internacional-amrica-1" tvg-name="TVE INTERNACIONAL AMÉRICA 1" tvg-country="Spain" group-title="Spain",TVE INTERNACIONAL AMÉRICA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1529983433/index.m3u8
+
+#EXTINF:-1 tvg-id="rtve" tvg-name="RTVE" tvg-country="Spain" group-title="Spain",RTVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3177511590/index.m3u8
+
+#EXTINF:-1 tvg-id="energy" tvg-name="ENERGY" tvg-country="Spain" group-title="Spain",ENERGY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/643888368/index.m3u8
+
+#EXTINF:-1 tvg-id="be-mad" tvg-name="BE MAD" tvg-country="Spain" group-title="Spain",BE MAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/22905730/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-extremadura" tvg-name="CANAL EXTREMADURA" tvg-country="Spain" group-title="Spain",CANAL EXTREMADURA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3410008380/index.m3u8
+
+#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-country="Spain" group-title="Spain",TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3891466198/index.m3u8
+
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E" tvg-country="Spain" group-title="Spain",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3126618519/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-country="Spain" group-title="Spain",EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1364676535/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sur-andalucia" tvg-name="CANAL SUR ANDALUCIA" tvg-country="Spain" group-title="Spain",CANAL SUR ANDALUCIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2458539823/index.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Spain" group-title="Spain",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1502859990/index.m3u8
+
+#EXTINF:-1 tvg-id="classica" tvg-name="CLASSICA" tvg-country="Spain" group-title="Spain",CLASSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2838647061/index.m3u8
+
+#EXTINF:-1 tvg-id="7-tv-murcia" tvg-name="7 TV MURCIA" tvg-country="Spain" group-title="Spain",7 TV MURCIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3521839803/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Spain" group-title="Spain",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3547398786/index.m3u8
+
+#EXTINF:-1 tvg-id="tcm-hd" tvg-name="TCM HD" tvg-country="Spain" group-title="Spain",TCM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1868847447/index.m3u8
+
+#EXTINF:-1 tvg-id="france-24" tvg-name="FRANCE 24" tvg-country="Spain" group-title="Spain",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1626957676/index.m3u8
+
+#EXTINF:-1 tvg-id="tve-internacional-europa" tvg-name="TVE INTERNACIONAL EUROPA" tvg-country="Spain" group-title="Spain",TVE INTERNACIONAL EUROPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3969343348/index.m3u8
+
+#EXTINF:-1 tvg-id="etb-2" tvg-name="ETB 2" tvg-country="Spain" group-title="Spain",ETB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2831642787/index.m3u8
+
+#EXTINF:-1 tvg-id="trece-tv" tvg-name="TRECE TV" tvg-country="Spain" group-title="Spain",TRECE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/902146587/index.m3u8
+
+#EXTINF:-1 tvg-id="vamos-bar-1-hd" tvg-name="VAMOS BAR 1 HD" tvg-country="Spain" group-title="Spain",VAMOS BAR 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2276951612/index.m3u8
+
+#EXTINF:-1 tvg-id="mliga-de-campeones-hd" tvg-name="M.LIGA DE CAMPEONES HD" tvg-country="Spain" group-title="Spain",M.LIGA DE CAMPEONES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2726712057/index.m3u8
+
+#EXTINF:-1 tvg-id="cacavision" tvg-name="CACAVISION" tvg-country="Spain" group-title="Spain",CACAVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2496355050/index.m3u8
+
+#EXTINF:-1 tvg-id="liga-campeones-hd" tvg-name="LIGA CAMPEONES HD" tvg-country="Spain" group-title="Spain",LIGA CAMPEONES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1198249236/index.m3u8
+
+#EXTINF:-1 tvg-id="tele-safor" tvg-name="TELE SAFOR" tvg-country="Spain" group-title="Spain",TELE SAFOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/977226543/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Spain" group-title="Spain",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/787563522/index.m3u8
+
+#EXTINF:-1 tvg-id="m-ellas-vamos" tvg-name="M+ ELLAS VAMOS" tvg-country="Spain" group-title="Spain",M+ ELLAS VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3518404885/index.m3u8
+
+#EXTINF:-1 tvg-id="divinity" tvg-name="DIVINITY" tvg-country="Spain" group-title="Spain",DIVINITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/749287084/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-4" tvg-name="CANAL 4" tvg-country="Spain" group-title="Spain",CANAL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3790097768/index.m3u8
+
+#EXTINF:-1 tvg-id="mgolf-hd" tvg-name="M.GOLF HD" tvg-country="Spain" group-title="Spain",M.GOLF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/428774689/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-la-liga-2" tvg-name="MOVISTAR LA LIGA 2" tvg-country="Spain" group-title="Spain",MOVISTAR LA LIGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/851881305/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Spain" group-title="Spain",NICK JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1143774621/index.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-xtra-" tvg-name="BEIN SPORTS XTRA Ñ" tvg-country="Spain" group-title="Spain",BEIN SPORTS XTRA Ñ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/979824657/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga-tv-bar" tvg-name="LALIGA TV BAR" tvg-country="Spain" group-title="Spain",LALIGA TV BAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1980907224/index.m3u8
+
+#EXTINF:-1 tvg-id="clan" tvg-name="CLAN" tvg-country="Spain" group-title="Spain",CLAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3121791135/index.m3u8
+
+#EXTINF:-1 tvg-id="iberlia-tv" tvg-name="IBERLIA TV" tvg-country="Spain" group-title="Spain",IBERLIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2193702924/index.m3u8
+
+#EXTINF:-1 tvg-id="sundance-tv" tvg-name="SUNDANCE TV" tvg-country="Spain" group-title="Spain",SUNDANCE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/486650129/index.m3u8
+
+#EXTINF:-1 tvg-id="cosmopolitan-tv" tvg-name="COSMOPOLITAN TV" tvg-country="Spain" group-title="Spain",COSMOPOLITAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2970833245/index.m3u8
+
+#EXTINF:-1 tvg-id="ten" tvg-name="TEN" tvg-country="Spain" group-title="Spain",TEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2537320036/index.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks-tv" tvg-name="DREAMWORKS TV" tvg-country="Spain" group-title="Spain",DREAMWORKS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3362559361/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn-en-espanol" tvg-name="CNN EN ESPANOL" tvg-country="Spain" group-title="Spain",CNN EN ESPANOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2703788385/index.m3u8
+
+#EXTINF:-1 tvg-id="24-horas" tvg-name="24 HORAS" tvg-country="Spain" group-title="Spain",24 HORAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1537807715/index.m3u8
+
+#EXTINF:-1 tvg-id="el-toro-tv" tvg-name="EL TORO TV" tvg-country="Spain" group-title="Spain",EL TORO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1390269076/index.m3u8
+
+#EXTINF:-1 tvg-id="televigo" tvg-name="TELEVIGO" tvg-country="Spain" group-title="Spain",TELEVIGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/967807787/index.m3u8
+
+#EXTINF:-1 tvg-id="enfamilia" tvg-name="ENFAMILIA" tvg-country="Spain" group-title="Spain",ENFAMILIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2411568928/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-56" tvg-name="CANAL 56" tvg-country="Spain" group-title="Spain",CANAL 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3918688074/index.m3u8
+
+#EXTINF:-1 tvg-id="rt-espaol" tvg-name="RT ESPAÑOL" tvg-country="Spain" group-title="Spain",RT ESPAÑOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3881386219/index.m3u8
+
+#EXTINF:-1 tvg-id="torole-tv" tvg-name="TOROLE TV" tvg-country="Spain" group-title="Spain",TOROLE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/472209056/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-3" tvg-name="DAZN 3" tvg-country="Spain" group-title="Spain",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3582842156/index.m3u8
+
+#EXTINF:-1 tvg-id="mformula-1-hd" tvg-name="M.FORMULA 1 HD" tvg-country="Spain" group-title="Spain",M.FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/270716645/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-golf-hd" tvg-name="MOVISTAR GOLF HD" tvg-country="Spain" group-title="Spain",MOVISTAR GOLF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2703480816/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel-hd" tvg-name="DISNEY CHANNEL HD" tvg-country="Spain" group-title="Spain",DISNEY CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1113196758/index.m3u8
+
+#EXTINF:-1 tvg-id="d-kiss" tvg-name="D KISS" tvg-country="Spain" group-title="Spain",D KISS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4289152978/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Spain" group-title="Spain",AXN WHITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3312673778/index.m3u8
+
+#EXTINF:-1 tvg-id="caza-y-pesca-hd" tvg-name="CAZA Y PESCA HD" tvg-country="Spain" group-title="Spain",CAZA Y PESCA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2148381699/index.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-n" tvg-name="BEIN SPORTS N" tvg-country="Spain" group-title="Spain",BEIN SPORTS N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/581292525/index.m3u8
+
+#EXTINF:-1 tvg-id="aragon" tvg-name="ARAGON" tvg-country="Spain" group-title="Spain",ARAGON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1532168948/index.m3u8
+
+#EXTINF:-1 tvg-id="toros-tv-hd" tvg-name="TOROS TV HD" tvg-country="Spain" group-title="Spain",TOROS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1213515147/index.m3u8
+
+#EXTINF:-1 tvg-id="7-televalencia" tvg-name="7 TELEVALENCIA" tvg-country="Spain" group-title="Spain",7 TELEVALENCIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2801370243/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-malaga" tvg-name="CANAL MALAGA" tvg-country="Spain" group-title="Spain",CANAL MALAGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3490700601/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga-tv-hypermotion" tvg-name="LALIGA TV HYPERMOTION" tvg-country="Spain" group-title="Spain",LALIGA TV HYPERMOTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3958277473/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray-classica" tvg-name="STINGRAY CLASSICA" tvg-country="Spain" group-title="Spain",STINGRAY CLASSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/497796471/index.m3u8
+
+#EXTINF:-1 tvg-id="beteve" tvg-name="BETEVE" tvg-country="Spain" group-title="Spain",BETEVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/958089500/index.m3u8
+
+#EXTINF:-1 tvg-id="dazn-4" tvg-name="DAZN 4" tvg-country="Spain" group-title="Spain",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1739393340/index.m3u8
+
+#EXTINF:-1 tvg-id="afv-espanol" tvg-name="AFV ESPANOL" tvg-country="Spain" group-title="Spain",AFV ESPANOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3307268079/index.m3u8
+
+#EXTINF:-1 tvg-id="aragon-tv-internacional" tvg-name="ARAGON TV INTERNACIONAL" tvg-country="Spain" group-title="Spain",ARAGON TV INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/521393455/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Spain" group-title="Spain",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2720994160/index.m3u8
+
+#EXTINF:-1 tvg-id="caza-y-pesca-hd" tvg-name="CAZA Y PESCA HD" tvg-country="Spain" group-title="Spain",CAZA Y PESCA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1735831563/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-espana" tvg-name="MTV ESPANA" tvg-country="Spain" group-title="Spain",MTV ESPANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4068619843/index.m3u8
+
+#EXTINF:-1 tvg-id="activa-tv" tvg-name="ACTIVA TV" tvg-country="Spain" group-title="Spain",ACTIVA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3892867833/index.m3u8
+
+#EXTINF:-1 tvg-id="galicia-tv" tvg-name="GALICIA TV" tvg-country="Spain" group-title="Spain",GALICIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2642866194/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3-catalunya" tvg-name="TV3 CATALUNYA" tvg-country="Spain" group-title="Spain",TV3 CATALUNYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1898714632/index.m3u8
+
+#EXTINF:-1 tvg-id="blaze" tvg-name="BLAZE" tvg-country="Spain" group-title="Spain",BLAZE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2047635278/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga-tv-hypermotion-3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-country="Spain" group-title="Spain",LALIGA TV HYPERMOTION 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/147003814/index.m3u8
+
+#EXTINF:-1 tvg-id="etb-basque" tvg-name="ETB BASQUE" tvg-country="Spain" group-title="Spain",ETB BASQUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3689889997/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga-tv-hypermotion-2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-country="Spain" group-title="Spain",LALIGA TV HYPERMOTION 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/899887126/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES" tvg-country="Spain" group-title="Spain",MOVISTAR LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1275784434/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="DISNEY JUNIOR" tvg-country="Spain" group-title="Spain",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4130868041/index.m3u8
+
+#EXTINF:-1 tvg-id="alacanti-tv" tvg-name="ALACANTI TV" tvg-country="Spain" group-title="Spain",ALACANTI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4125579950/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-country="Spain" group-title="Spain",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/349823389/index.m3u8
+
+#EXTINF:-1 tvg-id="alcarria-tv" tvg-name="ALCARRIA TV" tvg-country="Spain" group-title="Spain",ALCARRIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4251716677/index.m3u8
+
+#EXTINF:-1 tvg-id="negocios" tvg-name="NEGOCIOS" tvg-country="Spain" group-title="Spain",NEGOCIOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3478528126/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-diocesano" tvg-name="CANAL DIOCESANO" tvg-country="Spain" group-title="Spain",CANAL DIOCESANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4217507207/index.m3u8
+
+#EXTINF:-1 tvg-id="punt-3-vall-uixo" tvg-name="PUNT 3 VALL UIXO" tvg-country="Spain" group-title="Spain",PUNT 3 VALL UIXO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/286586580/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3-catalunia" tvg-name="TV3 CATALUNIA" tvg-country="Spain" group-title="Spain",TV3 CATALUNIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2235179797/index.m3u8
+
+#EXTINF:-1 tvg-id="molahits-tv" tvg-name="MOLAHITS TV" tvg-country="Spain" group-title="Spain",MOLAHITS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/328081519/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Spain" group-title="Spain",CANAL PANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2717687042/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-ferrol" tvg-name="TV FERROL" tvg-country="Spain" group-title="Spain",TV FERROL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/899969829/index.m3u8
+
+#EXTINF:-1 tvg-id="la-liga-tv-bar-hd" tvg-name="LA LIGA TV BAR HD" tvg-country="Spain" group-title="Spain",LA LIGA TV BAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/109394788/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Spain" group-title="Spain",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1448805961/index.m3u8
+
+#EXTINF:-1 tvg-id="etb-1" tvg-name="ETB 1" tvg-country="Spain" group-title="Spain",ETB 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4016507507/index.m3u8
+
+#EXTINF:-1 tvg-id="moto-adv" tvg-name="MOTO ADV" tvg-country="Spain" group-title="Spain",MOTO ADV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1498547821/index.m3u8
+
+#EXTINF:-1 tvg-id="lancelot-tv" tvg-name="LANCELOT TV" tvg-country="Spain" group-title="Spain",LANCELOT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3831813669/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-10-emporda" tvg-name="CANAL 10 EMPORDA" tvg-country="Spain" group-title="Spain",CANAL 10 EMPORDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1294208925/index.m3u8
+
+#EXTINF:-1 tvg-id="xtrm-full-hd" tvg-name="XTRM FULL HD" tvg-country="Spain" group-title="Spain",XTRM FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4208329945/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-vida" tvg-name="RTV VIDA" tvg-country="Spain" group-title="Spain",RTV VIDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2788570309/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-cocina" tvg-name="CANAL COCINA" tvg-country="Spain" group-title="Spain",CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3095520235/index.m3u8
+
+#EXTINF:-1 tvg-id="tve-star" tvg-name="TVE STAR" tvg-country="Spain" group-title="Spain",TVE STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3835338116/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg-tv-emea-live-event" tvg-name="BLOOMBERG TV EMEA LIVE EVENT" tvg-country="Spain" group-title="Spain",BLOOMBERG TV EMEA LIVE EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3037841209/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-taronja-osona-i-moians" tvg-name="CANAL TARONJA OSONA I MOIANÉS" tvg-country="Spain" group-title="Spain",CANAL TARONJA OSONA I MOIANÉS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/688033992/index.m3u8
+
+#EXTINF:-1 tvg-id="a3-series-hd" tvg-name="A3 SERIES HD" tvg-country="Spain" group-title="Spain",A3 SERIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3340892937/index.m3u8
+
+#EXTINF:-1 tvg-id="diez-tv" tvg-name="DIEZ TV" tvg-country="Spain" group-title="Spain",DIEZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1205331668/index.m3u8
+
+#EXTINF:-1 tvg-id="viajar-hd" tvg-name="VIAJAR HD" tvg-country="Spain" group-title="Spain",VIAJAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/296276062/index.m3u8
+
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="BARCA TV" tvg-country="Spain" group-title="Spain",BARCA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1097058594/index.m3u8
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-country="Spain" group-title="Spain",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2939432470/index.m3u8
+
+#EXTINF:-1 tvg-id="m95-marbella" tvg-name="M95 MARBELLA" tvg-country="Spain" group-title="Spain",M95 MARBELLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3202539477/index.m3u8
+
+#EXTINF:-1 tvg-id="crime--investigation" tvg-name="CRIME & INVESTIGATION" tvg-country="Spain" group-title="Spain",CRIME & INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4077015271/index.m3u8
+
+#EXTINF:-1 tvg-id="gol-tv-hd" tvg-name="GOL TV HD" tvg-country="Spain" group-title="Spain",GOL TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4165524123/index.m3u8
+
+#EXTINF:-1 tvg-id="sophia-tv-espaol" tvg-name="SOPHIA TV ESPAÑOL" tvg-country="Spain" group-title="Spain",SOPHIA TV ESPAÑOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3711717935/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-hd" tvg-name="TNT HD" tvg-country="Spain" group-title="Spain",TNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4259288064/index.m3u8
+
+#EXTINF:-1 tvg-id="girona-tv" tvg-name="GIRONA TV" tvg-country="Spain" group-title="Spain",GIRONA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1349066536/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-deporte-1-hd" tvg-name="MOVISTAR DEPORTE 1 HD" tvg-country="Spain" group-title="Spain",MOVISTAR DEPORTE 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1624090577/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-name="NICKELODEON HD" tvg-country="Spain" group-title="Spain",NICKELODEON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/615663221/index.m3u8
+
+#EXTINF:-1 tvg-id="andorra-tv" tvg-name="ANDORRA TV" tvg-country="Spain" group-title="Spain",ANDORRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1249174614/index.m3u8
+
+#EXTINF:-1 tvg-id="logos-tv" tvg-name="LOGOS TV" tvg-country="Spain" group-title="Spain",LOGOS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/44475216/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones-1-hd" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD" tvg-country="Spain" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1079960250/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-decasa" tvg-name="CANAL DECASA" tvg-country="Spain" group-title="Spain",CANAL DECASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1137978670/index.m3u8
+
+#EXTINF:-1 tvg-id="el-pinguino-tv" tvg-name="EL PINGUINO TV" tvg-country="Spain" group-title="Spain",EL PINGUINO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1710359793/index.m3u8
+
+#EXTINF:-1 tvg-id="nortevision" tvg-name="NORTEVISION" tvg-country="Spain" group-title="Spain",NORTEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3216535545/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Spain" group-title="Spain",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3531960591/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones-4-hd" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD" tvg-country="Spain" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3447547295/index.m3u8
+
+#EXTINF:-1 tvg-id="emporda-tv" tvg-name="EMPORDA TV" tvg-country="Spain" group-title="Spain",EMPORDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1054272251/index.m3u8
+
+#EXTINF:-1 tvg-id="mirame-tv" tvg-name="MIRAME TV" tvg-country="Spain" group-title="Spain",MIRAME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3375922050/index.m3u8
+
+#EXTINF:-1 tvg-id="sevilla" tvg-name="SEVILLA" tvg-country="Spain" group-title="Spain",SEVILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3423367835/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-series-hd" tvg-name="MOVISTAR SERIES HD" tvg-country="Spain" group-title="Spain",MOVISTAR SERIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1138873971/index.m3u8
+
+#EXTINF:-1 tvg-id="toros-tv" tvg-name="TOROS TV" tvg-country="Spain" group-title="Spain",TOROS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/469813358/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-3" tvg-name="EUROSPORT 3" tvg-country="Spain" group-title="Spain",EUROSPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2722563366/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-channel" tvg-name="PARAMOUNT CHANNEL" tvg-country="Spain" group-title="Spain",PARAMOUNT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1709759307/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-parlamento" tvg-name="CANAL PARLAMENTO" tvg-country="Spain" group-title="Spain",CANAL PARLAMENTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1111750157/index.m3u8
+
+#EXTINF:-1 tvg-id="vamos-bar-2-hd" tvg-name="VAMOS BAR 2 HD" tvg-country="Spain" group-title="Spain",VAMOS BAR 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/154698207/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-taronja-anoia" tvg-name="CANAL TARONJA ANOIA" tvg-country="Spain" group-title="Spain",CANAL TARONJA ANOIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/645787578/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-4" tvg-name="EUROSPORT 4" tvg-country="Spain" group-title="Spain",EUROSPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/275241270/index.m3u8
+
+#EXTINF:-1 tvg-id="popular-tv-melilla" tvg-name="POPULAR TV MELILLA" tvg-country="Spain" group-title="Spain",POPULAR TV MELILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/18640730/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones-3-hd" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD" tvg-country="Spain" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2761614279/index.m3u8
+
+#EXTINF:-1 tvg-id="cadena-elite" tvg-name="CADENA ELITE" tvg-country="Spain" group-title="Spain",CADENA ELITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2235104269/index.m3u8
+
+#EXTINF:-1 tvg-id="la-urban-tv" tvg-name="LA URBAN TV" tvg-country="Spain" group-title="Spain",LA URBAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1340694365/index.m3u8
+
+#EXTINF:-1 tvg-id="onda-cadiz" tvg-name="ONDA CADIZ" tvg-country="Spain" group-title="Spain",ONDA CADIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2682195445/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-la-liga-3" tvg-name="MOVISTAR LA LIGA 3" tvg-country="Spain" group-title="Spain",MOVISTAR LA LIGA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/262571241/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones-2-hd" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-country="Spain" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/994074713/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-5" tvg-name="EUROSPORT 5" tvg-country="Spain" group-title="Spain",EUROSPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/755495046/index.m3u8
+
+#EXTINF:-1 tvg-id="gran-hermano" tvg-name="GRAN HERMANO" tvg-country="Spain" group-title="Spain",GRAN HERMANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/897942216/index.m3u8
+
+#EXTINF:-1 tvg-id="dkiss" tvg-name="DKISS" tvg-country="Spain" group-title="Spain",DKISS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4170408528/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Spain" group-title="Spain",CANAL PANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3910659553/index.m3u8
+
+#EXTINF:-1 tvg-id="liga-tv-bar-4-hd" tvg-name="LIGA TV BAR 4 HD" tvg-country="Spain" group-title="Spain",LIGA TV BAR 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4222536859/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-castilla-la-mancha--cmm-tv" tvg-name="TV CASTILLA LA MANCHA / CMM TV" tvg-country="Spain" group-title="Spain",TV CASTILLA LA MANCHA / CMM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3432994000/index.m3u8
+
+#EXTINF:-1 tvg-id="imas-tv" tvg-name="IMAS TV" tvg-country="Spain" group-title="Spain",IMAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3339403662/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-life-hd" tvg-name="FOX LIFE HD" tvg-country="Spain" group-title="Spain",FOX LIFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2765569410/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-galicia" tvg-name="TV GALICIA" tvg-country="Spain" group-title="Spain",TV GALICIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4080888323/index.m3u8
+
+#EXTINF:-1 tvg-id="locomotion-tv" tvg-name="LOCOMOTION TV" tvg-country="Spain" group-title="Spain",LOCOMOTION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3400528078/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-family" tvg-name="RAKUTEN FAMILY" tvg-country="Spain" group-title="Spain",RAKUTEN FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3555546026/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-espana" tvg-name="MTV ESPANA" tvg-country="Spain" group-title="Spain",MTV ESPANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2061606272/index.m3u8
+
+#EXTINF:-1 tvg-id="condavision" tvg-name="CONDAVISION" tvg-country="Spain" group-title="Spain",CONDAVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3519716522/index.m3u8
+
+#EXTINF:-1 tvg-id="tvg-cultural" tvg-name="TVG CULTURAL" tvg-country="Spain" group-title="Spain",TVG CULTURAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2264854819/index.m3u8
+
+#EXTINF:-1 tvg-id="onda-algeciras-tv" tvg-name="ONDA ALGECIRAS TV" tvg-country="Spain" group-title="Spain",ONDA ALGECIRAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/610646599/index.m3u8
+
+#EXTINF:-1 tvg-id="televisin-melilla" tvg-name="TELEVISIÓN MELILLA" tvg-country="Spain" group-title="Spain",TELEVISIÓN MELILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3719112207/index.m3u8
+
+#EXTINF:-1 tvg-id="marbella-tv" tvg-name="MARBELLA TV" tvg-country="Spain" group-title="Spain",MARBELLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3847314697/index.m3u8
+
+#EXTINF:-1 tvg-id="portal-foxmix" tvg-name="PORTAL FOXMIX" tvg-country="Spain" group-title="Spain",PORTAL FOXMIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2666326430/index.m3u8
+
+#EXTINF:-1 tvg-id="mar-tv" tvg-name="MAR TV" tvg-country="Spain" group-title="Spain",MAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3767887105/index.m3u8
+
+#EXTINF:-1 tvg-id="oizmendi-telebista" tvg-name="OIZMENDI TELEBISTA" tvg-country="Spain" group-title="Spain",OIZMENDI TELEBISTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/619735660/index.m3u8
+
+#EXTINF:-1 tvg-id="esperanza-tv" tvg-name="ESPERANZA TV" tvg-country="Spain" group-title="Spain",ESPERANZA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1383981291/index.m3u8
+
+#EXTINF:-1 tvg-id="olympic-channel" tvg-name="OLYMPIC CHANNEL" tvg-country="Spain" group-title="Spain",OLYMPIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/15865034/index.m3u8
+
+#EXTINF:-1 tvg-id="popular-tv-cantabria" tvg-name="POPULAR TV CANTABRIA" tvg-country="Spain" group-title="Spain",POPULAR TV CANTABRIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/426249559/index.m3u8
+
+#EXTINF:-1 tvg-id="maravisin-sevilla" tvg-name="MARÍA+VISIÓN SEVILLA" tvg-country="Spain" group-title="Spain",MARÍA+VISIÓN SEVILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1551279190/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvida" tvg-name="RTVIDA" tvg-country="Spain" group-title="Spain",RTVIDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2601907871/index.m3u8
+
+#EXTINF:-1 tvg-id="teleonuba" tvg-name="TELEONUBA" tvg-country="Spain" group-title="Spain",TELEONUBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3225990350/index.m3u8
+
+#EXTINF:-1 tvg-id="tuya-la-janda-tv" tvg-name="TUYA LA JANDA TV" tvg-country="Spain" group-title="Spain",TUYA LA JANDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1762459844/index.m3u8
+
+#EXTINF:-1 tvg-id="costa-noroeste-tv" tvg-name="COSTA NOROESTE TV" tvg-country="Spain" group-title="Spain",COSTA NOROESTE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1757152742/index.m3u8
+
+#EXTINF:-1 tvg-id="pequeradio" tvg-name="PEQUERADIO" tvg-country="Spain" group-title="Spain",PEQUERADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3872495261/index.m3u8
+
+#EXTINF:-1 tvg-id="solidaria-tv-espaa" tvg-name="SOLIDARIA TV ESPAÑA" tvg-country="Spain" group-title="Spain",SOLIDARIA TV ESPAÑA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3973811070/index.m3u8
+

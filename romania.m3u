@@ -1,0 +1,1216 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pro-tv-hd" tvg-name="PRO TV HD" tvg-country="Romania" group-title="Romania",PRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2190787212/index.m3u8
+
+#EXTINF:-1 tvg-id="realitatea-plus" tvg-name="REALITATEA PLUS" tvg-country="Romania" group-title="Romania",REALITATEA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/942898701/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-1" tvg-name="DIGI SPORT 1" tvg-country="Romania" group-title="Romania",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3282501805/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-1-hd" tvg-name="DIGI SPORT 1 HD" tvg-country="Romania" group-title="Romania",DIGI SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3174529991/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-1" tvg-name="ANTENA 1" tvg-country="Romania" group-title="Romania",ANTENA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1878508890/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-tv" tvg-name="PRO TV" tvg-country="Romania" group-title="Romania",PRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/246329770/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-2-hd" tvg-name="DIGI SPORT 2 HD" tvg-country="Romania" group-title="Romania",DIGI SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/867728420/index.m3u8
+
+#EXTINF:-1 tvg-id="acasa" tvg-name="ACASA" tvg-country="Romania" group-title="Romania",ACASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1935806021/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-3-hd" tvg-name="DIGI SPORT 3 HD" tvg-country="Romania" group-title="Romania",DIGI SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4279401658/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-life-hd" tvg-name="DIGI LIFE HD" tvg-country="Romania" group-title="Romania",DIGI LIFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3213830486/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-3-hd" tvg-name="ANTENA 3 HD" tvg-country="Romania" group-title="Romania",ANTENA 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/593575601/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-24-hd" tvg-name="DIGI 24 HD" tvg-country="Romania" group-title="Romania",DIGI 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2228529603/index.m3u8
+
+#EXTINF:-1 tvg-id="kanal-d-hd" tvg-name="KANAL D HD" tvg-country="Romania" group-title="Romania",KANAL D HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1251215893/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-world-hd" tvg-name="DIGI WORLD HD" tvg-country="Romania" group-title="Romania",DIGI WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2785971469/index.m3u8
+
+#EXTINF:-1 tvg-id="kanal-d" tvg-name="KANAL D" tvg-country="Romania" group-title="Romania",KANAL D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/264126497/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox" tvg-name="FILMBOX" tvg-country="Romania" group-title="Romania",FILMBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2720648266/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-stars-hd" tvg-name="ANTENA STARS HD" tvg-country="Romania" group-title="Romania",ANTENA STARS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2141477116/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-2-hd" tvg-name="PRO 2 HD" tvg-country="Romania" group-title="Romania",PRO 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/420221408/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Romania" group-title="Romania",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3466104099/index.m3u8
+
+#EXTINF:-1 tvg-id="happy-channel-hd" tvg-name="HAPPY CHANNEL HD" tvg-country="Romania" group-title="Romania",HAPPY CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2716329302/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-gold" tvg-name="PRO GOLD" tvg-country="Romania" group-title="Romania",PRO GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/466874382/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Romania" group-title="Romania",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3687432160/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-hd" tvg-name="AXN HD" tvg-country="Romania" group-title="Romania",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1050568979/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Romania" group-title="Romania",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2063050215/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-arena" tvg-name="PRO ARENA" tvg-country="Romania" group-title="Romania",PRO ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1834083224/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Romania" group-title="Romania",AXN WHITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2377470007/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-est" tvg-name="COMEDY EST" tvg-country="Romania" group-title="Romania",COMEDY EST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4042981340/index.m3u8
+
+#EXTINF:-1 tvg-id="agro-tv" tvg-name="AGRO TV" tvg-country="Romania" group-title="Romania",AGRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2046060049/index.m3u8
+
+#EXTINF:-1 tvg-id="mooz-hits" tvg-name="MOOZ HITS" tvg-country="Romania" group-title="Romania",MOOZ HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2129120495/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-1-hd" tvg-name="ANTENA 1 HD" tvg-country="Romania" group-title="Romania",ANTENA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1631861196/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-1" tvg-name="DIGI SPORT 1" tvg-country="Romania" group-title="Romania",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1314204576/index.m3u8
+
+#EXTINF:-1 tvg-id="b1-tv" tvg-name="B1 TV" tvg-country="Romania" group-title="Romania",B1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2945216147/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-film" tvg-name="BOLLYWOOD FILM" tvg-country="Romania" group-title="Romania",BOLLYWOOD FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1961522607/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-24" tvg-name="DIGI 24" tvg-country="Romania" group-title="Romania",DIGI 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/185416755/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="DIGI SPORT 2" tvg-country="Romania" group-title="Romania",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/167072112/index.m3u8
+
+#EXTINF:-1 tvg-id="romania-tv" tvg-name="ROMANIA TV" tvg-country="Romania" group-title="Romania",ROMANIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3723098333/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="DIGI SPORT 2" tvg-country="Romania" group-title="Romania",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2215082621/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Romania" group-title="Romania",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4079575848/index.m3u8
+
+#EXTINF:-1 tvg-id="film-cafe" tvg-name="FILM CAFE" tvg-country="Romania" group-title="Romania",FILM CAFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2941754944/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="DIGI SPORT 3" tvg-country="Romania" group-title="Romania",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/882211008/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-3" tvg-name="ANTENA 3" tvg-country="Romania" group-title="Romania",ANTENA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/355964474/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="DIGI SPORT 3" tvg-country="Romania" group-title="Romania",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3110556621/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-1" tvg-name="TVR 1" tvg-country="Romania" group-title="Romania",TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2201759687/index.m3u8
+
+#EXTINF:-1 tvg-id="id-investigation-discovery-hd" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-country="Romania" group-title="Romania",ID INVESTIGATION DISCOVERY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3422154030/index.m3u8
+
+#EXTINF:-1 tvg-id="film-cafe" tvg-name="FILM CAFE" tvg-country="Romania" group-title="Romania",FILM CAFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3854088639/index.m3u8
+
+#EXTINF:-1 tvg-id="crime--investigation-network" tvg-name="CRIME & INVESTIGATION NETWORK" tvg-country="Romania" group-title="Romania",CRIME & INVESTIGATION NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/95539373/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-tv-news" tvg-name="PRO TV NEWS" tvg-country="Romania" group-title="Romania",PRO TV NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1932473755/index.m3u8
+
+#EXTINF:-1 tvg-id="diva" tvg-name="DIVA" tvg-country="Romania" group-title="Romania",DIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/765940213/index.m3u8
+
+#EXTINF:-1 tvg-id="antena-stars" tvg-name="ANTENA STARS" tvg-country="Romania" group-title="Romania",ANTENA STARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2135143941/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-cinema" tvg-name="PRO CINEMA" tvg-country="Romania" group-title="Romania",PRO CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2978271020/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-cinema" tvg-name="PRO CINEMA" tvg-country="Romania" group-title="Romania",PRO CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3457881266/index.m3u8
+
+#EXTINF:-1 tvg-id="happy-channel" tvg-name="HAPPY CHANNEL" tvg-country="Romania" group-title="Romania",HAPPY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/463762689/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-tv-international" tvg-name="PRO TV INTERNATIONAL" tvg-country="Romania" group-title="Romania",PRO TV INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3182795621/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-classic" tvg-name="BOLLYWOOD CLASSIC" tvg-country="Romania" group-title="Romania",BOLLYWOOD CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3761617862/index.m3u8
+
+#EXTINF:-1 tvg-id="orange-sport-2" tvg-name="ORANGE SPORT 2" tvg-country="Romania" group-title="Romania",ORANGE SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2580171593/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Romania" group-title="Romania",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3514626686/index.m3u8
+
+#EXTINF:-1 tvg-id="prima-sport" tvg-name="PRIMA SPORT" tvg-country="Romania" group-title="Romania",PRIMA SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2806240274/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="ANIMAL PLANET HD" tvg-country="Romania" group-title="Romania",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3888491987/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Romania" group-title="Romania",AXN BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/927710249/index.m3u8
+
+#EXTINF:-1 tvg-id="national-tv" tvg-name="NATIONAL TV" tvg-country="Romania" group-title="Romania",NATIONAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1152291023/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaraton" tvg-name="CINEMARATON" tvg-country="Romania" group-title="Romania",CINEMARATON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3275610158/index.m3u8
+
+#EXTINF:-1 tvg-id="trinitas" tvg-name="TRINITAS" tvg-country="Romania" group-title="Romania",TRINITAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/282910621/index.m3u8
+
+#EXTINF:-1 tvg-id="kiss-tv" tvg-name="KISS TV" tvg-country="Romania" group-title="Romania",KISS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3120381441/index.m3u8
+
+#EXTINF:-1 tvg-id="film-now" tvg-name="FILM NOW" tvg-country="Romania" group-title="Romania",FILM NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1628219216/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Romania" group-title="Romania",VIASAT NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/97535420/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-tv" tvg-name="BOLLYWOOD TV" tvg-country="Romania" group-title="Romania",BOLLYWOOD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/638980057/index.m3u8
+
+#EXTINF:-1 tvg-id="prima-tv-ro" tvg-name="PRIMA TV RO" tvg-country="Romania" group-title="Romania",PRIMA TV RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/714920047/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="DIGI SPORT 4" tvg-country="Romania" group-title="Romania",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/189239261/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-tv" tvg-name="BOLLYWOOD TV" tvg-country="Romania" group-title="Romania",BOLLYWOOD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2883855572/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild-hd" tvg-name="NAT GEO WILD HD" tvg-country="Romania" group-title="Romania",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/77363700/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-x-hd" tvg-name="PRO X HD" tvg-country="Romania" group-title="Romania",PRO X HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1478995347/index.m3u8
+
+#EXTINF:-1 tvg-id="acasa-gold" tvg-name="ACASA GOLD" tvg-country="Romania" group-title="Romania",ACASA GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2658184809/index.m3u8
+
+#EXTINF:-1 tvg-id="etno" tvg-name="ETNO" tvg-country="Romania" group-title="Romania",ETNO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2044403783/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-animal-world-hd" tvg-name="DIGI ANIMAL WORLD HD" tvg-country="Romania" group-title="Romania",DIGI ANIMAL WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2768290645/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Romania" group-title="Romania",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1307578141/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Romania" group-title="Romania",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1888495277/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Romania" group-title="Romania",AXN BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2107939798/index.m3u8
+
+#EXTINF:-1 tvg-id="1-music-channel" tvg-name="1 MUSIC CHANNEL" tvg-country="Romania" group-title="Romania",1 MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2832823814/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-play" tvg-name="COMEDY PLAY" tvg-country="Romania" group-title="Romania",COMEDY PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/465445474/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-hd" tvg-name="CINEMAX HD" tvg-country="Romania" group-title="Romania",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/484011633/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="DIGI SPORT 4" tvg-country="Romania" group-title="Romania",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2260051152/index.m3u8
+
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Romania" group-title="Romania",HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1338285052/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-4k-tv" tvg-name="DIGI 4K TV" tvg-country="Romania" group-title="Romania",DIGI 4K TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2467663593/index.m3u8
+
+#EXTINF:-1 tvg-id="zu-tv" tvg-name="ZU TV" tvg-country="Romania" group-title="Romania",ZU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/86496830/index.m3u8
+
+#EXTINF:-1 tvg-id="1music-channel" tvg-name="1MUSIC CHANNEL" tvg-country="Romania" group-title="Romania",1MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3715402689/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-tv-international" tvg-name="PRO TV INTERNATIONAL" tvg-country="Romania" group-title="Romania",PRO TV INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2707617826/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Romania" group-title="Romania",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1363942994/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Romania" group-title="Romania",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3794748066/index.m3u8
+
+#EXTINF:-1 tvg-id="crime--investigation" tvg-name="CRIME & INVESTIGATION" tvg-country="Romania" group-title="Romania",CRIME & INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2692994546/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-2-hd" tvg-name="CINEMAX 2 HD" tvg-country="Romania" group-title="Romania",CINEMAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1249066248/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-sport-4-hd" tvg-name="DIGI SPORT 4 HD" tvg-country="Romania" group-title="Romania",DIGI SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4124538275/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-life" tvg-name="DIGI LIFE" tvg-country="Romania" group-title="Romania",DIGI LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/252596478/index.m3u8
+
+#EXTINF:-1 tvg-id="b-1" tvg-name="B 1" tvg-country="Romania" group-title="Romania",B 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2087129169/index.m3u8
+
+#EXTINF:-1 tvg-id="prima-sport-2-live-during-events-only" tvg-name="PRIMA SPORT 2 [LIVE DURING EVENTS ONLY]" tvg-country="Romania" group-title="Romania",PRIMA SPORT 2 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/277417803/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Romania" group-title="Romania",VIASAT NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/691736606/index.m3u8
+
+#EXTINF:-1 tvg-id="comedyest-hd" tvg-name="COMEDYEST HD" tvg-country="Romania" group-title="Romania",COMEDYEST HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2425261898/index.m3u8
+
+#EXTINF:-1 tvg-id="bucovina-tv" tvg-name="BUCOVINA TV" tvg-country="Romania" group-title="Romania",BUCOVINA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1858621093/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-animal-world" tvg-name="DIGI ANIMAL WORLD" tvg-country="Romania" group-title="Romania",DIGI ANIMAL WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4055775147/index.m3u8
+
+#EXTINF:-1 tvg-id="diva-channel" tvg-name="DIVA CHANNEL" tvg-country="Romania" group-title="Romania",DIVA CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2174062060/index.m3u8
+
+#EXTINF:-1 tvg-id="paprika-tv" tvg-name="PAPRIKA TV" tvg-country="Romania" group-title="Romania",PAPRIKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3497498233/index.m3u8
+
+#EXTINF:-1 tvg-id="digi-world" tvg-name="DIGI WORLD" tvg-country="Romania" group-title="Romania",DIGI WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4242782308/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5-monde" tvg-name="TV5 MONDE" tvg-country="Romania" group-title="Romania",TV5 MONDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3858087604/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-country="Romania" group-title="Romania",CINEMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1909701741/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-hd" tvg-name="TNT HD" tvg-country="Romania" group-title="Romania",TNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3451401639/index.m3u8
+
+#EXTINF:-1 tvg-id="look-plus-hd" tvg-name="LOOK PLUS HD" tvg-country="Romania" group-title="Romania",LOOK PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3493794502/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-tv-hd" tvg-name="BOLLYWOOD TV HD" tvg-country="Romania" group-title="Romania",BOLLYWOOD TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3576767611/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Romania" group-title="Romania",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/937259113/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Romania" group-title="Romania",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3435039959/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-extra" tvg-name="FILMBOX EXTRA" tvg-country="Romania" group-title="Romania",FILMBOX EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2104941053/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-hd-showcase" tvg-name="DISCOVERY HD SHOWCASE" tvg-country="Romania" group-title="Romania",DISCOVERY HD SHOWCASE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2323251357/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Romania" group-title="Romania",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1990754219/index.m3u8
+
+#EXTINF:-1 tvg-id="aleph-news" tvg-name="ALEPH NEWS" tvg-country="Romania" group-title="Romania",ALEPH NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3743412295/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Romania" group-title="Romania",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1887242937/index.m3u8
+
+#EXTINF:-1 tvg-id="alfa--omega-tv" tvg-name="ALFA & OMEGA TV" tvg-country="Romania" group-title="Romania",ALFA & OMEGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3167710399/index.m3u8
+
+#EXTINF:-1 tvg-id="impact-tv-manele" tvg-name="IMPACT TV MANELE" tvg-country="Romania" group-title="Romania",IMPACT TV MANELE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4133095385/index.m3u8
+
+#EXTINF:-1 tvg-id="mooz-dance" tvg-name="MOOZ DANCE" tvg-country="Romania" group-title="Romania",MOOZ DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1347982858/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth-hd" tvg-name="BBC EARTH HD" tvg-country="Romania" group-title="Romania",BBC EARTH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/523823815/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-premium" tvg-name="FILMBOX PREMIUM" tvg-country="Romania" group-title="Romania",FILMBOX PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3993763997/index.m3u8
+
+#EXTINF:-1 tvg-id="orange-sport-3" tvg-name="ORANGE SPORT 3" tvg-country="Romania" group-title="Romania",ORANGE SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2762629881/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment-hd" tvg-name="E! ENTERTAINMENT HD" tvg-country="Romania" group-title="Romania",E! ENTERTAINMENT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3166915380/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-stars" tvg-name="FILMBOX STARS" tvg-country="Romania" group-title="Romania",FILMBOX STARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3670376642/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-2" tvg-name="TVR 2" tvg-country="Romania" group-title="Romania",TVR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3298579735/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Romania" group-title="Romania",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2795339378/index.m3u8
+
+#EXTINF:-1 tvg-id="teennick" tvg-name="TEENNICK" tvg-country="Romania" group-title="Romania",TEENNICK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2629396228/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-family" tvg-name="FILMBOX FAMILY" tvg-country="Romania" group-title="Romania",FILMBOX FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4033560729/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-country="Romania" group-title="Romania",EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2765356700/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Romania" group-title="Romania",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3702884132/index.m3u8
+
+#EXTINF:-1 tvg-id="prima-tv" tvg-name="PRIMA TV" tvg-country="Romania" group-title="Romania",PRIMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2054040562/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Romania" group-title="Romania",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/607384556/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-international" tvg-name="TVR INTERNATIONAL" tvg-country="Romania" group-title="Romania",TVR INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/476441838/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-with" tvg-name="AXN WITH" tvg-country="Romania" group-title="Romania",AXN WITH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3021802433/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-1" tvg-name="TVR 1" tvg-country="Romania" group-title="Romania",TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1781455170/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN SPIN" tvg-country="Romania" group-title="Romania",AXN SPIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4061739203/index.m3u8
+
+#EXTINF:-1 tvg-id="music-channel" tvg-name="MUSIC CHANNEL" tvg-country="Romania" group-title="Romania",MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2788611999/index.m3u8
+
+#EXTINF:-1 tvg-id="rotv-valencia" tvg-name="ROTV VALENCIA" tvg-country="Romania" group-title="Romania",ROTV VALENCIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2015204510/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaraton-hd" tvg-name="CINEMARATON HD" tvg-country="Romania" group-title="Romania",CINEMARATON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2573055575/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-country="Romania" group-title="Romania",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/502532410/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-country="Romania" group-title="Romania",MTV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2992909400/index.m3u8
+
+#EXTINF:-1 tvg-id="atomic-academy-tv" tvg-name="ATOMIC ACADEMY TV" tvg-country="Romania" group-title="Romania",ATOMIC ACADEMY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1533490433/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Romania" group-title="Romania",E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2154618680/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="DISNEY JUNIOR" tvg-country="Romania" group-title="Romania",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2102228766/index.m3u8
+
+#EXTINF:-1 tvg-id="magic-tv" tvg-name="MAGIC TV" tvg-country="Romania" group-title="Romania",MAGIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3737977832/index.m3u8
+
+#EXTINF:-1 tvg-id="look-sport-hd" tvg-name="LOOK SPORT HD" tvg-country="Romania" group-title="Romania",LOOK SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3381201599/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Romania" group-title="Romania",TV 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2321872319/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Romania" group-title="Romania",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/181751695/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Romania" group-title="Romania",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2219689259/index.m3u8
+
+#EXTINF:-1 tvg-id="taraf-tv" tvg-name="TARAF TV" tvg-country="Romania" group-title="Romania",TARAF TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4067987074/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-hd" tvg-name="TVR HD" tvg-country="Romania" group-title="Romania",TVR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/483384393/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geografic-hd" tvg-name="NATIONAL GEOGRAFIC HD" tvg-country="Romania" group-title="Romania",NATIONAL GEOGRAFIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2785556162/index.m3u8
+
+#EXTINF:-1 tvg-id="a-7-tv" tvg-name="A 7 TV" tvg-country="Romania" group-title="Romania",A 7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2832106599/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-hd" tvg-name="DISCOVERY CHANNEL HD" tvg-country="Romania" group-title="Romania",DISCOVERY CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1866716904/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORER" tvg-country="Romania" group-title="Romania",VIASAT EXPLORER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2511061787/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-investigation" tvg-name="DISCOVERY INVESTIGATION" tvg-country="Romania" group-title="Romania",DISCOVERY INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/575624309/index.m3u8
+
+#EXTINF:-1 tvg-id="national-24-plus" tvg-name="NATIONAL 24 PLUS" tvg-country="Romania" group-title="Romania",NATIONAL 24 PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/714028764/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-channel-ro" tvg-name="PARAMOUNT CHANNEL RO" tvg-country="Romania" group-title="Romania",PARAMOUNT CHANNEL RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4253630155/index.m3u8
+
+#EXTINF:-1 tvg-id="favorit" tvg-name="FAVORIT" tvg-country="Romania" group-title="Romania",FAVORIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3192050174/index.m3u8
+
+#EXTINF:-1 tvg-id="arges-tv" tvg-name="ARGES TV" tvg-country="Romania" group-title="Romania",ARGES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1985752732/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Romania" group-title="Romania",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1915112508/index.m3u8
+
+#EXTINF:-1 tvg-id="fishing--hunting" tvg-name="FISHING & HUNTING" tvg-country="Romania" group-title="Romania",FISHING & HUNTING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2083903308/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Romania" group-title="Romania",TV 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3951026128/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-3" tvg-name="TVR 3" tvg-country="Romania" group-title="Romania",TVR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/284068386/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Romania" group-title="Romania",CBS REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1219133865/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Romania" group-title="Romania",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/692523876/index.m3u8
+
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-country="Romania" group-title="Romania",EPIC DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2124021362/index.m3u8
+
+#EXTINF:-1 tvg-id="moldova-tv" tvg-name="MOLDOVA TV" tvg-country="Romania" group-title="Romania",MOLDOVA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3826888042/index.m3u8
+
+#EXTINF:-1 tvg-id="a7-tv" tvg-name="A7 TV" tvg-country="Romania" group-title="Romania",A7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3111955796/index.m3u8
+
+#EXTINF:-1 tvg-id="mooz" tvg-name="MOOZ" tvg-country="Romania" group-title="Romania",MOOZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2897950865/index.m3u8
+
+#EXTINF:-1 tvg-id="national-24-plus" tvg-name="NATIONAL 24 PLUS" tvg-country="Romania" group-title="Romania",NATIONAL 24 PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3648880441/index.m3u8
+
+#EXTINF:-1 tvg-id="hit-channel" tvg-name="HIT CHANNEL" tvg-country="Romania" group-title="Romania",HIT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3650845286/index.m3u8
+
+#EXTINF:-1 tvg-id="orange-sport-1" tvg-name="ORANGE SPORT 1" tvg-country="Romania" group-title="Romania",ORANGE SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3731501465/index.m3u8
+
+#EXTINF:-1 tvg-id="nasul-tv" tvg-name="NASUL TV" tvg-country="Romania" group-title="Romania",NASUL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/348279619/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-2" tvg-name="TVR 2" tvg-country="Romania" group-title="Romania",TVR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/764322706/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Romania" group-title="Romania",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/682895493/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN SPIN" tvg-country="Romania" group-title="Romania",AXN SPIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2107802644/index.m3u8
+
+#EXTINF:-1 tvg-id="catine" tvg-name="CATINE" tvg-country="Romania" group-title="Romania",CATINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3985120529/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sport-ro" tvg-name="EXTREME SPORT RO" tvg-country="Romania" group-title="Romania",EXTREME SPORT RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/388462731/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Romania" group-title="Romania",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1671967899/index.m3u8
+
+#EXTINF:-1 tvg-id="ardeal-tv" tvg-name="ARDEAL TV" tvg-country="Romania" group-title="Romania",ARDEAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3491626627/index.m3u8
+
+#EXTINF:-1 tvg-id="jim-jam" tvg-name="JIM JAM" tvg-country="Romania" group-title="Romania",JIM JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1430505537/index.m3u8
+
+#EXTINF:-1 tvg-id="mireasa" tvg-name="MIREASA" tvg-country="Romania" group-title="Romania",MIREASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/518251734/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-00" tvg-name="MTV 00" tvg-country="Romania" group-title="Romania",MTV 00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1225205721/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-dance" tvg-name="MTV DANCE" tvg-country="Romania" group-title="Romania",MTV DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1464264945/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Romania" group-title="Romania",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/432753698/index.m3u8
+
+#EXTINF:-1 tvg-id="rock-tv" tvg-name="ROCK TV" tvg-country="Romania" group-title="Romania",ROCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1657199847/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-mix" tvg-name="TRAVEL MIX" tvg-country="Romania" group-title="Romania",TRAVEL MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1870114308/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2-hd" tvg-name="EUROSPORT 2 HD" tvg-country="Romania" group-title="Romania",EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/710736255/index.m3u8
+
+#EXTINF:-1 tvg-id="docubox" tvg-name="DOCUBOX" tvg-country="Romania" group-title="Romania",DOCUBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2277302403/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Romania" group-title="Romania",VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3112950329/index.m3u8
+
+#EXTINF:-1 tvg-id="credo" tvg-name="CREDO" tvg-country="Romania" group-title="Romania",CREDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3089743655/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-name="EURONEWS" tvg-country="Romania" group-title="Romania",EURONEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2022472244/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD" tvg-country="Romania" group-title="Romania",DISCOVERY SCIENCE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2806040124/index.m3u8
+
+#EXTINF:-1 tvg-id="mooz-ro" tvg-name="MOOZ RO" tvg-country="Romania" group-title="Romania",MOOZ RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3546223306/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-jr" tvg-name="DISNEY JR" tvg-country="Romania" group-title="Romania",DISNEY JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1786676661/index.m3u8
+
+#EXTINF:-1 tvg-id="metropola-tv" tvg-name="METROPOLA TV" tvg-country="Romania" group-title="Romania",METROPOLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1871377147/index.m3u8
+
+#EXTINF:-1 tvg-id="atomic-tv" tvg-name="ATOMIC TV" tvg-country="Romania" group-title="Romania",ATOMIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1831742567/index.m3u8
+
+#EXTINF:-1 tvg-id="auto-motor-sport" tvg-name="AUTO MOTOR SPORT" tvg-country="Romania" group-title="Romania",AUTO MOTOR SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4227017240/index.m3u8
+
+#EXTINF:-1 tvg-id="orange-sport-4" tvg-name="ORANGE SPORT 4" tvg-country="Romania" group-title="Romania",ORANGE SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/378191593/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Romania" group-title="Romania",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2567606669/index.m3u8
+
+#EXTINF:-1 tvg-id="davinci-learning" tvg-name="DAVINCI LEARNING" tvg-country="Romania" group-title="Romania",DAVINCI LEARNING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2378573400/index.m3u8
+
+#EXTINF:-1 tvg-id="dtx-hd-ro" tvg-name="DTX HD RO" tvg-country="Romania" group-title="Romania",DTX HD RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1059974583/index.m3u8
+
+#EXTINF:-1 tvg-id="dtx" tvg-name="DTX" tvg-country="Romania" group-title="Romania",DTX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/455507840/index.m3u8
+
+#EXTINF:-1 tvg-id="u-tv" tvg-name="U TV" tvg-country="Romania" group-title="Romania",U TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3539611994/index.m3u8
+
+#EXTINF:-1 tvg-id="epic-drama-hd" tvg-name="EPIC DRAMA HD" tvg-country="Romania" group-title="Romania",EPIC DRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2824217324/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Romania" group-title="Romania",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/807595503/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Romania" group-title="Romania",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/336184142/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-timisoara" tvg-name="TVR TIMISOARA" tvg-country="Romania" group-title="Romania",TVR TIMISOARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3509508831/index.m3u8
+
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Romania" group-title="Romania",HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3150263389/index.m3u8
+
+#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Romania" group-title="Romania",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1078526540/index.m3u8
+
+#EXTINF:-1 tvg-id="impact-tv-dance" tvg-name="IMPACT TV DANCE" tvg-country="Romania" group-title="Romania",IMPACT TV DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2921308313/index.m3u8
+
+#EXTINF:-1 tvg-id="intermedia-suceava" tvg-name="INTERMEDIA SUCEAVA" tvg-country="Romania" group-title="Romania",INTERMEDIA SUCEAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1344287270/index.m3u8
+
+#EXTINF:-1 tvg-id="pro-fit" tvg-name="PRO FIT" tvg-country="Romania" group-title="Romania",PRO FIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2929793917/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-3" tvg-name="TVR 3" tvg-country="Romania" group-title="Romania",TVR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4194073767/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Romania" group-title="Romania",VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3551013020/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Romania" group-title="Romania",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1964173601/index.m3u8
+
+#EXTINF:-1 tvg-id="telekom-sport-1-hd" tvg-name="TELEKOM SPORT 1 HD" tvg-country="Romania" group-title="Romania",TELEKOM SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4136539779/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-exporer" tvg-name="VIASAT EXPORER" tvg-country="Romania" group-title="Romania",VIASAT EXPORER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3441791596/index.m3u8
+
+#EXTINF:-1 tvg-id="emi-tv" tvg-name="EMI TV" tvg-country="Romania" group-title="Romania",EMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2050981665/index.m3u8
+
+#EXTINF:-1 tvg-id="hello-taste" tvg-name="HELLO TASTE" tvg-country="Romania" group-title="Romania",HELLO TASTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/83636965/index.m3u8
+
+#EXTINF:-1 tvg-id="national-tv" tvg-name="NATIONAL TV" tvg-country="Romania" group-title="Romania",NATIONAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/28404323/index.m3u8
+
+#EXTINF:-1 tvg-id="taraf" tvg-name="TARAF" tvg-country="Romania" group-title="Romania",TARAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2098788309/index.m3u8
+
+#EXTINF:-1 tvg-id="minimax" tvg-name="MINIMAX" tvg-country="Romania" group-title="Romania",MINIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2263701124/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-name="NICKELODEON HD" tvg-country="Romania" group-title="Romania",NICKELODEON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3510040414/index.m3u8
+
+#EXTINF:-1 tvg-id="telekom-sport-3-hd" tvg-name="TELEKOM SPORT 3 HD" tvg-country="Romania" group-title="Romania",TELEKOM SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3031142910/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Romania" group-title="Romania",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/124272519/index.m3u8
+
+#EXTINF:-1 tvg-id="observator-news" tvg-name="OBSERVATOR NEWS" tvg-country="Romania" group-title="Romania",OBSERVATOR NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/130908298/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR." tvg-country="Romania" group-title="Romania",NICK JR.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3580885142/index.m3u8
+
+#EXTINF:-1 tvg-id="telekom-sport-4-hd" tvg-name="TELEKOM SPORT 4 HD" tvg-country="Romania" group-title="Romania",TELEKOM SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3194919143/index.m3u8
+
+#EXTINF:-1 tvg-id="davinci-learning" tvg-name="DAVINCI LEARNING" tvg-country="Romania" group-title="Romania",DAVINCI LEARNING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2117365693/index.m3u8
+
+#EXTINF:-1 tvg-id="m9tv" tvg-name="M9TV" tvg-country="Romania" group-title="Romania",M9TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2414002905/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-toons" tvg-name="NICK TOONS" tvg-country="Romania" group-title="Romania",NICK TOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3576875795/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Romania" group-title="Romania",TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/58851412/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Romania" group-title="Romania",CBS REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/229997317/index.m3u8
+
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DOCUBOX HD" tvg-country="Romania" group-title="Romania",DOCUBOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3496042070/index.m3u8
+
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FIGHTBOX HD" tvg-country="Romania" group-title="Romania",FIGHTBOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3824846149/index.m3u8
+
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JIMJAM" tvg-country="Romania" group-title="Romania",JIMJAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4136887079/index.m3u8
+
+#EXTINF:-1 tvg-id="minimax" tvg-name="MINIMAX" tvg-country="Romania" group-title="Romania",MINIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3891690731/index.m3u8
+
+#EXTINF:-1 tvg-id="ploiesti-tv" tvg-name="PLOIESTI TV" tvg-country="Romania" group-title="Romania",PLOIESTI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3537690621/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr-info" tvg-name="TVR INFO" tvg-country="Romania" group-title="Romania",TVR INFO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2421228941/index.m3u8
+
+#EXTINF:-1 tvg-id="telekom-sport-2-hd" tvg-name="TELEKOM SPORT 2 HD" tvg-country="Romania" group-title="Romania",TELEKOM SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2013368672/index.m3u8
+
+#EXTINF:-1 tvg-id="medicool-tv" tvg-name="MEDICOOL TV" tvg-country="Romania" group-title="Romania",MEDICOOL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2424114096/index.m3u8
+
+#EXTINF:-1 tvg-id="muscel-tv" tvg-name="MUSCEL TV" tvg-country="Romania" group-title="Romania",MUSCEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3909115636/index.m3u8
+
+#EXTINF:-1 tvg-id="telestar1" tvg-name="TELESTAR1" tvg-country="Romania" group-title="Romania",TELESTAR1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1184121092/index.m3u8
+
+#EXTINF:-1 tvg-id="megamax" tvg-name="MEGAMAX" tvg-country="Romania" group-title="Romania",MEGAMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3818331108/index.m3u8
+

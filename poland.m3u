@@ -1,0 +1,2006 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvp-2" tvg-name="TVP 2" tvg-country="Poland" group-title="Poland",TVP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/987253432/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-1" tvg-name="TVP 1" tvg-country="Poland" group-title="Poland",TVP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2105028712/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-1-hd" tvg-name="CANAL SPORT 1 HD" tvg-country="Poland" group-title="Poland",CANAL SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3232832013/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-24" tvg-name="TVN 24" tvg-country="Poland" group-title="Poland",TVN 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3073846853/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-hd" tvg-name="POLSAT HD" tvg-country="Poland" group-title="Poland",POLSAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3020429658/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-2" tvg-name="POLSAT 2" tvg-country="Poland" group-title="Poland",POLSAT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/926991235/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-1-hd" tvg-name="TVP 1 HD" tvg-country="Poland" group-title="Poland",TVP 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2312587144/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-seriale" tvg-name="TVP SERIALE" tvg-country="Poland" group-title="Poland",TVP SERIALE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/612328203/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-republika" tvg-name="TV REPUBLIKA" tvg-country="Poland" group-title="Poland",TV REPUBLIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/582984513/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-hd" tvg-name="TVN HD" tvg-country="Poland" group-title="Poland",TVN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1619171179/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-news-hd" tvg-name="POLSAT NEWS HD" tvg-country="Poland" group-title="Poland",POLSAT NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3360952949/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-info" tvg-name="TVP INFO" tvg-country="Poland" group-title="Poland",TVP INFO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3672476872/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-24-bis" tvg-name="TVN 24 BIS" tvg-country="Poland" group-title="Poland",TVN 24 BIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1095597900/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-country="Poland" group-title="Poland",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/110054216/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-24-hd" tvg-name="TVN 24 HD" tvg-country="Poland" group-title="Poland",TVN 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3117907024/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-seriale" tvg-name="TVP SERIALE" tvg-country="Poland" group-title="Poland",TVP SERIALE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1463467003/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-7" tvg-name="TVN 7" tvg-country="Poland" group-title="Poland",TVN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3319341659/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-turbo" tvg-name="TVN TURBO" tvg-country="Poland" group-title="Poland",TVN TURBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2939182317/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport" tvg-name="CANAL+ SPORT" tvg-country="Poland" group-title="Poland",CANAL+ SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2279950453/index.m3u8
+
+#EXTINF:-1 tvg-id="tv6" tvg-name="TV6" tvg-country="Poland" group-title="Poland",TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1165507153/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-republika" tvg-name="TV REPUBLIKA" tvg-country="Poland" group-title="Poland",TV REPUBLIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3581908167/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-hd" tvg-name="TVP HD" tvg-country="Poland" group-title="Poland",TVP HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/162772082/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp" tvg-name="TVP" tvg-country="Poland" group-title="Poland",TVP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3646907051/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-3" tvg-name="CANAL+ SPORT 3" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3293241225/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport" tvg-name="POLSAT SPORT" tvg-country="Poland" group-title="Poland",POLSAT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1664723595/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-3" tvg-name="CANAL+ SPORT 3" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3283623157/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-2-hd" tvg-name="CANAL SPORT 2 HD" tvg-country="Poland" group-title="Poland",CANAL SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1312693742/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-4-hd" tvg-name="CANAL SPORT 4 HD" tvg-country="Poland" group-title="Poland",CANAL SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2287015017/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-3-hd" tvg-name="CANAL SPORT 3 HD" tvg-country="Poland" group-title="Poland",CANAL SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2190744944/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-puls" tvg-name="TV PULS" tvg-country="Poland" group-title="Poland",TV PULS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2802119077/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-2" tvg-name="POLSAT SPORT PREMIUM 2" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2645884741/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-3" tvg-name="POLSAT SPORT 3" tvg-country="Poland" group-title="Poland",POLSAT SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/126072654/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-puls-hd" tvg-name="TV PULS HD" tvg-country="Poland" group-title="Poland",TV PULS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1775095558/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-sport-hd" tvg-name="TVP SPORT HD" tvg-country="Poland" group-title="Poland",TVP SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1708469111/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-info-hd" tvg-name="TVP INFO HD" tvg-country="Poland" group-title="Poland",TVP INFO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1609624142/index.m3u8
+
+#EXTINF:-1 tvg-id="ttv-hd" tvg-name="TTV HD" tvg-country="Poland" group-title="Poland",TTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3777664371/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-seriale" tvg-name="POLSAT SERIALE" tvg-country="Poland" group-title="Poland",POLSAT SERIALE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2249727134/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-5" tvg-name="CANAL+ SPORT 5" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1291381077/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Poland" group-title="Poland",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1682357493/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-news-hd" tvg-name="POLSAT SPORT NEWS HD" tvg-country="Poland" group-title="Poland",POLSAT SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1366223122/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-extra" tvg-name="POLSAT SPORT EXTRA" tvg-country="Poland" group-title="Poland",POLSAT SPORT EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2759134262/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport" tvg-name="CANAL+ SPORT" tvg-country="Poland" group-title="Poland",CANAL+ SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1881505779/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat" tvg-name="POLSAT" tvg-country="Poland" group-title="Poland",POLSAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/899596284/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-country="Poland" group-title="Poland",NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3673566291/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-film" tvg-name="CANAL+ FILM" tvg-country="Poland" group-title="Poland",CANAL+ FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4089386856/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-turbo-hd" tvg-name="TVN TURBO HD" tvg-country="Poland" group-title="Poland",TVN TURBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2456969730/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-6" tvg-name="TV 6" tvg-country="Poland" group-title="Poland",TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/733582603/index.m3u8
+
+#EXTINF:-1 tvg-id="fokus-tv" tvg-name="FOKUS TV" tvg-country="Poland" group-title="Poland",FOKUS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2669393240/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-2-hd" tvg-name="CANAL SPORT 2 HD" tvg-country="Poland" group-title="Poland",CANAL SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2875517467/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-4" tvg-name="CANAL+ SPORT 4" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1986659225/index.m3u8
+
+#EXTINF:-1 tvg-id="fight-klub" tvg-name="FIGHT KLUB" tvg-country="Poland" group-title="Poland",FIGHT KLUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4222051750/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-news" tvg-name="POLSAT NEWS" tvg-country="Poland" group-title="Poland",POLSAT NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2199275678/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-2-hd" tvg-name="POLSAT 2 HD" tvg-country="Poland" group-title="Poland",POLSAT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4066544687/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-1" tvg-name="POLSAT SPORT PREMIUM 1" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3658778005/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-7-hd" tvg-name="TVN 7 HD" tvg-country="Poland" group-title="Poland",TVN 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1994391380/index.m3u8
+
+#EXTINF:-1 tvg-id="ttv" tvg-name="TTV" tvg-country="Poland" group-title="Poland",TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/467088896/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-film" tvg-name="POLSAT FILM" tvg-country="Poland" group-title="Poland",POLSAT FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/563274468/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-4" tvg-name="CANAL+ SPORT 4" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1905836261/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-2" tvg-name="CANAL+ SPORT 2" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4180342329/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-style" tvg-name="TVN STYLE" tvg-country="Poland" group-title="Poland",TVN STYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1967529105/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-4" tvg-name="TV 4" tvg-country="Poland" group-title="Poland",TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1366935147/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2-hd" tvg-name="ELEVEN SPORTS 2 HD" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3044497744/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-2" tvg-name="CANAL+ SPORT 2" tvg-country="Poland" group-title="Poland",CANAL+ SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4275582277/index.m3u8
+
+#EXTINF:-1 tvg-id="wpolscepl" tvg-name="WPOLSCE.PL" tvg-country="Poland" group-title="Poland",WPOLSCE.PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2900010789/index.m3u8
+
+#EXTINF:-1 tvg-id="super-polsat" tvg-name="SUPER POLSAT" tvg-country="Poland" group-title="Poland",SUPER POLSAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1091671947/index.m3u8
+
+#EXTINF:-1 tvg-id="romance" tvg-name="ROMANCE" tvg-country="Poland" group-title="Poland",ROMANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4061716033/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-extra-hd" tvg-name="POLSAT SPORT EXTRA HD" tvg-country="Poland" group-title="Poland",POLSAT SPORT EXTRA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1624535514/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1-hd" tvg-name="ELEVEN SPORTS 1 HD" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1006132915/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-2" tvg-name="POLSAT SPORT 2" tvg-country="Poland" group-title="Poland",POLSAT SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/987995902/index.m3u8
+
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-country="Poland" group-title="Poland",FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1259985177/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-lifestyle" tvg-name="BBC LIFESTYLE" tvg-country="Poland" group-title="Poland",BBC LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/520666681/index.m3u8
+
+#EXTINF:-1 tvg-id="zoom-tv" tvg-name="ZOOM TV" tvg-country="Poland" group-title="Poland",ZOOM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/112021652/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-2" tvg-name="POLSAT SPORT PREMIUM 2" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3696826160/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo2-hd" tvg-name="HBO2 HD" tvg-country="Poland" group-title="Poland",HBO2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/512566032/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="KINO TV" tvg-country="Poland" group-title="Poland",KINO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3835728502/index.m3u8
+
+#EXTINF:-1 tvg-id="novela-tv" tvg-name="NOVELA TV" tvg-country="Poland" group-title="Poland",NOVELA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3208882953/index.m3u8
+
+#EXTINF:-1 tvg-id="nowa-tv" tvg-name="NOWA TV" tvg-country="Poland" group-title="Poland",NOWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2365630571/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Poland" group-title="Poland",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/157522257/index.m3u8
+
+#EXTINF:-1 tvg-id="ale-kino-hd" tvg-name="ALE KINO HD" tvg-country="Poland" group-title="Poland",ALE KINO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/886061076/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geo" tvg-name="NATIONAL GEO" tvg-country="Poland" group-title="Poland",NATIONAL GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/452217107/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Poland" group-title="Poland",TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1575848975/index.m3u8
+
+#EXTINF:-1 tvg-id="dtx" tvg-name="DTX" tvg-country="Poland" group-title="Poland",DTX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1231867576/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-news-2" tvg-name="POLSAT NEWS 2" tvg-country="Poland" group-title="Poland",POLSAT NEWS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1129454481/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="COMEDY CENTRAL EXTRA" tvg-country="Poland" group-title="Poland",COMEDY CENTRAL EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1707756539/index.m3u8
+
+#EXTINF:-1 tvg-id="tvc" tvg-name="TVC" tvg-country="Poland" group-title="Poland",TVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4263481337/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-dance" tvg-name="4FUN DANCE" tvg-country="Poland" group-title="Poland",4FUN DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/142003077/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-style-hd" tvg-name="TVN STYLE HD" tvg-country="Poland" group-title="Poland",TVN STYLE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2256955616/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-sport-hd" tvg-name="CANAL SPORT HD" tvg-country="Poland" group-title="Poland",CANAL SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/327312955/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="DISNEY JUNIOR" tvg-country="Poland" group-title="Poland",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3236761715/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-people" tvg-name="NAT GEO PEOPLE" tvg-country="Poland" group-title="Poland",NAT GEO PEOPLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3490886422/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sports" tvg-name="EXTREME SPORTS" tvg-country="Poland" group-title="Poland",EXTREME SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/965395960/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-abc" tvg-name="TVP ABC" tvg-country="Poland" group-title="Poland",TVP ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/848096719/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-music-hd" tvg-name="POLSAT MUSIC HD" tvg-country="Poland" group-title="Poland",POLSAT MUSIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4033823883/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-fabula" tvg-name="TVN FABULA" tvg-country="Poland" group-title="Poland",TVN FABULA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/912980992/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-tv" tvg-name="4FUN TV" tvg-country="Poland" group-title="Poland",4FUN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2588849148/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Poland" group-title="Poland",VIASAT NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4132586673/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-news" tvg-name="POLSAT SPORT NEWS" tvg-country="Poland" group-title="Poland",POLSAT SPORT NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2683658971/index.m3u8
+
+#EXTINF:-1 tvg-id="teletoon" tvg-name="TELETOON+" tvg-country="Poland" group-title="Poland",TELETOON+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1259787279/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-news" tvg-name="POLSAT SPORT NEWS" tvg-country="Poland" group-title="Poland",POLSAT SPORT NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2350624386/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-gold-hits" tvg-name="4FUN GOLD HITS" tvg-country="Poland" group-title="Poland",4FUN GOLD HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1043321365/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-2-hd" tvg-name="TVP 2 HD" tvg-country="Poland" group-title="Poland",TVP 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/123224171/index.m3u8
+
+#EXTINF:-1 tvg-id="novelas" tvg-name="NOVELAS+" tvg-country="Poland" group-title="Poland",NOVELAS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1939536799/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-film-hd" tvg-name="POLSAT FILM HD" tvg-country="Poland" group-title="Poland",POLSAT FILM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/789572619/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-romans" tvg-name="POLSAT ROMANS" tvg-country="Poland" group-title="Poland",POLSAT ROMANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/777651930/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP SPORT" tvg-country="Poland" group-title="Poland",TVP SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1843300747/index.m3u8
+
+#EXTINF:-1 tvg-id="tv4-hd" tvg-name="TV4 HD" tvg-country="Poland" group-title="Poland",TV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1561467443/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-polska" tvg-name="KINO POLSKA" tvg-country="Poland" group-title="Poland",KINO POLSKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3145212115/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-country="Poland" group-title="Poland",HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1620501998/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-polonia" tvg-name="TVP POLONIA" tvg-country="Poland" group-title="Poland",TVP POLONIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1540833853/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-cafe-hd" tvg-name="POLSAT CAFE HD" tvg-country="Poland" group-title="Poland",POLSAT CAFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/189043094/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-hd" tvg-name="POLSAT SPORT HD" tvg-country="Poland" group-title="Poland",POLSAT SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/23614419/index.m3u8
+
+#EXTINF:-1 tvg-id="romance-tv" tvg-name="ROMANCE TV" tvg-country="Poland" group-title="Poland",ROMANCE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2937050383/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-rozrywka" tvg-name="TVP ROZRYWKA" tvg-country="Poland" group-title="Poland",TVP ROZRYWKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/159853717/index.m3u8
+
+#EXTINF:-1 tvg-id="history-2-hd" tvg-name="HISTORY 2 HD" tvg-country="Poland" group-title="Poland",HISTORY 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2164851526/index.m3u8
+
+#EXTINF:-1 tvg-id="13-ulica-hd" tvg-name="13 ULICA HD" tvg-country="Poland" group-title="Poland",13 ULICA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3971783236/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-3" tvg-name="TVP 3" tvg-country="Poland" group-title="Poland",TVP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3064723583/index.m3u8
+
+#EXTINF:-1 tvg-id="super-polsat" tvg-name="SUPER POLSAT" tvg-country="Poland" group-title="Poland",SUPER POLSAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3067191309/index.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-country="Poland" group-title="Poland",HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/686503148/index.m3u8
+
+#EXTINF:-1 tvg-id="puls-2" tvg-name="PULS 2" tvg-country="Poland" group-title="Poland",PULS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1567907399/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-1" tvg-name="POLSAT SPORT PREMIUM 1" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2616815072/index.m3u8
+
+#EXTINF:-1 tvg-id="history-2" tvg-name="HISTORY 2" tvg-country="Poland" group-title="Poland",HISTORY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/132683279/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-fabula" tvg-name="TVN FABULA" tvg-country="Poland" group-title="Poland",TVN FABULA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2122419427/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-channel" tvg-name="PARAMOUNT CHANNEL" tvg-country="Poland" group-title="Poland",PARAMOUNT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3390498693/index.m3u8
+
+#EXTINF:-1 tvg-id="warner-tv" tvg-name="WARNER TV" tvg-country="Poland" group-title="Poland",WARNER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1934548163/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Poland" group-title="Poland",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1133813399/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Poland" group-title="Poland",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1548922372/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Poland" group-title="Poland",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/64410831/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="ELEVEN SPORTS 1" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4171204086/index.m3u8
+
+#EXTINF:-1 tvg-id="studiomed-tv" tvg-name="STUDIOMED TV" tvg-country="Poland" group-title="Poland",STUDIOMED TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2289661580/index.m3u8
+
+#EXTINF:-1 tvg-id="tvs" tvg-name="TVS" tvg-country="Poland" group-title="Poland",TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2667518075/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Poland" group-title="Poland",NICK JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4176312110/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Poland" group-title="Poland",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/386098181/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-play" tvg-name="POLSAT PLAY" tvg-country="Poland" group-title="Poland",POLSAT PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3766540147/index.m3u8
+
+#EXTINF:-1 tvg-id="nowa-tv" tvg-name="NOWA TV" tvg-country="Poland" group-title="Poland",NOWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1479873275/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-1" tvg-name="POLSAT SPORT PREMIUM 1" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2227145856/index.m3u8
+
+#EXTINF:-1 tvg-id="stopklatka-tv" tvg-name="STOPKLATKA TV" tvg-country="Poland" group-title="Poland",STOPKLATKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1291874011/index.m3u8
+
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-country="Poland" group-title="Poland",EPIC DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/711982265/index.m3u8
+
+#EXTINF:-1 tvg-id="disco-polo-music" tvg-name="DISCO POLO MUSIC" tvg-country="Poland" group-title="Poland",DISCO POLO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/81805306/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-history" tvg-name="TVP HISTORY" tvg-country="Poland" group-title="Poland",TVP HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2409796230/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-hd" tvg-name="POLSAT SPORT HD" tvg-country="Poland" group-title="Poland",POLSAT SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4127619445/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-premium" tvg-name="CANAL+ PREMIUM" tvg-country="Poland" group-title="Poland",CANAL+ PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1964915714/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-hd" tvg-name="DISCOVERY HD" tvg-country="Poland" group-title="Poland",DISCOVERY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/834680150/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Poland" group-title="Poland",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2907107187/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-cafe" tvg-name="POLSAT CAFE" tvg-country="Poland" group-title="Poland",POLSAT CAFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3413559872/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="ELEVEN SPORTS 2" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2894442672/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-polska-hd" tvg-name="KINO POLSKA HD" tvg-country="Poland" group-title="Poland",KINO POLSKA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3073941806/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="ELEVEN SPORTS 1" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3945122400/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-rozrywka" tvg-name="TVP ROZRYWKA" tvg-country="Poland" group-title="Poland",TVP ROZRYWKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4266072851/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo3-hd" tvg-name="HBO3 HD" tvg-country="Poland" group-title="Poland",HBO3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3525780366/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="ELEVEN SPORTS 3" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2447743232/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-1-hd" tvg-name="CANAL 1 HD" tvg-country="Poland" group-title="Poland",CANAL 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4278133345/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME+ INVESTIGATION" tvg-country="Poland" group-title="Poland",CRIME+ INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3453122284/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-kultura" tvg-name="TVP KULTURA" tvg-country="Poland" group-title="Poland",TVP KULTURA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3415541634/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-country="Poland" group-title="Poland",EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2540520222/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Poland" group-title="Poland",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/606798235/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Poland" group-title="Poland",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3387518871/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-3-katowice" tvg-name="TVP 3 KATOWICE" tvg-country="Poland" group-title="Poland",TVP 3 KATOWICE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1292816150/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-zycie-jak-w-bajce" tvg-name="TVN ZYCIE JAK W BAJCE" tvg-country="Poland" group-title="Poland",TVN ZYCIE JAK W BAJCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/997076381/index.m3u8
+
+#EXTINF:-1 tvg-id="id-hd" tvg-name="ID HD" tvg-country="Poland" group-title="Poland",ID HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2525432524/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-1" tvg-name="CANAL+ 1" tvg-country="Poland" group-title="Poland",CANAL+ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1593221760/index.m3u8
+
+#EXTINF:-1 tvg-id="fokus-tv" tvg-name="FOKUS TV" tvg-country="Poland" group-title="Poland",FOKUS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/634360804/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-country="Poland" group-title="Poland",CINEMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/932863820/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Poland" group-title="Poland",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2241163706/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Poland" group-title="Poland",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2384808701/index.m3u8
+
+#EXTINF:-1 tvg-id="w-polsce" tvg-name="W POLSCE" tvg-country="Poland" group-title="Poland",W POLSCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1822618245/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-domo" tvg-name="CANAL+ DOMO" tvg-country="Poland" group-title="Poland",CANAL+ DOMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1675011562/index.m3u8
+
+#EXTINF:-1 tvg-id="scifi-hd" tvg-name="SCIFI HD" tvg-country="Poland" group-title="Poland",SCIFI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2845384359/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-3-opole" tvg-name="TVP 3 OPOLE" tvg-country="Poland" group-title="Poland",TVP 3 OPOLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/757190268/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-extra" tvg-name="POLSAT SPORT EXTRA" tvg-country="Poland" group-title="Poland",POLSAT SPORT EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4242508776/index.m3u8
+
+#EXTINF:-1 tvg-id="zoom-tv" tvg-name="ZOOM TV" tvg-country="Poland" group-title="Poland",ZOOM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3550013956/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-dance" tvg-name="4FUN DANCE" tvg-country="Poland" group-title="Poland",4FUN DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1084078950/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-tv-hd" tvg-name="KINO TV HD" tvg-country="Poland" group-title="Poland",KINO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2036931513/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth-hd" tvg-name="BBC EARTH HD" tvg-country="Poland" group-title="Poland",BBC EARTH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/44931895/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="ELEVEN SPORTS 2" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3208642342/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-brit-polska" tvg-name="BBC BRIT POLSKA" tvg-country="Poland" group-title="Poland",BBC BRIT POLSKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3946902235/index.m3u8
+
+#EXTINF:-1 tvg-id="stopklatka-tv" tvg-name="STOPKLATKA TV" tvg-country="Poland" group-title="Poland",STOPKLATKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/52562107/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-viasat-history-hd" tvg-name="POLSAT VIASAT HISTORY HD" tvg-country="Poland" group-title="Poland",POLSAT VIASAT HISTORY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1727851845/index.m3u8
+
+#EXTINF:-1 tvg-id="tele-5" tvg-name="TELE 5" tvg-country="Poland" group-title="Poland",TELE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3400515310/index.m3u8
+
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FIGHTBOX HD" tvg-country="Poland" group-title="Poland",FIGHTBOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3248165205/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-viasat-explore-hd" tvg-name="POLSAT VIASAT EXPLORE HD" tvg-country="Poland" group-title="Poland",POLSAT VIASAT EXPLORE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4029165915/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Poland" group-title="Poland",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2733166280/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="ELEVEN SPORTS 3" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2187318934/index.m3u8
+
+#EXTINF:-1 tvg-id="polo-tv" tvg-name="POLO TV" tvg-country="Poland" group-title="Poland",POLO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1251969336/index.m3u8
+
+#EXTINF:-1 tvg-id="puls-2" tvg-name="PULS 2" tvg-country="Poland" group-title="Poland",PULS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3651807489/index.m3u8
+
+#EXTINF:-1 tvg-id="epic-drama-hd" tvg-name="EPIC DRAMA HD" tvg-country="Poland" group-title="Poland",EPIC DRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/368461185/index.m3u8
+
+#EXTINF:-1 tvg-id="planete-hd" tvg-name="PLANETE HD" tvg-country="Poland" group-title="Poland",PLANETE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/992745062/index.m3u8
+
+#EXTINF:-1 tvg-id="stars-tv" tvg-name="STARS TV" tvg-country="Poland" group-title="Poland",STARS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4113862971/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-trwam" tvg-name="TV TRWAM" tvg-country="Poland" group-title="Poland",TV TRWAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/900795441/index.m3u8
+
+#EXTINF:-1 tvg-id="wp" tvg-name="WP" tvg-country="Poland" group-title="Poland",WP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1389738905/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-doku" tvg-name="POLSAT DOKU" tvg-country="Poland" group-title="Poland",POLSAT DOKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1307720792/index.m3u8
+
+#EXTINF:-1 tvg-id="ale-kino" tvg-name="ALE KINO+" tvg-country="Poland" group-title="Poland",ALE KINO+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3945354960/index.m3u8
+
+#EXTINF:-1 tvg-id="vod-205" tvg-name="VOD 205" tvg-country="Poland" group-title="Poland",VOD 205
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2911870530/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIASAT EXPLORE" tvg-country="Poland" group-title="Poland",VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3187437518/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-3" tvg-name="POLSAT SPORT PREMIUM 3" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2698303221/index.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-country="Poland" group-title="Poland",FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3085053385/index.m3u8
+
+#EXTINF:-1 tvg-id="trace-tv" tvg-name="TRACE TV" tvg-country="Poland" group-title="Poland",TRACE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3533896405/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-history" tvg-name="DISCOVERY HISTORY" tvg-country="Poland" group-title="Poland",DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3481646151/index.m3u8
+
+#EXTINF:-1 tvg-id="planete" tvg-name="PLANETE+" tvg-country="Poland" group-title="Poland",PLANETE+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3075534580/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD" tvg-country="Poland" group-title="Poland",DISCOVERY SCIENCE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3354385706/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-jim-jam" tvg-name="POLSAT JIM JAM" tvg-country="Poland" group-title="Poland",POLSAT JIM JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2086273015/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-film-hd" tvg-name="CANAL FILM HD" tvg-country="Poland" group-title="Poland",CANAL FILM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1926452306/index.m3u8
+
+#EXTINF:-1 tvg-id="active-family" tvg-name="ACTIVE FAMILY" tvg-country="Poland" group-title="Poland",ACTIVE FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3826931887/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-doku-hd" tvg-name="POLSAT DOKU HD" tvg-country="Poland" group-title="Poland",POLSAT DOKU HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2973917914/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3-hd" tvg-name="ELEVEN SPORTS 3 HD" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2044549582/index.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Poland" group-title="Poland",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2790585591/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-life-polska" tvg-name="DISCOVERY LIFE POLSKA" tvg-country="Poland" group-title="Poland",DISCOVERY LIFE POLSKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/771924147/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-play-hd" tvg-name="POLSAT PLAY HD" tvg-country="Poland" group-title="Poland",POLSAT PLAY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2262561089/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-polska-muzyka" tvg-name="KINO POLSKA MUZYKA" tvg-country="Poland" group-title="Poland",KINO POLSKA MUZYKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2554778478/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Poland" group-title="Poland",VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2378671303/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-family" tvg-name="CANAL+ FAMILY" tvg-country="Poland" group-title="Poland",CANAL+ FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3901320846/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-country="Poland" group-title="Poland",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1539172891/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-historia" tvg-name="TVP HISTORIA" tvg-country="Poland" group-title="Poland",TVP HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3673567373/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-kultura" tvg-name="TVP KULTURA" tvg-country="Poland" group-title="Poland",TVP KULTURA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3100696434/index.m3u8
+
+#EXTINF:-1 tvg-id="ci-polsat-hd" tvg-name="CI POLSAT HD" tvg-country="Poland" group-title="Poland",CI POLSAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/995858220/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc-hd" tvg-name="TLC HD" tvg-country="Poland" group-title="Poland",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3261680213/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Poland" group-title="Poland",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/424355883/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-2" tvg-name="POLSAT SPORT PREMIUM 2" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4175341915/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-90s" tvg-name="MTV 90S" tvg-country="Poland" group-title="Poland",MTV 90S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1767185202/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Poland" group-title="Poland",AXN BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1005418743/index.m3u8
+
+#EXTINF:-1 tvg-id="13-ulica" tvg-name="13 ULICA" tvg-country="Poland" group-title="Poland",13 ULICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1699787152/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-family-hd" tvg-name="CANAL FAMILY HD" tvg-country="Poland" group-title="Poland",CANAL FAMILY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3412671176/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Poland" group-title="Poland",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/683480287/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-2-hd" tvg-name="CINEMAX 2 HD" tvg-country="Poland" group-title="Poland",CINEMAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1474710776/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-comedy" tvg-name="FOX COMEDY" tvg-country="Poland" group-title="Poland",FOX COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1305944181/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-spin-hd" tvg-name="AXN SPIN HD" tvg-country="Poland" group-title="Poland",AXN SPIN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3410155067/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="ANIMAL PLANET HD" tvg-country="Poland" group-title="Poland",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1537256341/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-viasat-nature-hd" tvg-name="POLSAT VIASAT NATURE HD" tvg-country="Poland" group-title="Poland",POLSAT VIASAT NATURE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3569434675/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-seriale" tvg-name="CANAL+ SERIALE" tvg-country="Poland" group-title="Poland",CANAL+ SERIALE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1109636901/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-9-fhd" tvg-name="CINEMAX POLAND 9 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 9 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1370117670/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-seriale-hd" tvg-name="CANAL SERIALE HD" tvg-country="Poland" group-title="Poland",CANAL SERIALE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/624101167/index.m3u8
+
+#EXTINF:-1 tvg-id="sci-fi" tvg-name="SCI-FI" tvg-country="Poland" group-title="Poland",SCI-FI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1230975346/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-15-fhd" tvg-name="CINEMAX POLAND 15 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 15 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3204445278/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel-hd" tvg-name="DISNEY CHANNEL HD" tvg-country="Poland" group-title="Poland",DISNEY CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4266326081/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-rodzina" tvg-name="POLSAT RODZINA" tvg-country="Poland" group-title="Poland",POLSAT RODZINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4143781640/index.m3u8
+
+#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-country="Poland" group-title="Poland",E!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/961489161/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-1-fhd" tvg-name="CINEMAX POLAND 1 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3933402174/index.m3u8
+
+#EXTINF:-1 tvg-id="vod-202" tvg-name="VOD 202" tvg-country="Poland" group-title="Poland",VOD 202
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/531579474/index.m3u8
+
+#EXTINF:-1 tvg-id="polonia-1" tvg-name="POLONIA 1" tvg-country="Poland" group-title="Poland",POLONIA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3249184013/index.m3u8
+
+#EXTINF:-1 tvg-id="power-tv" tvg-name="POWER TV" tvg-country="Poland" group-title="Poland",POWER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/566681293/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Poland" group-title="Poland",CBS REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1553020901/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-dokument" tvg-name="TVP DOKUMENT" tvg-country="Poland" group-title="Poland",TVP DOKUMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3067271393/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-country="Poland" group-title="Poland",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3364167311/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-fight-hd" tvg-name="POLSAT SPORT FIGHT HD" tvg-country="Poland" group-title="Poland",POLSAT SPORT FIGHT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3105781098/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-news-2" tvg-name="POLSAT NEWS 2" tvg-country="Poland" group-title="Poland",POLSAT NEWS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/225476081/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-1" tvg-name="ELEVEN SPORT 1" tvg-country="Poland" group-title="Poland",ELEVEN SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2591735451/index.m3u8
+
+#EXTINF:-1 tvg-id="vox-music-tv" tvg-name="VOX MUSIC TV" tvg-country="Poland" group-title="Poland",VOX MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2081392984/index.m3u8
+
+#EXTINF:-1 tvg-id="wp-tv" tvg-name="WP TV" tvg-country="Poland" group-title="Poland",WP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3578999179/index.m3u8
+
+#EXTINF:-1 tvg-id="domo-hd" tvg-name="DOMO HD" tvg-country="Poland" group-title="Poland",DOMO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4174026400/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="POLSAT SPORT FIGHT" tvg-country="Poland" group-title="Poland",POLSAT SPORT FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1905442330/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Poland" group-title="Poland",AXN BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3012481844/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-rodzina" tvg-name="POLSAT RODZINA" tvg-country="Poland" group-title="Poland",POLSAT RODZINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4044346484/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-hd" tvg-name="CINEMAX HD" tvg-country="Poland" group-title="Poland",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2136721351/index.m3u8
+
+#EXTINF:-1 tvg-id="disco-polo-music" tvg-name="DISCO POLO MUSIC" tvg-country="Poland" group-title="Poland",DISCO POLO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1469133702/index.m3u8
+
+#EXTINF:-1 tvg-id="eska-tv-extra" tvg-name="ESKA TV EXTRA" tvg-country="Poland" group-title="Poland",ESKA TV EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1570023378/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Poland" group-title="Poland",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1567511198/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-xd" tvg-name="DISNEY XD" tvg-country="Poland" group-title="Poland",DISNEY XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/99224805/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-12-fhd" tvg-name="CINEMAX POLAND 12 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 12 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3667827095/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-dokument" tvg-name="CANAL+ DOKUMENT" tvg-country="Poland" group-title="Poland",CANAL+ DOKUMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1784842746/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science-polska" tvg-name="DISCOVERY SCIENCE POLSKA" tvg-country="Poland" group-title="Poland",DISCOVERY SCIENCE POLSKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1460460808/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-17-fhd" tvg-name="CINEMAX POLAND 17 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 17 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2416565464/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-13-fhd" tvg-name="CINEMAX POLAND 13 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 13 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3454373332/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-games" tvg-name="POLSAT GAMES" tvg-country="Poland" group-title="Poland",POLSAT GAMES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4004004063/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-18-fhd" tvg-name="CINEMAX POLAND 18 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 18 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1336939273/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-10-fhd" tvg-name="CINEMAX POLAND 10 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 10 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4100501777/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-turbo-xtra" tvg-name="DISCOVERY TURBO XTRA" tvg-country="Poland" group-title="Poland",DISCOVERY TURBO XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/903422160/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Poland" group-title="Poland",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/518977987/index.m3u8
+
+#EXTINF:-1 tvg-id="sundance-hd" tvg-name="SUNDANCE HD" tvg-country="Poland" group-title="Poland",SUNDANCE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3165750608/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-people-hd" tvg-name="NAT GEO PEOPLE HD" tvg-country="Poland" group-title="Poland",NAT GEO PEOPLE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3276516180/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-19-fhd" tvg-name="CINEMAX POLAND 19 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 19 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1489700682/index.m3u8
+
+#EXTINF:-1 tvg-id="vox-music-tv" tvg-name="VOX MUSIC TV" tvg-country="Poland" group-title="Poland",VOX MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2345647838/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-historia" tvg-name="DISCOVERY HISTORIA" tvg-country="Poland" group-title="Poland",DISCOVERY HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2579453397/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Poland" group-title="Poland",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/602326565/index.m3u8
+
+#EXTINF:-1 tvg-id="fight-box" tvg-name="FIGHT BOX" tvg-country="Poland" group-title="Poland",FIGHT BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1370102918/index.m3u8
+
+#EXTINF:-1 tvg-id="eska-tv" tvg-name="ESKA TV" tvg-country="Poland" group-title="Poland",ESKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3645374252/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network-hd" tvg-name="CARTOON NETWORK HD" tvg-country="Poland" group-title="Poland",CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/819040084/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-kuchnia" tvg-name="CANAL+ KUCHNIA" tvg-country="Poland" group-title="Poland",CANAL+ KUCHNIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1437336181/index.m3u8
+
+#EXTINF:-1 tvg-id="kuchnia-hd" tvg-name="KUCHNIA HD" tvg-country="Poland" group-title="Poland",KUCHNIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/77576482/index.m3u8
+
+#EXTINF:-1 tvg-id="metro" tvg-name="METRO" tvg-country="Poland" group-title="Poland",METRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2070422781/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-abc" tvg-name="TVP ABC" tvg-country="Poland" group-title="Poland",TVP ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3887683423/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-europa-hd" tvg-name="CBS EUROPA HD" tvg-country="Poland" group-title="Poland",CBS EUROPA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3350461588/index.m3u8
+
+#EXTINF:-1 tvg-id="food-network-hd" tvg-name="FOOD NETWORK HD" tvg-country="Poland" group-title="Poland",FOOD NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1662398623/index.m3u8
+
+#EXTINF:-1 tvg-id="fight-klub-hd" tvg-name="FIGHT KLUB HD" tvg-country="Poland" group-title="Poland",FIGHT KLUB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/934337228/index.m3u8
+
+#EXTINF:-1 tvg-id="cbeebies" tvg-name="CBEEBIES" tvg-country="Poland" group-title="Poland",CBEEBIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3497040704/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-europa" tvg-name="CBS EUROPA" tvg-country="Poland" group-title="Poland",CBS EUROPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1257087524/index.m3u8
+
+#EXTINF:-1 tvg-id="teletoon-hd" tvg-name="TELETOON HD" tvg-country="Poland" group-title="Poland",TELETOON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/835101687/index.m3u8
+
+#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Poland" group-title="Poland",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/669937463/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-hd" tvg-name="AXN HD" tvg-country="Poland" group-title="Poland",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1774650965/index.m3u8
+
+#EXTINF:-1 tvg-id="superstacja" tvg-name="SUPERSTACJA" tvg-country="Poland" group-title="Poland",SUPERSTACJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4281111174/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-7-fhd" tvg-name="CINEMAX POLAND 7 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2573766068/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-6-fhd" tvg-name="CINEMAX POLAND 6 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 6 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2383649271/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-3-warszawa" tvg-name="TVP 3 WARSZAWA" tvg-country="Poland" group-title="Poland",TVP 3 WARSZAWA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3336246194/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Poland" group-title="Poland",AXN WHITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3422335766/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-music" tvg-name="POLSAT MUSIC" tvg-country="Poland" group-title="Poland",POLSAT MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1416917628/index.m3u8
+
+#EXTINF:-1 tvg-id="tvt-zgorzelec" tvg-name="TVT ZGORZELEC" tvg-country="Poland" group-title="Poland",TVT ZGORZELEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2163207394/index.m3u8
+
+#EXTINF:-1 tvg-id="adventure" tvg-name="ADVENTURE" tvg-country="Poland" group-title="Poland",ADVENTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3158654008/index.m3u8
+
+#EXTINF:-1 tvg-id="jimjam-polsat" tvg-name="JIMJAM POLSAT" tvg-country="Poland" group-title="Poland",JIMJAM POLSAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2371007314/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Poland" group-title="Poland",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/948648866/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-dokument-hd" tvg-name="CANAL DOKUMENT HD" tvg-country="Poland" group-title="Poland",CANAL DOKUMENT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2812394681/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-8-fhd" tvg-name="CINEMAX POLAND 8 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 8 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1188119141/index.m3u8
+
+#EXTINF:-1 tvg-id="pvod" tvg-name="PVOD" tvg-country="Poland" group-title="Poland",PVOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/471123342/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-2" tvg-name="ELEVEN SPORT 2" tvg-country="Poland" group-title="Poland",ELEVEN SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3722101835/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sports-hd" tvg-name="EXTREME SPORTS HD" tvg-country="Poland" group-title="Poland",EXTREME SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/151590303/index.m3u8
+
+#EXTINF:-1 tvg-id="red-carpet" tvg-name="RED CARPET" tvg-country="Poland" group-title="Poland",RED CARPET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/572291538/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-comedy" tvg-name="FOX COMEDY" tvg-country="Poland" group-title="Poland",FOX COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/87838870/index.m3u8
+
+#EXTINF:-1 tvg-id="atm-rozrywka-tv" tvg-name="ATM ROZRYWKA TV" tvg-country="Poland" group-title="Poland",ATM ROZRYWKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/353869275/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-3" tvg-name="ELEVEN SPORT 3" tvg-country="Poland" group-title="Poland",ELEVEN SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3770347003/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-3-fhd" tvg-name="CINEMAX POLAND 3 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3297041592/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-14-fhd" tvg-name="CINEMAX POLAND 14 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 14 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2844057629/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-20-fhd" tvg-name="CINEMAX POLAND 20 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 20 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/526322194/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Poland" group-title="Poland",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2201371462/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-polska-muzyka" tvg-name="KINO POLSKA MUZYKA" tvg-country="Poland" group-title="Poland",KINO POLSKA MUZYKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3236713648/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-6-ppv" tvg-name="POLSAT SPORT PREMIUM 6 PPV" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 6 PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/81308083/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-5-fhd" tvg-name="CINEMAX POLAND 5 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3080627506/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-now" tvg-name="CANAL+ NOW" tvg-country="Poland" group-title="Poland",CANAL+ NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1704728504/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-3-ppv" tvg-name="POLSAT SPORT PREMIUM 3 PPV" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 3 PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1313860860/index.m3u8
+
+#EXTINF:-1 tvg-id="fx-comedy" tvg-name="FX COMEDY" tvg-country="Poland" group-title="Poland",FX COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2959297378/index.m3u8
+
+#EXTINF:-1 tvg-id="metro" tvg-name="METRO" tvg-country="Poland" group-title="Poland",METRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3397107594/index.m3u8
+
+#EXTINF:-1 tvg-id="sundance-tv" tvg-name="SUNDANCE TV" tvg-country="Poland" group-title="Poland",SUNDANCE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2713738146/index.m3u8
+
+#EXTINF:-1 tvg-id="starstv" tvg-name="STARS.TV" tvg-country="Poland" group-title="Poland",STARS.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/534760666/index.m3u8
+
+#EXTINF:-1 tvg-id="fight-box-hd" tvg-name="FIGHT BOX HD" tvg-country="Poland" group-title="Poland",FIGHT BOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/911438690/index.m3u8
+
+#EXTINF:-1 tvg-id="eska-tv" tvg-name="ESKA TV" tvg-country="Poland" group-title="Poland",ESKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/208815548/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORT KLUB" tvg-country="Poland" group-title="Poland",SPORT KLUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1618047268/index.m3u8
+
+#EXTINF:-1 tvg-id="biznes-24" tvg-name="BIZNES 24" tvg-country="Poland" group-title="Poland",BIZNES 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2539427397/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-now" tvg-name="CANAL NOW" tvg-country="Poland" group-title="Poland",CANAL NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/391805483/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-life-hd" tvg-name="DISCOVERY LIFE HD" tvg-country="Poland" group-title="Poland",DISCOVERY LIFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2100786133/index.m3u8
+
+#EXTINF:-1 tvg-id="motowizja" tvg-name="MOTOWIZJA" tvg-country="Poland" group-title="Poland",MOTOWIZJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/330534602/index.m3u8
+
+#EXTINF:-1 tvg-id="polo-tv" tvg-name="POLO TV" tvg-country="Poland" group-title="Poland",POLO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2678731688/index.m3u8
+
+#EXTINF:-1 tvg-id="motowizja-hd" tvg-name="MOTOWIZJA HD" tvg-country="Poland" group-title="Poland",MOTOWIZJA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1758414812/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-2-fhd" tvg-name="CINEMAX POLAND 2 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3556755707/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Poland" group-title="Poland",BBC FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2174954643/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-6" tvg-name="POLSAT SPORT PREMIUM 6" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1748261253/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-kujawy" tvg-name="TV KUJAWY" tvg-country="Poland" group-title="Poland",TV KUJAWY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3707264713/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-11-fhd" tvg-name="CINEMAX POLAND 11 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 11 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3809715538/index.m3u8
+
+#EXTINF:-1 tvg-id="minimini-hd" tvg-name="MINIMINI HD" tvg-country="Poland" group-title="Poland",MINIMINI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2305742179/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-games" tvg-name="POLSAT GAMES" tvg-country="Poland" group-title="Poland",POLSAT GAMES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/426276697/index.m3u8
+
+#EXTINF:-1 tvg-id="tbn" tvg-name="TBN" tvg-country="Poland" group-title="Poland",TBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2663910341/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Poland" group-title="Poland",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1863249989/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2-hd" tvg-name="EUROSPORT 2 HD" tvg-country="Poland" group-title="Poland",EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/434259197/index.m3u8
+
+#EXTINF:-1 tvg-id="4funtv" tvg-name="4FUN.TV" tvg-country="Poland" group-title="Poland",4FUN.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/524579377/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sports-channel" tvg-name="EXTREME SPORTS CHANNEL" tvg-country="Poland" group-title="Poland",EXTREME SPORTS CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3814338240/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality-hd" tvg-name="CBS REALITY HD" tvg-country="Poland" group-title="Poland",CBS REALITY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1267459745/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Poland" group-title="Poland",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3503957951/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="ELEVEN SPORTS 4" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/813632134/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORT KLUB" tvg-country="Poland" group-title="Poland",SPORT KLUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/681181639/index.m3u8
+
+#EXTINF:-1 tvg-id="active-family" tvg-name="ACTIVE FAMILY" tvg-country="Poland" group-title="Poland",ACTIVE FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2855812815/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Poland" group-title="Poland",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1352867541/index.m3u8
+
+#EXTINF:-1 tvg-id="nsport" tvg-name="NSPORT" tvg-country="Poland" group-title="Poland",NSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3439028847/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4-hd" tvg-name="ELEVEN SPORTS 4 HD" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1930973399/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-4" tvg-name="POLSAT SPORT PREMIUM 4" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/317983461/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-5-ppv" tvg-name="POLSAT SPORT PREMIUM 5 PPV" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 5 PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1029018998/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-torun" tvg-name="TV TORUN" tvg-country="Poland" group-title="Poland",TV TORUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1607482673/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-16-fhd" tvg-name="CINEMAX POLAND 16 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 16 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2272446619/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel-hd" tvg-name="TRAVEL CHANNEL HD" tvg-country="Poland" group-title="Poland",TRAVEL CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2774595223/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-5" tvg-name="POLSAT SPORT PREMIUM 5" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/798237525/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-poland-4-fhd" tvg-name="CINEMAX POLAND 4 FHD" tvg-country="Poland" group-title="Poland",CINEMAX POLAND 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2699407729/index.m3u8
+
+#EXTINF:-1 tvg-id="tvr" tvg-name="TVR" tvg-country="Poland" group-title="Poland",TVR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/701164508/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN SPIN" tvg-country="Poland" group-title="Poland",AXN SPIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/870571372/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Poland" group-title="Poland",E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3489370267/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="ELEVEN SPORTS 4" tvg-country="Poland" group-title="Poland",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/600130832/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-premium-4-ppv" tvg-name="POLSAT SPORT PREMIUM 4 PPV" tvg-country="Poland" group-title="Poland",POLSAT SPORT PREMIUM 4 PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/707690805/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP SPORT" tvg-country="Poland" group-title="Poland",TVP SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3854377544/index.m3u8
+
+#EXTINF:-1 tvg-id="nuta-tv" tvg-name="NUTA TV" tvg-country="Poland" group-title="Poland",NUTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2214692239/index.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-kids" tvg-name="DA VINCI KIDS" tvg-country="Poland" group-title="Poland",DA VINCI KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3663650028/index.m3u8
+
+#EXTINF:-1 tvg-id="golf-channel-hd" tvg-name="GOLF CHANNEL HD" tvg-country="Poland" group-title="Poland",GOLF CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4240372536/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-plus" tvg-name="TV PLUS" tvg-country="Poland" group-title="Poland",TV PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1906015211/index.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci" tvg-name="DA VINCI" tvg-country="Poland" group-title="Poland",DA VINCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1100598548/index.m3u8
+
+#EXTINF:-1 tvg-id="golf-channel" tvg-name="GOLF CHANNEL" tvg-country="Poland" group-title="Poland",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3543553982/index.m3u8
+
+#EXTINF:-1 tvg-id="eska-rock-tv" tvg-name="ESKA ROCK TV" tvg-country="Poland" group-title="Poland",ESKA ROCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1755222109/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-okazje" tvg-name="TV OKAZJE" tvg-country="Poland" group-title="Poland",TV OKAZJE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2482690292/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-hd" tvg-name="CANAL HD" tvg-country="Poland" group-title="Poland",CANAL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/867185230/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-regionalna" tvg-name="TV REGIONALNA" tvg-country="Poland" group-title="Poland",TV REGIONALNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3409783061/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Poland" group-title="Poland",AXN WHITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1134500053/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-okazje" tvg-name="TV OKAZJE" tvg-country="Poland" group-title="Poland",TV OKAZJE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/463041335/index.m3u8
+
+#EXTINF:-1 tvg-id="home-tv" tvg-name="HOME TV" tvg-country="Poland" group-title="Poland",HOME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3625034813/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-kids" tvg-name="4FUN KIDS" tvg-country="Poland" group-title="Poland",4FUN KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1036844137/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Poland" group-title="Poland",BBC FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/163612496/index.m3u8
+
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="NICKTOONS" tvg-country="Poland" group-title="Poland",NICKTOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2228696585/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime-hd" tvg-name="LIFETIME HD" tvg-country="Poland" group-title="Poland",LIFETIME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3557114787/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-hd" tvg-name="TNT HD" tvg-country="Poland" group-title="Poland",TNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2598460129/index.m3u8
+
+#EXTINF:-1 tvg-id="eska-tv-extra" tvg-name="ESKA TV EXTRA" tvg-country="Poland" group-title="Poland",ESKA TV EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/330744242/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-country="Poland" group-title="Poland",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3554009237/index.m3u8
+
+#EXTINF:-1 tvg-id="sportklub-hd" tvg-name="SPORTKLUB HD" tvg-country="Poland" group-title="Poland",SPORTKLUB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2627011267/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-polska" tvg-name="MTV POLSKA" tvg-country="Poland" group-title="Poland",MTV POLSKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1426086923/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-rocks" tvg-name="MTV ROCKS" tvg-country="Poland" group-title="Poland",MTV ROCKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/823658581/index.m3u8
+
+#EXTINF:-1 tvg-id="studiomed-tv-hd" tvg-name="STUDIOMED TV HD" tvg-country="Poland" group-title="Poland",STUDIOMED TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1601605182/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Poland" group-title="Poland",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1624250107/index.m3u8
+
+#EXTINF:-1 tvg-id="minimini" tvg-name="MINIMINI+" tvg-country="Poland" group-title="Poland",MINIMINI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1117825618/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-00s" tvg-name="MTV 00S" tvg-country="Poland" group-title="Poland",MTV 00S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4241317601/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang-hd" tvg-name="BOOMERANG HD" tvg-country="Poland" group-title="Poland",BOOMERANG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2261418068/index.m3u8
+
+#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="POLSAT SPORT FIGHT" tvg-country="Poland" group-title="Poland",POLSAT SPORT FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/691550660/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-gold-hits" tvg-name="4FUN GOLD HITS" tvg-country="Poland" group-title="Poland",4FUN GOLD HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/970789225/index.m3u8
+
+#EXTINF:-1 tvg-id="vod-206" tvg-name="VOD 206" tvg-country="Poland" group-title="Poland",VOD 206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3929007250/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-comedy-hd" tvg-name="FOX COMEDY HD" tvg-country="Poland" group-title="Poland",FOX COMEDY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3593975768/index.m3u8
+
+#EXTINF:-1 tvg-id="history-hd" tvg-name="HISTORY HD" tvg-country="Poland" group-title="Poland",HISTORY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2428413220/index.m3u8
+
+#EXTINF:-1 tvg-id="motowizja-hd" tvg-name="MOTOWIZJA HD" tvg-country="Poland" group-title="Poland",MOTOWIZJA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2092513799/index.m3u8
+
+#EXTINF:-1 tvg-id="nsport" tvg-name="NSPORT+" tvg-country="Poland" group-title="Poland",NSPORT+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1861871898/index.m3u8
+
+#EXTINF:-1 tvg-id="golf-channel" tvg-name="GOLF CHANNEL" tvg-country="Poland" group-title="Poland",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/620126264/index.m3u8
+
+#EXTINF:-1 tvg-id="fightklub-hd" tvg-name="FIGHTKLUB HD" tvg-country="Poland" group-title="Poland",FIGHTKLUB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2415572897/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-hd" tvg-name="FOX HD" tvg-country="Poland" group-title="Poland",FOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4184738360/index.m3u8
+
+#EXTINF:-1 tvg-id="eskarock-tv" tvg-name="ESKAROCK TV" tvg-country="Poland" group-title="Poland",ESKAROCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/68131996/index.m3u8
+
+#EXTINF:-1 tvg-id="zest-tv" tvg-name="ZEST TV" tvg-country="Poland" group-title="Poland",ZEST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/948919096/index.m3u8
+
