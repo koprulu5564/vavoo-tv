@@ -65,15 +65,49 @@ def generate_m3u_playlists():
         country = channel.get('country', 'Unknown')
         channels_by_country[country].append(channel)
     
-    # Tüm kanalları içeren m3u
-    generate_m3u_file("all", data, "Tüm Kanallar")
+    # Tüm kanalları içeren m3u (her kanal kendi ülke kategorisinde)
+    generate_all_m3u_file(data, channels_by_country)
     
     # Her ülke için ayrı m3u
     for country, channels in channels_by_country.items():
         filename = country.lower().replace(' ', '-')
-        generate_m3u_file(filename, channels, country)
+        generate_country_m3u_file(filename, channels, country)
 
-def generate_m3u_file(filename, channels, group_title):
+def generate_all_m3u_file(all_channels, channels_by_country):
+    if not all_channels:
+        return
+        
+    m3u_content = '#EXTM3U\n'
+    
+    # Tüm kanalları ülke kategorilerine göre ekle
+    for country, channels in channels_by_country.items():
+        for channel in channels:
+            channel_id = channel.get('id', '')
+            channel_name = channel.get('name', 'Unknown')
+            country = channel.get('country', 'Unknown')
+            
+            # Parantez içeriğini temizle (sadece görünen isim için)
+            display_name = re.sub(r'\s*\([^)]*\)', '', channel_name).strip()
+            
+            # TVG ID oluştur
+            tvg_id = sanitize_tvg_id(channel_name)
+            
+            # Stream URL
+            stream_url = f"https://vavoo.to/play/{channel_id}/index.m3u8"
+            
+            # M3U entry - her kanal kendi ülke kategorisinde
+            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}" tvg-country="{country}" group-title="{country}",{display_name}\n'
+            m3u_content += f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)\n'
+            m3u_content += f'#EXTVLCOPT:http-referer=https://vavoo.to/\n'
+            m3u_content += f'{stream_url}\n\n'
+    
+    # Dosyaya yaz
+    with open("all.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_content)
+    
+    print(f"all.m3u oluşturuldu ({len(all_channels)} kanal)")
+
+def generate_country_m3u_file(filename, channels, country):
     if not channels:
         return
         
@@ -82,7 +116,6 @@ def generate_m3u_file(filename, channels, group_title):
     for channel in channels:
         channel_id = channel.get('id', '')
         channel_name = channel.get('name', 'Unknown')
-        country = channel.get('country', 'Unknown')
         
         # Parantez içeriğini temizle (sadece görünen isim için)
         display_name = re.sub(r'\s*\([^)]*\)', '', channel_name).strip()
@@ -93,8 +126,8 @@ def generate_m3u_file(filename, channels, group_title):
         # Stream URL
         stream_url = f"https://vavoo.to/play/{channel_id}/index.m3u8"
         
-        # M3U entry
-        m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}" tvg-country="{country}" group-title="{group_title}",{display_name}\n'
+        # M3U entry - tüm kanallar aynı ülke kategorisinde
+        m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}" tvg-country="{country}" group-title="{country}",{display_name}\n'
         m3u_content += f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)\n'
         m3u_content += f'#EXTVLCOPT:http-referer=https://vavoo.to/\n'
         m3u_content += f'{stream_url}\n\n'
