@@ -7,7 +7,11 @@ import os
 
 def sanitize_tvg_id(name):
     # Türkçe karakterleri dönüştür
-    name = unicodedata.normalize('NFKD', name).encode('ASCII', 'ignore').decode('ASCII')
+    tr_chars = {'ı': 'i', 'ğ': 'g', 'ü': 'u', 'ş': 's', 'ö': 'o', 'ç': 'c',
+                'İ': 'i', 'Ğ': 'g', 'Ü': 'u', 'Ş': 's', 'Ö': 'o', 'Ç': 'c'}
+    
+    for tr_char, en_char in tr_chars.items():
+        name = name.replace(tr_char, en_char)
     
     # Özel karakterleri ve parantez içeriğini kaldır
     name = re.sub(r'\s*\([^)]*\)', '', name).strip()
@@ -25,18 +29,26 @@ def fetch_data():
     proxy_url = "https://api.codetabs.com/v1/proxy/?quest="
     
     try:
+        print("Ana URL'den veri alınıyor...")
         response = requests.get(primary_url, timeout=10)
         if response.status_code == 200:
+            print("Ana URL başarılı")
             return response.json()
-    except:
-        pass
+        else:
+            print(f"Ana URL hata kodu: {response.status_code}")
+    except Exception as e:
+        print(f"Ana URL hatası: {str(e)}")
     
     try:
+        print("Proxy üzerinden veri alınıyor...")
         response = requests.get(proxy_url + primary_url, timeout=15)
         if response.status_code == 200:
+            print("Proxy başarılı")
             return response.json()
-    except:
-        pass
+        else:
+            print(f"Proxy hata kodu: {response.status_code}")
+    except Exception as e:
+        print(f"Proxy hatası: {str(e)}")
     
     return None
 
