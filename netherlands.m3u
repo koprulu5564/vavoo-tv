@@ -4,25 +4,30 @@
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/887233041/index.m3u8
 
-#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-country="Netherlands" group-title="Netherlands",ESPN 2
+#EXTINF:-1 tvg-id="film-1-premiere" tvg-name="FILM 1 PREMIERE" tvg-country="Netherlands" group-title="Netherlands",FILM 1 PREMIERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/405473735/index.m3u8
+https://vavoo.to/play/2143191607/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-country="Netherlands" group-title="Netherlands",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2540436583/index.m3u8
+
+#EXTINF:-1 tvg-id="film-1-family" tvg-name="FILM 1 FAMILY" tvg-country="Netherlands" group-title="Netherlands",FILM 1 FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3479714514/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-voetbal" tvg-name="ZIGGO SPORT VOETBAL" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT VOETBAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3586469911/index.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-country="Netherlands" group-title="Netherlands",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1484494458/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FOX SPORTS 1" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3636633475/index.m3u8
-
-#EXTINF:-1 tvg-id="espn-1" tvg-name="ESPN 1" tvg-country="Netherlands" group-title="Netherlands",ESPN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1397846137/index.m3u8
 
 #EXTINF:-1 tvg-id="ziggo-sport-racing" tvg-name="ZIGGO SPORT RACING" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT RACING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -37,72 +42,27 @@ https://vavoo.to/play/351341225/index.m3u8
 #EXTINF:-1 tvg-id="espn-3" tvg-name="ESPN 3" tvg-country="Netherlands" group-title="Netherlands",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/697377561/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-voetbal" tvg-name="ZIGGO SPORT VOETBAL" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT VOETBAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3586469911/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FOX SPORTS 2" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2674058579/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-voetbal" tvg-name="ZIGGO SPORT VOETBAL" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT VOETBAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/23236113/index.m3u8
+https://vavoo.to/play/625680503/index.m3u8
 
 #EXTINF:-1 tvg-id="espn-3" tvg-name="ESPN 3" tvg-country="Netherlands" group-title="Netherlands",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/625680503/index.m3u8
+https://vavoo.to/play/697377561/index.m3u8
 
-#EXTINF:-1 tvg-id="ziggo-sport" tvg-name="ZIGGO SPORT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT
+#EXTINF:-1 tvg-id="ziggo-sport-docu" tvg-name="ZIGGO SPORT DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT DOCU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2013686690/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-5" tvg-name="RTL 5" tvg-country="Netherlands" group-title="Netherlands",RTL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3297693057/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport" tvg-name="ZIGGO SPORT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3749103743/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-4" tvg-name="RTL 4" tvg-country="Netherlands" group-title="Netherlands",RTL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4226462509/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-racing" tvg-name="ZIGGO SPORT RACING" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT RACING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1777530589/index.m3u8
+https://vavoo.to/play/962804049/index.m3u8
 
 #EXTINF:-1 tvg-id="film-1-drama" tvg-name="FILM 1 DRAMA" tvg-country="Netherlands" group-title="Netherlands",FILM 1 DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2329363703/index.m3u8
 
-#EXTINF:-1 tvg-id="ziggo-sport-select" tvg-name="ZIGGO SPORT SELECT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT SELECT
+#EXTINF:-1 tvg-id="crime-amp-investigation" tvg-name="CRIME &AMP; INVESTIGATION" tvg-country="Netherlands" group-title="Netherlands",CRIME &AMP; INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1585597115/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/706021529/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-4" tvg-name="RTL 4" tvg-country="Netherlands" group-title="Netherlands",RTL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4193182769/index.m3u8
+https://vavoo.to/play/719650592/index.m3u8
 
 #EXTINF:-1 tvg-id="ziggo-sport-tennis" tvg-name="ZIGGO SPORT TENNIS" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT TENNIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -114,890 +74,995 @@ https://vavoo.to/play/4022861107/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/739290895/index.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="100%" tvg-country="Netherlands" group-title="Netherlands",100%
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/740890222/index.m3u8
-
-#EXTINF:-1 tvg-id="192-tv" tvg-name="192 TV" tvg-country="Netherlands" group-title="Netherlands",192 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2539137621/index.m3u8
-
-#EXTINF:-1 tvg-id="sbs-6" tvg-name="SBS 6" tvg-country="Netherlands" group-title="Netherlands",SBS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3205986201/index.m3u8
-
-#EXTINF:-1 tvg-id="film-1-premiere" tvg-name="FILM 1 PREMIERE" tvg-country="Netherlands" group-title="Netherlands",FILM 1 PREMIERE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2143191607/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-80s" tvg-name="MTV 80S" tvg-country="Netherlands" group-title="Netherlands",MTV 80S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3255925618/index.m3u8
-
-#EXTINF:-1 tvg-id="sbs-6" tvg-name="SBS 6" tvg-country="Netherlands" group-title="Netherlands",SBS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3172147333/index.m3u8
-
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Netherlands" group-title="Netherlands",INVESTIGATION DISCOVERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4256105617/index.m3u8
-
-#EXTINF:-1 tvg-id="pebble-tv" tvg-name="PEBBLE TV" tvg-country="Netherlands" group-title="Netherlands",PEBBLE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3382499986/index.m3u8
-
-#EXTINF:-1 tvg-id="slam-tv" tvg-name="SLAM! TV" tvg-country="Netherlands" group-title="Netherlands",SLAM! TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/83945467/index.m3u8
-
 #EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-country="Netherlands" group-title="Netherlands",LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/4154901995/index.m3u8
 
-#EXTINF:-1 tvg-id="npo-1" tvg-name="NPO 1" tvg-country="Netherlands" group-title="Netherlands",NPO 1
+#EXTINF:-1 tvg-id="100" tvg-name="100%" tvg-country="Netherlands" group-title="Netherlands",100%
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3428620639/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Netherlands" group-title="Netherlands",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/622061122/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-7" tvg-name="RTL 7" tvg-country="Netherlands" group-title="Netherlands",RTL 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3192823521/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-5" tvg-name="RTL 5" tvg-country="Netherlands" group-title="Netherlands",RTL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3330972317/index.m3u8
-
-#EXTINF:-1 tvg-id="film-1-family" tvg-name="FILM 1 FAMILY" tvg-country="Netherlands" group-title="Netherlands",FILM 1 FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3479714514/index.m3u8
-
-#EXTINF:-1 tvg-id="salto-brasa-music" tvg-name="SALTO BRASA MUSIC" tvg-country="Netherlands" group-title="Netherlands",SALTO BRASA MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4110941162/index.m3u8
-
-#EXTINF:-1 tvg-id="dance-television" tvg-name="DANCE TELEVISION" tvg-country="Netherlands" group-title="Netherlands",DANCE TELEVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/194736395/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-7" tvg-name="RTL 7" tvg-country="Netherlands" group-title="Netherlands",RTL 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3159017981/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Netherlands" group-title="Netherlands",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2172927372/index.m3u8
-
-#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Netherlands" group-title="Netherlands",BBC FIRST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2288615636/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Netherlands" group-title="Netherlands",NAT GEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3800233024/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/74097556/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-1" tvg-name="NPO 1" tvg-country="Netherlands" group-title="Netherlands",NPO 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3461926467/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Netherlands" group-title="Netherlands",NICK JR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2470622316/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-8" tvg-name="RTL 8" tvg-country="Netherlands" group-title="Netherlands",RTL 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1008601392/index.m3u8
-
-#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2581510979/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Netherlands" group-title="Netherlands",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2959444159/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Netherlands" group-title="Netherlands",CARTOONITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2455610291/index.m3u8
-
-#EXTINF:-1 tvg-id="djazz-tv" tvg-name="DJAZZ TV" tvg-country="Netherlands" group-title="Netherlands",DJAZZ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2897120181/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-country="Netherlands" group-title="Netherlands",RTL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2323583211/index.m3u8
-
-#EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-country="Netherlands" group-title="Netherlands",HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/634937112/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3127261334/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-sports-4" tvg-name="FOX SPORTS 4" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/270668019/index.m3u8
-
-#EXTINF:-1 tvg-id="192-tv" tvg-name="192 TV" tvg-country="Netherlands" group-title="Netherlands",192 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2608998715/index.m3u8
-
-#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Netherlands" group-title="Netherlands",BBC FIRST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2742031882/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-extra" tvg-name="ZIGGO SPORT EXTRA" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/319163860/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2736390217/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FOX SPORTS 1" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/954079807/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-music" tvg-name="NICK MUSIC" tvg-country="Netherlands" group-title="Netherlands",NICK MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1137374425/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Netherlands" group-title="Netherlands",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3933634364/index.m3u8
-
-#EXTINF:-1 tvg-id="100-nl-tv" tvg-name="100% NL TV" tvg-country="Netherlands" group-title="Netherlands",100% NL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/60276472/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-gelderland" tvg-name="OMROEP GELDERLAND" tvg-country="Netherlands" group-title="Netherlands",OMROEP GELDERLAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2813172842/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Netherlands" group-title="Netherlands",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3690874941/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Netherlands" group-title="Netherlands",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3652339071/index.m3u8
-
-#EXTINF:-1 tvg-id="star-channel" tvg-name="STAR CHANNEL" tvg-country="Netherlands" group-title="Netherlands",STAR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2367829148/index.m3u8
-
-#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-country="Netherlands" group-title="Netherlands",E!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/486015393/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Netherlands" group-title="Netherlands",NAT GEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1348286826/index.m3u8
-
-#EXTINF:-1 tvg-id="veronica-disney-xd" tvg-name="VERONICA DISNEY XD" tvg-country="Netherlands" group-title="Netherlands",VERONICA DISNEY XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3607349185/index.m3u8
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHIONTV" tvg-country="Netherlands" group-title="Netherlands",FASHIONTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2801564951/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1106774151/index.m3u8
-
-#EXTINF:-1 tvg-id="xite" tvg-name="XITE" tvg-country="Netherlands" group-title="Netherlands",XITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2418672135/index.m3u8
-
-#EXTINF:-1 tvg-id="xite" tvg-name="XITE" tvg-country="Netherlands" group-title="Netherlands",XITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2549224723/index.m3u8
+https://vavoo.to/play/740890222/index.m3u8
 
 #EXTINF:-1 tvg-id="fox-channel" tvg-name="FOX CHANNEL" tvg-country="Netherlands" group-title="Netherlands",FOX CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/579287411/index.m3u8
 
-#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME+ INVESTIGATION" tvg-country="Netherlands" group-title="Netherlands",CRIME+ INVESTIGATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/172174146/index.m3u8
-
-#EXTINF:-1 tvg-id="travelxp" tvg-name="TRAVELXP" tvg-country="Netherlands" group-title="Netherlands",TRAVELXP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2154351987/index.m3u8
-
-#EXTINF:-1 tvg-id="stingray-djazz" tvg-name="STINGRAY DJAZZ" tvg-country="Netherlands" group-title="Netherlands",STINGRAY DJAZZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2990700903/index.m3u8
-
-#EXTINF:-1 tvg-id="extreme-sports-channel" tvg-name="EXTREME SPORTS CHANNEL" tvg-country="Netherlands" group-title="Netherlands",EXTREME SPORTS CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3322172799/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-z" tvg-name="RTL Z" tvg-country="Netherlands" group-title="Netherlands",RTL Z
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3723000321/index.m3u8
-
-#EXTINF:-1 tvg-id="crime-amp-investigation" tvg-name="CRIME &AMP; INVESTIGATION" tvg-country="Netherlands" group-title="Netherlands",CRIME &AMP; INVESTIGATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/719650592/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-id" tvg-name="DISCOVERY ID" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/793835474/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Netherlands" group-title="Netherlands",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2126702242/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-toons" tvg-name="NICK TOONS" tvg-country="Netherlands" group-title="Netherlands",NICK TOONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1934195856/index.m3u8
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Netherlands" group-title="Netherlands",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3731631078/index.m3u8
-
-#EXTINF:-1 tvg-id="at-5" tvg-name="AT 5" tvg-country="Netherlands" group-title="Netherlands",AT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2629204497/index.m3u8
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4053879/index.m3u8
-
-#EXTINF:-1 tvg-id="disney-xd" tvg-name="DISNEY XD" tvg-country="Netherlands" group-title="Netherlands",DISNEY XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/203464866/index.m3u8
-
-#EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-country="Netherlands" group-title="Netherlands",LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1356228150/index.m3u8
-
-#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-country="Netherlands" group-title="Netherlands",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2612133641/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-sports-3" tvg-name="FOX SPORTS 3" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2718092515/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-country="Netherlands" group-title="Netherlands",RTL CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/644933387/index.m3u8
-
-#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-country="Netherlands" group-title="Netherlands",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2540436583/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-maastricht" tvg-name="RTV MAASTRICHT" tvg-country="Netherlands" group-title="Netherlands",RTV MAASTRICHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1803785885/index.m3u8
-
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="FASHION TV" tvg-country="Netherlands" group-title="Netherlands",FASHION TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1467439935/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Netherlands" group-title="Netherlands",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/834237423/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-ellef" tvg-name="TV ELLEF" tvg-country="Netherlands" group-title="Netherlands",TV ELLEF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3565078343/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-538" tvg-name="TV 538" tvg-country="Netherlands" group-title="Netherlands",TV 538
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/387832715/index.m3u8
-
-#EXTINF:-1 tvg-id="sbs-9" tvg-name="SBS 9" tvg-country="Netherlands" group-title="Netherlands",SBS 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1061402452/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-extra-2" tvg-name="ZIGGO SPORT EXTRA 2" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT EXTRA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4006989621/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Netherlands" group-title="Netherlands",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/179283867/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-docu" tvg-name="ZIGGO SPORT DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT DOCU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/962804049/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Netherlands" group-title="Netherlands",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1552571249/index.m3u8
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Netherlands" group-title="Netherlands",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/75666354/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-noord" tvg-name="TV NOORD" tvg-country="Netherlands" group-title="Netherlands",TV NOORD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2371823015/index.m3u8
-
-#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Netherlands" group-title="Netherlands",E! ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3680791301/index.m3u8
-
-#EXTINF:-1 tvg-id="ons-tv" tvg-name="ONS TV" tvg-country="Netherlands" group-title="Netherlands",ONS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4149973319/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Netherlands" group-title="Netherlands",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1637398576/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-country="Netherlands" group-title="Netherlands",RTL CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/225014229/index.m3u8
-
-#EXTINF:-1 tvg-id="dance-trippin" tvg-name="DANCE TRIPPIN" tvg-country="Netherlands" group-title="Netherlands",DANCE TRIPPIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3282607272/index.m3u8
-
 #EXTINF:-1 tvg-id="horse--country" tvg-name="HORSE & COUNTRY" tvg-country="Netherlands" group-title="Netherlands",HORSE & COUNTRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2063234794/index.m3u8
-
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Netherlands" group-title="Netherlands",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3723054155/index.m3u8
-
-#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Netherlands" group-title="Netherlands",DUCK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/855410063/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-live" tvg-name="MTV LIVE" tvg-country="Netherlands" group-title="Netherlands",MTV LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1624948125/index.m3u8
-
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Netherlands" group-title="Netherlands",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1865843041/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3837426329/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-sport-docu" tvg-name="ZIGGO SPORT DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT DOCU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/486755545/index.m3u8
 
 #EXTINF:-1 tvg-id="at-5" tvg-name="AT 5" tvg-country="Netherlands" group-title="Netherlands",AT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2607705349/index.m3u8
 
-#EXTINF:-1 tvg-id="wos-tv" tvg-name="WOS TV" tvg-country="Netherlands" group-title="Netherlands",WOS TV
+#EXTINF:-1 tvg-id="espn-1" tvg-name="ESPN 1" tvg-country="Netherlands" group-title="Netherlands",ESPN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3632482166/index.m3u8
+https://vavoo.to/play/1397846137/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-country="Netherlands" group-title="Netherlands",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/405473735/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-voetbal" tvg-name="ZIGGO SPORT VOETBAL" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT VOETBAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/23236113/index.m3u8
+
+#EXTINF:-1 tvg-id="slam-tv" tvg-name="SLAM! TV" tvg-country="Netherlands" group-title="Netherlands",SLAM! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/83945467/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport" tvg-name="ZIGGO SPORT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2013686690/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-select" tvg-name="ZIGGO SPORT SELECT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1585597115/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-racing" tvg-name="ZIGGO SPORT RACING" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1777530589/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-country="Netherlands" group-title="Netherlands",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2612133641/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-4" tvg-name="RTL 4" tvg-country="Netherlands" group-title="Netherlands",RTL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4226462509/index.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Netherlands" group-title="Netherlands",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4256105617/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport" tvg-name="ZIGGO SPORT" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3749103743/index.m3u8
+
+#EXTINF:-1 tvg-id="192-tv" tvg-name="192 TV" tvg-country="Netherlands" group-title="Netherlands",192 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2539137621/index.m3u8
+
+#EXTINF:-1 tvg-id="192-tv" tvg-name="192 TV" tvg-country="Netherlands" group-title="Netherlands",192 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2608998715/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv-24-music" tvg-name="MTV 24 MUSIC" tvg-country="Netherlands" group-title="Netherlands",MTV 24 MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3006800428/index.m3u8
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Netherlands" group-title="Netherlands",TLC
+#EXTINF:-1 tvg-id="npo-1" tvg-name="NPO 1" tvg-country="Netherlands" group-title="Netherlands",NPO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2222600950/index.m3u8
+https://vavoo.to/play/3461926467/index.m3u8
 
-#EXTINF:-1 tvg-id="den-haag-fm" tvg-name="DEN HAAG FM" tvg-country="Netherlands" group-title="Netherlands",DEN HAAG FM
+#EXTINF:-1 tvg-id="rtl-7" tvg-name="RTL 7" tvg-country="Netherlands" group-title="Netherlands",RTL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1268929440/index.m3u8
+https://vavoo.to/play/3192823521/index.m3u8
 
-#EXTINF:-1 tvg-id="npo-1-extra" tvg-name="NPO 1 EXTRA" tvg-country="Netherlands" group-title="Netherlands",NPO 1 EXTRA
+#EXTINF:-1 tvg-id="sbs-6" tvg-name="SBS 6" tvg-country="Netherlands" group-title="Netherlands",SBS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3002543848/index.m3u8
-
-#EXTINF:-1 tvg-id="streek-tv" tvg-name="STREEK TV" tvg-country="Netherlands" group-title="Netherlands",STREEK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/384330772/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-2" tvg-name="NPO 2" tvg-country="Netherlands" group-title="Netherlands",NPO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2348606351/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Netherlands" group-title="Netherlands",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1605713445/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-1" tvg-name="VIAPLAY EVENT 1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2922568715/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-zappelin" tvg-name="NPO ZAPPELIN" tvg-country="Netherlands" group-title="Netherlands",NPO ZAPPELIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/656697449/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3081891203/index.m3u8
-
-#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Netherlands" group-title="Netherlands",DUCK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2149796005/index.m3u8
-
-#EXTINF:-1 tvg-id="ex-sport" tvg-name="EX SPORT" tvg-country="Netherlands" group-title="Netherlands",EX SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/330363772/index.m3u8
-
-#EXTINF:-1 tvg-id="family-7" tvg-name="FAMILY 7" tvg-country="Netherlands" group-title="Netherlands",FAMILY 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/453029930/index.m3u8
-
-#EXTINF:-1 tvg-id="out" tvg-name="OUT" tvg-country="Netherlands" group-title="Netherlands",OUT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3430280912/index.m3u8
-
-#EXTINF:-1 tvg-id="l1" tvg-name="L1" tvg-country="Netherlands" group-title="Netherlands",L1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1528285163/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-purmerend" tvg-name="RTV PURMEREND" tvg-country="Netherlands" group-title="Netherlands",RTV PURMEREND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2744749097/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-telekids" tvg-name="RTL TELEKIDS" tvg-country="Netherlands" group-title="Netherlands",RTL TELEKIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1900903995/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-oost" tvg-name="TV OOST" tvg-country="Netherlands" group-title="Netherlands",TV OOST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2359432712/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-2" tvg-name="VIAPLAY EVENT 2" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3918702299/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Netherlands" group-title="Netherlands",NICK JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1068616594/index.m3u8
+https://vavoo.to/play/3205986201/index.m3u8
 
 #EXTINF:-1 tvg-id="bvn" tvg-name="BVN" tvg-country="Netherlands" group-title="Netherlands",BVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3668541006/index.m3u8
 
-#EXTINF:-1 tvg-id="out-tv" tvg-name="OUT TV" tvg-country="Netherlands" group-title="Netherlands",OUT TV
+#EXTINF:-1 tvg-id="rtl-5" tvg-name="RTL 5" tvg-country="Netherlands" group-title="Netherlands",RTL 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3755034524/index.m3u8
+https://vavoo.to/play/3297693057/index.m3u8
 
-#EXTINF:-1 tvg-id="rtl-zwee" tvg-name="RTL ZWEE" tvg-country="Netherlands" group-title="Netherlands",RTL ZWEE
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/648900923/index.m3u8
-
-#EXTINF:-1 tvg-id="slam" tvg-name="SLAM" tvg-country="Netherlands" group-title="Netherlands",SLAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4229163295/index.m3u8
-
-#EXTINF:-1 tvg-id="loe-tv" tvg-name="LOE TV" tvg-country="Netherlands" group-title="Netherlands",LOE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3172533701/index.m3u8
-
-#EXTINF:-1 tvg-id="njam" tvg-name="NJAM" tvg-country="Netherlands" group-title="Netherlands",NJAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2021521631/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-7" tvg-name="RTV 7" tvg-country="Netherlands" group-title="Netherlands",RTV 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2111855969/index.m3u8
-
-#EXTINF:-1 tvg-id="ons" tvg-name="ONS" tvg-country="Netherlands" group-title="Netherlands",ONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3431713867/index.m3u8
-
-#EXTINF:-1 tvg-id="iconcerts" tvg-name="ICONCERTS" tvg-country="Netherlands" group-title="Netherlands",ICONCERTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2200725940/index.m3u8
-
-#EXTINF:-1 tvg-id="infast" tvg-name="INFAST" tvg-country="Netherlands" group-title="Netherlands",INFAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2294348200/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-drenthe" tvg-name="RTV DRENTHE" tvg-country="Netherlands" group-title="Netherlands",RTV DRENTHE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2935917618/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-slingeland" tvg-name="RTV SLINGELAND" tvg-country="Netherlands" group-title="Netherlands",RTV SLINGELAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2400591548/index.m3u8
-
-#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="COMEDY CENTRAL EXTRA" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1396002728/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-z" tvg-name="RTL Z" tvg-country="Netherlands" group-title="Netherlands",RTL Z
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3756797213/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Netherlands" group-title="Netherlands",CARTOONITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3955498624/index.m3u8
-
-#EXTINF:-1 tvg-id="family-7" tvg-name="FAMILY 7" tvg-country="Netherlands" group-title="Netherlands",FAMILY 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3637574983/index.m3u8
-
-#EXTINF:-1 tvg-id="ideaal-tv" tvg-name="IDEAAL TV" tvg-country="Netherlands" group-title="Netherlands",IDEAAL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1302816819/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-3" tvg-name="NPO 3" tvg-country="Netherlands" group-title="Netherlands",NPO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3029900579/index.m3u8
-
-#EXTINF:-1 tvg-id="rakuten-action" tvg-name="RAKUTEN ACTION" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/895549735/index.m3u8
-
-#EXTINF:-1 tvg-id="l1-tv-limburg" tvg-name="L1 TV LIMBURG" tvg-country="Netherlands" group-title="Netherlands",L1 TV LIMBURG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3239175748/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-drenthe" tvg-name="RTV DRENTHE" tvg-country="Netherlands" group-title="Netherlands",RTV DRENTHE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/160313327/index.m3u8
-
-#EXTINF:-1 tvg-id="meer-tv" tvg-name="MEER TV" tvg-country="Netherlands" group-title="Netherlands",MEER TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2129750376/index.m3u8
-
-#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1068119176/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-telekids" tvg-name="RTL TELEKIDS" tvg-country="Netherlands" group-title="Netherlands",RTL TELEKIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2438069127/index.m3u8
-
-#EXTINF:-1 tvg-id="qmusic" tvg-name="QMUSIC" tvg-country="Netherlands" group-title="Netherlands",QMUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4157396273/index.m3u8
-
-#EXTINF:-1 tvg-id="zuidwest-tv" tvg-name="ZUIDWEST TV" tvg-country="Netherlands" group-title="Netherlands",ZUIDWEST TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3488575634/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-zeeland-tv" tvg-name="OMROEP ZEELAND TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP ZEELAND TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2940703612/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-live" tvg-name="MTV LIVE" tvg-country="Netherlands" group-title="Netherlands",MTV LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2735403248/index.m3u8
-
-#EXTINF:-1 tvg-id="net-5" tvg-name="NET 5" tvg-country="Netherlands" group-title="Netherlands",NET 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1751042276/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-nieuws" tvg-name="NPO NIEUWS" tvg-country="Netherlands" group-title="Netherlands",NPO NIEUWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2880122002/index.m3u8
-
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JIMJAM" tvg-country="Netherlands" group-title="Netherlands",JIMJAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2064986541/index.m3u8
-
-#EXTINF:-1 tvg-id="sbs-9" tvg-name="SBS 9" tvg-country="Netherlands" group-title="Netherlands",SBS 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1028120648/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-lounge" tvg-name="RTL LOUNGE" tvg-country="Netherlands" group-title="Netherlands",RTL LOUNGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3526363556/index.m3u8
-
-#EXTINF:-1 tvg-id="inplus" tvg-name="INPLUS" tvg-country="Netherlands" group-title="Netherlands",INPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/934977481/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-extra-1" tvg-name="NPO EXTRA 1" tvg-country="Netherlands" group-title="Netherlands",NPO EXTRA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/508026046/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-5" tvg-name="VIAPLAY EVENT 5" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1538423499/index.m3u8
-
-#EXTINF:-1 tvg-id="spike" tvg-name="SPIKE" tvg-country="Netherlands" group-title="Netherlands",SPIKE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2657544137/index.m3u8
-
-#EXTINF:-1 tvg-id="mezzo" tvg-name="MEZZO" tvg-country="Netherlands" group-title="Netherlands",MEZZO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/439553705/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Netherlands" group-title="Netherlands",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3329797203/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-dordrecht" tvg-name="RTV DORDRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV DORDRECHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2796238877/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-country="Netherlands" group-title="Netherlands",MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2234006819/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-3" tvg-name="NPO 3" tvg-country="Netherlands" group-title="Netherlands",NPO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3063728703/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-extra-2" tvg-name="NPO EXTRA 2" tvg-country="Netherlands" group-title="Netherlands",NPO EXTRA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1508353646/index.m3u8
-
-#EXTINF:-1 tvg-id="salto-1" tvg-name="SALTO 1" tvg-country="Netherlands" group-title="Netherlands",SALTO 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/654918021/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-oranje" tvg-name="TV ORANJE" tvg-country="Netherlands" group-title="Netherlands",TV ORANJE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2864186713/index.m3u8
-
-#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1269765291/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-lounge" tvg-name="RTL LOUNGE" tvg-country="Netherlands" group-title="Netherlands",RTL LOUNGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2880025751/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggo-docu" tvg-name="ZIGGO DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO DOCU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3864809811/index.m3u8
-
-#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Netherlands" group-title="Netherlands",CBS REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1019029636/index.m3u8
-
-#EXTINF:-1 tvg-id="net-5" tvg-name="NET 5" tvg-country="Netherlands" group-title="Netherlands",NET 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1784324088/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-2" tvg-name="NPO 2" tvg-country="Netherlands" group-title="Netherlands",NPO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2314777747/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-rijnmond" tvg-name="RTV RIJNMOND" tvg-country="Netherlands" group-title="Netherlands",RTV RIJNMOND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2572980356/index.m3u8
-
-#EXTINF:-1 tvg-id="open-rotterdam" tvg-name="OPEN ROTTERDAM" tvg-country="Netherlands" group-title="Netherlands",OPEN ROTTERDAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/837394128/index.m3u8
-
-#EXTINF:-1 tvg-id="samen1-tv" tvg-name="SAMEN1 TV" tvg-country="Netherlands" group-title="Netherlands",SAMEN1 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/10016112/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-6" tvg-name="VIAPLAY EVENT 6" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/470941723/index.m3u8
+https://vavoo.to/play/706021529/index.m3u8
 
 #EXTINF:-1 tvg-id="ziggo-sport-golf" tvg-name="ZIGGO SPORT GOLF" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1643798837/index.m3u8
 
-#EXTINF:-1 tvg-id="aavisie" tvg-name="AAVISIE" tvg-country="Netherlands" group-title="Netherlands",AAVISIE
+#EXTINF:-1 tvg-id="ziggo-docu" tvg-name="ZIGGO DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO DOCU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1053553559/index.m3u8
+https://vavoo.to/play/3864809811/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-4" tvg-name="FOX SPORTS 4" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/270668019/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-7" tvg-name="RTL 7" tvg-country="Netherlands" group-title="Netherlands",RTL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3159017981/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Netherlands" group-title="Netherlands",E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3680791301/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-4" tvg-name="RTL 4" tvg-country="Netherlands" group-title="Netherlands",RTL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4193182769/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Netherlands" group-title="Netherlands",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/834237423/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-80s" tvg-name="MTV 80S" tvg-country="Netherlands" group-title="Netherlands",MTV 80S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3255925618/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FOX SPORTS 1" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3636633475/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Netherlands" group-title="Netherlands",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/75666354/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Netherlands" group-title="Netherlands",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1348286826/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-7" tvg-name="VIAPLAY EVENT 7" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/561129899/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Netherlands" group-title="Netherlands",BBC FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2288615636/index.m3u8
+
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHIONTV" tvg-country="Netherlands" group-title="Netherlands",FASHIONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2801564951/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-8" tvg-name="RTL 8" tvg-country="Netherlands" group-title="Netherlands",RTL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1041915436/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FOX SPORTS 1" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/954079807/index.m3u8
+
+#EXTINF:-1 tvg-id="100-nl-tv" tvg-name="100% NL TV" tvg-country="Netherlands" group-title="Netherlands",100% NL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/60276472/index.m3u8
+
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2581510979/index.m3u8
+
+#EXTINF:-1 tvg-id="dance-trippin" tvg-name="DANCE TRIPPIN" tvg-country="Netherlands" group-title="Netherlands",DANCE TRIPPIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3282607272/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3127261334/index.m3u8
+
+#EXTINF:-1 tvg-id="sbs-6" tvg-name="SBS 6" tvg-country="Netherlands" group-title="Netherlands",SBS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3172147333/index.m3u8
+
+#EXTINF:-1 tvg-id="qmusic" tvg-name="QMUSIC" tvg-country="Netherlands" group-title="Netherlands",QMUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4157396273/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-first" tvg-name="BBC FIRST" tvg-country="Netherlands" group-title="Netherlands",BBC FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2742031882/index.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-country="Netherlands" group-title="Netherlands",HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/634937112/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME+ INVESTIGATION" tvg-country="Netherlands" group-title="Netherlands",CRIME+ INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/172174146/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-1" tvg-name="NPO 1" tvg-country="Netherlands" group-title="Netherlands",NPO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3428620639/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Netherlands" group-title="Netherlands",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3800233024/index.m3u8
+
+#EXTINF:-1 tvg-id="slam" tvg-name="SLAM" tvg-country="Netherlands" group-title="Netherlands",SLAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4229163295/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-nieuws" tvg-name="NPO NIEUWS" tvg-country="Netherlands" group-title="Netherlands",NPO NIEUWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3526529441/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-xd" tvg-name="DISNEY XD" tvg-country="Netherlands" group-title="Netherlands",DISNEY XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/203464866/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Netherlands" group-title="Netherlands",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2172927372/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Netherlands" group-title="Netherlands",24 KITCHEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/622061122/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2736390217/index.m3u8
+
+#EXTINF:-1 tvg-id="xite" tvg-name="XITE" tvg-country="Netherlands" group-title="Netherlands",XITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2418672135/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Netherlands" group-title="Netherlands",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3690874941/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1106774151/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Netherlands" group-title="Netherlands",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3652339071/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FOX SPORTS 2" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2674058579/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-extra" tvg-name="ZIGGO SPORT EXTRA" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/319163860/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-flevoland" tvg-name="OMROEP FLEVOLAND" tvg-country="Netherlands" group-title="Netherlands",OMROEP FLEVOLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1993709453/index.m3u8
+
+#EXTINF:-1 tvg-id="xite" tvg-name="XITE" tvg-country="Netherlands" group-title="Netherlands",XITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2549224723/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-2" tvg-name="VIAPLAY EVENT 2" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3918702299/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-5" tvg-name="RTL 5" tvg-country="Netherlands" group-title="Netherlands",RTL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3330972317/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/74097556/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Netherlands" group-title="Netherlands",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2222600950/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-lounge" tvg-name="RTL LOUNGE" tvg-country="Netherlands" group-title="Netherlands",RTL LOUNGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3526363556/index.m3u8
 
 #EXTINF:-1 tvg-id="ziggo-sport-golf" tvg-name="ZIGGO SPORT GOLF" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1167725757/index.m3u8
 
+#EXTINF:-1 tvg-id="ziggo-sport-docu" tvg-name="ZIGGO SPORT DOCU" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT DOCU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/486755545/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-3" tvg-name="FOX SPORTS 3" tvg-country="Netherlands" group-title="Netherlands",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2718092515/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Netherlands" group-title="Netherlands",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4053879/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-1" tvg-name="VIAPLAY EVENT 1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2922568715/index.m3u8
+
+#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-country="Netherlands" group-title="Netherlands",E!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/486015393/index.m3u8
+
+#EXTINF:-1 tvg-id="sbs-9" tvg-name="SBS 9" tvg-country="Netherlands" group-title="Netherlands",SBS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1061402452/index.m3u8
+
+#EXTINF:-1 tvg-id="djazz-tv" tvg-name="DJAZZ TV" tvg-country="Netherlands" group-title="Netherlands",DJAZZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2897120181/index.m3u8
+
+#EXTINF:-1 tvg-id="ziggo-sport-extra-2" tvg-name="ZIGGO SPORT EXTRA 2" tvg-country="Netherlands" group-title="Netherlands",ZIGGO SPORT EXTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4006989621/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Netherlands" group-title="Netherlands",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1637398576/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Netherlands" group-title="Netherlands",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3731631078/index.m3u8
+
+#EXTINF:-1 tvg-id="dance-television" tvg-name="DANCE TELEVISION" tvg-country="Netherlands" group-title="Netherlands",DANCE TELEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/194736395/index.m3u8
+
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="FASHION TV" tvg-country="Netherlands" group-title="Netherlands",FASHION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1467439935/index.m3u8
+
+#EXTINF:-1 tvg-id="veronica-disney-xd" tvg-name="VERONICA DISNEY XD" tvg-country="Netherlands" group-title="Netherlands",VERONICA DISNEY XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3607349185/index.m3u8
+
+#EXTINF:-1 tvg-id="ons-tv" tvg-name="ONS TV" tvg-country="Netherlands" group-title="Netherlands",ONS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4149973319/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Netherlands" group-title="Netherlands",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2959444159/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-id" tvg-name="DISCOVERY ID" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/793835474/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-hulst-tv" tvg-name="OMROEP HULST TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP HULST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3576709928/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-country="Netherlands" group-title="Netherlands",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2323583211/index.m3u8
+
+#EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-country="Netherlands" group-title="Netherlands",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1356228150/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-country="Netherlands" group-title="Netherlands",RTL CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/644933387/index.m3u8
+
+#EXTINF:-1 tvg-id="net-5" tvg-name="NET 5" tvg-country="Netherlands" group-title="Netherlands",NET 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1751042276/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray-djazz" tvg-name="STINGRAY DJAZZ" tvg-country="Netherlands" group-title="Netherlands",STINGRAY DJAZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2990700903/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-maastricht" tvg-name="RTV MAASTRICHT" tvg-country="Netherlands" group-title="Netherlands",RTV MAASTRICHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1803785885/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-2" tvg-name="NPO 2" tvg-country="Netherlands" group-title="Netherlands",NPO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2314777747/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-noord" tvg-name="TV NOORD" tvg-country="Netherlands" group-title="Netherlands",TV NOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2371823015/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Netherlands" group-title="Netherlands",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1605713445/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Netherlands" group-title="Netherlands",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/179283867/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3837426329/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Netherlands" group-title="Netherlands",24 KITCHEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1552571249/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sports-channel" tvg-name="EXTREME SPORTS CHANNEL" tvg-country="Netherlands" group-title="Netherlands",EXTREME SPORTS CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3322172799/index.m3u8
+
+#EXTINF:-1 tvg-id="samen1-tv" tvg-name="SAMEN1 TV" tvg-country="Netherlands" group-title="Netherlands",SAMEN1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/10016112/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-3" tvg-name="NPO 3" tvg-country="Netherlands" group-title="Netherlands",NPO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3029900579/index.m3u8
+
+#EXTINF:-1 tvg-id="l1" tvg-name="L1" tvg-country="Netherlands" group-title="Netherlands",L1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1528285163/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1068119176/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-ellef" tvg-name="TV ELLEF" tvg-country="Netherlands" group-title="Netherlands",TV ELLEF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3565078343/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="COMEDY CENTRAL" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1269765291/index.m3u8
+
+#EXTINF:-1 tvg-id="inplus" tvg-name="INPLUS" tvg-country="Netherlands" group-title="Netherlands",INPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/934977481/index.m3u8
+
+#EXTINF:-1 tvg-id="family-7" tvg-name="FAMILY 7" tvg-country="Netherlands" group-title="Netherlands",FAMILY 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3637574983/index.m3u8
+
+#EXTINF:-1 tvg-id="spike" tvg-name="SPIKE" tvg-country="Netherlands" group-title="Netherlands",SPIKE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2657544137/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-country="Netherlands" group-title="Netherlands",MTV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2234006819/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1137367364/index.m3u8
+
+#EXTINF:-1 tvg-id="out" tvg-name="OUT" tvg-country="Netherlands" group-title="Netherlands",OUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3430280912/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-live" tvg-name="MTV LIVE" tvg-country="Netherlands" group-title="Netherlands",MTV LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1624948125/index.m3u8
+
 #EXTINF:-1 tvg-id="tv-oranje" tvg-name="TV ORANJE" tvg-country="Netherlands" group-title="Netherlands",TV ORANJE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2174849927/index.m3u8
 
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-country="Netherlands" group-title="Netherlands",RTL CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/225014229/index.m3u8
+
+#EXTINF:-1 tvg-id="salto-1" tvg-name="SALTO 1" tvg-country="Netherlands" group-title="Netherlands",SALTO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/654918021/index.m3u8
+
+#EXTINF:-1 tvg-id="ex-sport" tvg-name="EX SPORT" tvg-country="Netherlands" group-title="Netherlands",EX SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/330363772/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-538" tvg-name="TV 538" tvg-country="Netherlands" group-title="Netherlands",TV 538
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/387832715/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="COMEDY CENTRAL EXTRA" tvg-country="Netherlands" group-title="Netherlands",COMEDY CENTRAL EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1396002728/index.m3u8
+
+#EXTINF:-1 tvg-id="family-7" tvg-name="FAMILY 7" tvg-country="Netherlands" group-title="Netherlands",FAMILY 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/453029930/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-zwee" tvg-name="RTL ZWEE" tvg-country="Netherlands" group-title="Netherlands",RTL ZWEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/648900923/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-extra-2" tvg-name="NPO EXTRA 2" tvg-country="Netherlands" group-title="Netherlands",NPO EXTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1508353646/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-oost" tvg-name="TV OOST" tvg-country="Netherlands" group-title="Netherlands",TV OOST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2359432712/index.m3u8
+
+#EXTINF:-1 tvg-id="jin-tv" tvg-name="JIN TV" tvg-country="Netherlands" group-title="Netherlands",JIN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2658603102/index.m3u8
+
+#EXTINF:-1 tvg-id="star-channel" tvg-name="STAR CHANNEL" tvg-country="Netherlands" group-title="Netherlands",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2367829148/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Netherlands" group-title="Netherlands",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3723054155/index.m3u8
+
+#EXTINF:-1 tvg-id="streek-tv" tvg-name="STREEK TV" tvg-country="Netherlands" group-title="Netherlands",STREEK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/384330772/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-1-extra" tvg-name="NPO 1 EXTRA" tvg-country="Netherlands" group-title="Netherlands",NPO 1 EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3002543848/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-gelderland" tvg-name="OMROEP GELDERLAND" tvg-country="Netherlands" group-title="Netherlands",OMROEP GELDERLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2813172842/index.m3u8
+
+#EXTINF:-1 tvg-id="out-tv" tvg-name="OUT TV" tvg-country="Netherlands" group-title="Netherlands",OUT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3755034524/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray-lite-tv" tvg-name="STINGRAY LITE TV" tvg-country="Netherlands" group-title="Netherlands",STINGRAY LITE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1909661643/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-extra-1" tvg-name="NPO EXTRA 1" tvg-country="Netherlands" group-title="Netherlands",NPO EXTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/508026046/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Netherlands" group-title="Netherlands",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/855410063/index.m3u8
+
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="NICKTOONS" tvg-country="Netherlands" group-title="Netherlands",NICKTOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/778544979/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-live" tvg-name="MTV LIVE" tvg-country="Netherlands" group-title="Netherlands",MTV LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2735403248/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Netherlands" group-title="Netherlands",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3329797203/index.m3u8
+
+#EXTINF:-1 tvg-id="infast" tvg-name="INFAST" tvg-country="Netherlands" group-title="Netherlands",INFAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2294348200/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-2" tvg-name="NPO 2" tvg-country="Netherlands" group-title="Netherlands",NPO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2348606351/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-slingeland" tvg-name="RTV SLINGELAND" tvg-country="Netherlands" group-title="Netherlands",RTV SLINGELAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2400591548/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-f1" tvg-name="VIAPLAY F1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3687874505/index.m3u8
+
+#EXTINF:-1 tvg-id="at-5" tvg-name="AT 5" tvg-country="Netherlands" group-title="Netherlands",AT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2629204497/index.m3u8
+
+#EXTINF:-1 tvg-id="ons" tvg-name="ONS" tvg-country="Netherlands" group-title="Netherlands",ONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3431713867/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-5" tvg-name="VIAPLAY EVENT 5" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1538423499/index.m3u8
+
+#EXTINF:-1 tvg-id="pebble-tv" tvg-name="PEBBLE TV" tvg-country="Netherlands" group-title="Netherlands",PEBBLE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3382499986/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-8" tvg-name="RTL 8" tvg-country="Netherlands" group-title="Netherlands",RTL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1008601392/index.m3u8
+
+#EXTINF:-1 tvg-id="nickmusic" tvg-name="NICKMUSIC" tvg-country="Netherlands" group-title="Netherlands",NICKMUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/518270746/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-purmerend" tvg-name="RTV PURMEREND" tvg-country="Netherlands" group-title="Netherlands",RTV PURMEREND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2744749097/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-z" tvg-name="RTL Z" tvg-country="Netherlands" group-title="Netherlands",RTL Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3756797213/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-zeeland-tv" tvg-name="OMROEP ZEELAND TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP ZEELAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2940703612/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-action" tvg-name="RAKUTEN ACTION" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/895549735/index.m3u8
+
+#EXTINF:-1 tvg-id="den-haag-fm" tvg-name="DEN HAAG FM" tvg-country="Netherlands" group-title="Netherlands",DEN HAAG FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1268929440/index.m3u8
+
+#EXTINF:-1 tvg-id="meer-tv" tvg-name="MEER TV" tvg-country="Netherlands" group-title="Netherlands",MEER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2129750376/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-lounge" tvg-name="RTL LOUNGE" tvg-country="Netherlands" group-title="Netherlands",RTL LOUNGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2880025751/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-zappelin" tvg-name="NPO ZAPPELIN" tvg-country="Netherlands" group-title="Netherlands",NPO ZAPPELIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/656697449/index.m3u8
+
 #EXTINF:-1 tvg-id="omroep-flevoland-tv" tvg-name="OMROEP FLEVOLAND TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP FLEVOLAND TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1273177850/index.m3u8
+
+#EXTINF:-1 tvg-id="pebble-tv" tvg-name="PEBBLE TV" tvg-country="Netherlands" group-title="Netherlands",PEBBLE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3800386636/index.m3u8
+
+#EXTINF:-1 tvg-id="sbs-9" tvg-name="SBS 9" tvg-country="Netherlands" group-title="Netherlands",SBS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1028120648/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Netherlands" group-title="Netherlands",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2455610291/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Netherlands" group-title="Netherlands",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3933634364/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-3" tvg-name="NPO 3" tvg-country="Netherlands" group-title="Netherlands",NPO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3063728703/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-4" tvg-name="VIAPLAY EVENT 4" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1725059963/index.m3u8
+
+#EXTINF:-1 tvg-id="njam" tvg-name="NJAM" tvg-country="Netherlands" group-title="Netherlands",NJAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2021521631/index.m3u8
+
+#EXTINF:-1 tvg-id="open-rotterdam" tvg-name="OPEN ROTTERDAM" tvg-country="Netherlands" group-title="Netherlands",OPEN ROTTERDAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/837394128/index.m3u8
+
+#EXTINF:-1 tvg-id="orts" tvg-name="ORTS" tvg-country="Netherlands" group-title="Netherlands",ORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1814925347/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-6" tvg-name="VIAPLAY EVENT 6" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/470941723/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Netherlands" group-title="Netherlands",CBS REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1019029636/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-telekids" tvg-name="RTL TELEKIDS" tvg-country="Netherlands" group-title="Netherlands",RTL TELEKIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1900903995/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-f1" tvg-name="VIAPLAY F1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/190889111/index.m3u8
+
+#EXTINF:-1 tvg-id="ustad" tvg-name="USTAD" tvg-country="Netherlands" group-title="Netherlands",USTAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4211423588/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Netherlands" group-title="Netherlands",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2470622316/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl-z" tvg-name="RTL Z" tvg-country="Netherlands" group-title="Netherlands",RTL Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3723000321/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-10" tvg-name="VIAPLAY EVENT 10" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2038080316/index.m3u8
+
+#EXTINF:-1 tvg-id="viaplay-event-3" tvg-name="VIAPLAY EVENT 3" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3572666219/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Netherlands" group-title="Netherlands",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3955498624/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/226214567/index.m3u8
+
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JIMJAM" tvg-country="Netherlands" group-title="Netherlands",JIMJAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2064986541/index.m3u8
+
+#EXTINF:-1 tvg-id="loe-tv" tvg-name="LOE TV" tvg-country="Netherlands" group-title="Netherlands",LOE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3172533701/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-oranje" tvg-name="TV ORANJE" tvg-country="Netherlands" group-title="Netherlands",TV ORANJE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2864186713/index.m3u8
+
+#EXTINF:-1 tvg-id="wos-tv" tvg-name="WOS TV" tvg-country="Netherlands" group-title="Netherlands",WOS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3632482166/index.m3u8
+
+#EXTINF:-1 tvg-id="l1-tv-limburg" tvg-name="L1 TV LIMBURG" tvg-country="Netherlands" group-title="Netherlands",L1 TV LIMBURG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3239175748/index.m3u8
+
+#EXTINF:-1 tvg-id="inultra" tvg-name="INULTRA" tvg-country="Netherlands" group-title="Netherlands",INULTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4018658498/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-2-extra" tvg-name="NPO 2 EXTRA" tvg-country="Netherlands" group-title="Netherlands",NPO 2 EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/722815209/index.m3u8
+
+#EXTINF:-1 tvg-id="zuidwest-tv" tvg-name="ZUIDWEST TV" tvg-country="Netherlands" group-title="Netherlands",ZUIDWEST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3488575634/index.m3u8
+
+#EXTINF:-1 tvg-id="aavisie" tvg-name="AAVISIE" tvg-country="Netherlands" group-title="Netherlands",AAVISIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1053553559/index.m3u8
+
+#EXTINF:-1 tvg-id="iconcerts" tvg-name="ICONCERTS" tvg-country="Netherlands" group-title="Netherlands",ICONCERTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2200725940/index.m3u8
+
+#EXTINF:-1 tvg-id="mezzo" tvg-name="MEZZO" tvg-country="Netherlands" group-title="Netherlands",MEZZO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/439553705/index.m3u8
+
+#EXTINF:-1 tvg-id="net-5" tvg-name="NET 5" tvg-country="Netherlands" group-title="Netherlands",NET 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1784324088/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-music" tvg-name="NICK MUSIC" tvg-country="Netherlands" group-title="Netherlands",NICK MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1137374425/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3081891203/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-family" tvg-name="RAKUTEN FAMILY" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3471516132/index.m3u8
+
+#EXTINF:-1 tvg-id="omrop-frysln-tv" tvg-name="OMROP FRYSLÂN TV" tvg-country="Netherlands" group-title="Netherlands",OMROP FRYSLÂN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/538490918/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-7" tvg-name="RTV 7" tvg-country="Netherlands" group-title="Netherlands",RTV 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2145651325/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-dordrecht" tvg-name="RTV DORDRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV DORDRECHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2796238877/index.m3u8
+
+#EXTINF:-1 tvg-id="salto-ma-live" tvg-name="SALTO MA LIVE" tvg-country="Netherlands" group-title="Netherlands",SALTO MA LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/180554669/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Netherlands" group-title="Netherlands",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2149796005/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Netherlands" group-title="Netherlands",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2126702242/index.m3u8
 
 #EXTINF:-1 tvg-id="npo-zappelin-extrahumor" tvg-name="NPO ZAPPELIN EXTRA/HUMOR" tvg-country="Netherlands" group-title="Netherlands",NPO ZAPPELIN EXTRA/HUMOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1009,95 +1074,160 @@ https://vavoo.to/play/2982961277/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2375492387/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv-arnhem" tvg-name="RTV ARNHEM" tvg-country="Netherlands" group-title="Netherlands",RTV ARNHEM
+#EXTINF:-1 tvg-id="rtl-telekids" tvg-name="RTL TELEKIDS" tvg-country="Netherlands" group-title="Netherlands",RTL TELEKIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3662572817/index.m3u8
+https://vavoo.to/play/2438069127/index.m3u8
 
-#EXTINF:-1 tvg-id="omroep-brabant-tv" tvg-name="OMROEP BRABANT TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT TV
+#EXTINF:-1 tvg-id="ideaal-tv" tvg-name="IDEAAL TV" tvg-country="Netherlands" group-title="Netherlands",IDEAAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/504574198/index.m3u8
+https://vavoo.to/play/1302816819/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv-noordoost-friesland" tvg-name="RTV NOORDOOST FRIESLAND" tvg-country="Netherlands" group-title="Netherlands",RTV NOORDOOST FRIESLAND
+#EXTINF:-1 tvg-id="rtv-utrecht" tvg-name="RTV UTRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV UTRECHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1293649021/index.m3u8
+https://vavoo.to/play/2796210402/index.m3u8
 
-#EXTINF:-1 tvg-id="viaplay-event-10" tvg-name="VIAPLAY EVENT 10" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 10
+#EXTINF:-1 tvg-id="viaplay-event-9" tvg-name="VIAPLAY EVENT 9" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2038080316/index.m3u8
+https://vavoo.to/play/2655164362/index.m3u8
 
-#EXTINF:-1 tvg-id="rakuten-drama" tvg-name="RAKUTEN DRAMA" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN DRAMA
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Netherlands" group-title="Netherlands",BABY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3535631542/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-noord" tvg-name="RTV NOORD" tvg-country="Netherlands" group-title="Netherlands",RTV NOORD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3504870445/index.m3u8
+https://vavoo.to/play/1865843041/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv-90s" tvg-name="MTV 90S" tvg-country="Netherlands" group-title="Netherlands",MTV 90S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1684435142/index.m3u8
 
-#EXTINF:-1 tvg-id="ustad" tvg-name="USTAD" tvg-country="Netherlands" group-title="Netherlands",USTAD
+#EXTINF:-1 tvg-id="radio-350" tvg-name="RADIO 350" tvg-country="Netherlands" group-title="Netherlands",RADIO 350
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4211423588/index.m3u8
+https://vavoo.to/play/2566467401/index.m3u8
 
-#EXTINF:-1 tvg-id="rakuten-comedy" tvg-name="RAKUTEN COMEDY" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN COMEDY
+#EXTINF:-1 tvg-id="rtv-noordoost-friesland" tvg-name="RTV NOORDOOST FRIESLAND" tvg-country="Netherlands" group-title="Netherlands",RTV NOORDOOST FRIESLAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3421755691/index.m3u8
+https://vavoo.to/play/1293649021/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-538" tvg-name="TV 538" tvg-country="Netherlands" group-title="Netherlands",TV 538
+#EXTINF:-1 tvg-id="viaplay-event-8" tvg-name="VIAPLAY EVENT 8" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/466082021/index.m3u8
+https://vavoo.to/play/2736963194/index.m3u8
 
-#EXTINF:-1 tvg-id="npo-politiek" tvg-name="NPO POLITIEK" tvg-country="Netherlands" group-title="Netherlands",NPO POLITIEK
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Netherlands" group-title="Netherlands",NICK JUNIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4288638811/index.m3u8
+https://vavoo.to/play/1068616594/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-toons" tvg-name="NICK TOONS" tvg-country="Netherlands" group-title="Netherlands",NICK TOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1934195856/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv-connect-tv" tvg-name="RTV CONNECT TV" tvg-country="Netherlands" group-title="Netherlands",RTV CONNECT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1844152054/index.m3u8
 
-#EXTINF:-1 tvg-id="npo-2-extra" tvg-name="NPO 2 EXTRA" tvg-country="Netherlands" group-title="Netherlands",NPO 2 EXTRA
+#EXTINF:-1 tvg-id="travelxp" tvg-name="TRAVELXP" tvg-country="Netherlands" group-title="Netherlands",TRAVELXP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/722815209/index.m3u8
+https://vavoo.to/play/2154351987/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-west" tvg-name="OMROEP WEST" tvg-country="Netherlands" group-title="Netherlands",OMROEP WEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2788860521/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-comedy" tvg-name="RAKUTEN COMEDY" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3421755691/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-7" tvg-name="RTV 7" tvg-country="Netherlands" group-title="Netherlands",RTV 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2111855969/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-gelderland" tvg-name="TV GELDERLAND" tvg-country="Netherlands" group-title="Netherlands",TV GELDERLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1986630047/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-drama" tvg-name="RAKUTEN DRAMA" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3535631542/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-538" tvg-name="TV 538" tvg-country="Netherlands" group-title="Netherlands",TV 538
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/466082021/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-noord-extra" tvg-name="RTV NOORD EXTRA" tvg-country="Netherlands" group-title="Netherlands",RTV NOORD EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4065118462/index.m3u8
+
+#EXTINF:-1 tvg-id="salto-brasa-music" tvg-name="SALTO BRASA MUSIC" tvg-country="Netherlands" group-title="Netherlands",SALTO BRASA MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4110941162/index.m3u8
 
 #EXTINF:-1 tvg-id="omroep-fryslan" tvg-name="OMROEP FRYSLAN" tvg-country="Netherlands" group-title="Netherlands",OMROEP FRYSLAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3646404328/index.m3u8
 
-#EXTINF:-1 tvg-id="pebble-tv" tvg-name="PEBBLE TV" tvg-country="Netherlands" group-title="Netherlands",PEBBLE TV
+#EXTINF:-1 tvg-id="rtv-drenthe" tvg-name="RTV DRENTHE" tvg-country="Netherlands" group-title="Netherlands",RTV DRENTHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3800386636/index.m3u8
+https://vavoo.to/play/160313327/index.m3u8
 
-#EXTINF:-1 tvg-id="viaplay-event-7" tvg-name="VIAPLAY EVENT 7" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 7
+#EXTINF:-1 tvg-id="rtv-noord" tvg-name="RTV NOORD" tvg-country="Netherlands" group-title="Netherlands",RTV NOORD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/561129899/index.m3u8
+https://vavoo.to/play/3504870445/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Netherlands" group-title="Netherlands",EUROSPORT 2
+#EXTINF:-1 tvg-id="rtv-purmerend" tvg-name="RTV PURMEREND" tvg-country="Netherlands" group-title="Netherlands",RTV PURMEREND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1137367364/index.m3u8
+https://vavoo.to/play/2037855357/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-utrecht" tvg-name="RTV UTRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV UTRECHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1965649934/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-brabant-radio" tvg-name="OMROEP BRABANT RADIO" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT RADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3640625031/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-brabant-tv" tvg-name="OMROEP BRABANT TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/504574198/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-rijnmond" tvg-name="TV RIJNMOND" tvg-country="Netherlands" group-title="Netherlands",TV RIJNMOND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3269277667/index.m3u8
 
 #EXTINF:-1 tvg-id="npo-politiek" tvg-name="NPO POLITIEK" tvg-country="Netherlands" group-title="Netherlands",NPO POLITIEK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/528739047/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten-stories" tvg-name="RAKUTEN STORIES" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN STORIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3100186970/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv-maastricht" tvg-name="RTV MAASTRICHT" tvg-country="Netherlands" group-title="Netherlands",RTV MAASTRICHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1109,203 +1239,73 @@ https://vavoo.to/play/528922302/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1033150245/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Netherlands" group-title="Netherlands",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="rtv-parkstad" tvg-name="RTV PARKSTAD" tvg-country="Netherlands" group-title="Netherlands",RTV PARKSTAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/226214567/index.m3u8
-
-#EXTINF:-1 tvg-id="jin-tv" tvg-name="JIN TV" tvg-country="Netherlands" group-title="Netherlands",JIN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2658603102/index.m3u8
-
-#EXTINF:-1 tvg-id="rtl-8" tvg-name="RTL 8" tvg-country="Netherlands" group-title="Netherlands",RTL 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1041915436/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-brabant" tvg-name="OMROEP BRABANT" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1951811712/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-fryslan-tv" tvg-name="OMROEP FRYSLAN TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP FRYSLAN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2783925862/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-7" tvg-name="RTV 7" tvg-country="Netherlands" group-title="Netherlands",RTV 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2145651325/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-noord-extra" tvg-name="RTV NOORD EXTRA" tvg-country="Netherlands" group-title="Netherlands",RTV NOORD EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4065118462/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-gelderland" tvg-name="TV GELDERLAND" tvg-country="Netherlands" group-title="Netherlands",TV GELDERLAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1986630047/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-rijnmond" tvg-name="TV RIJNMOND" tvg-country="Netherlands" group-title="Netherlands",TV RIJNMOND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3269277667/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-3" tvg-name="VIAPLAY EVENT 3" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3572666219/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-f1" tvg-name="VIAPLAY F1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3687874505/index.m3u8
-
-#EXTINF:-1 tvg-id="npo-nieuws" tvg-name="NPO NIEUWS" tvg-country="Netherlands" group-title="Netherlands",NPO NIEUWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3526529441/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-flevoland" tvg-name="OMROEP FLEVOLAND" tvg-country="Netherlands" group-title="Netherlands",OMROEP FLEVOLAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1993709453/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-pm-tv" tvg-name="OMROEP P&M TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP P&M TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/689718194/index.m3u8
-
-#EXTINF:-1 tvg-id="radio-350" tvg-name="RADIO 350" tvg-country="Netherlands" group-title="Netherlands",RADIO 350
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2566467401/index.m3u8
-
-#EXTINF:-1 tvg-id="salto-ma-live" tvg-name="SALTO MA LIVE" tvg-country="Netherlands" group-title="Netherlands",SALTO MA LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/180554669/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-4" tvg-name="VIAPLAY EVENT 4" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1725059963/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-utrecht" tvg-name="RTV UTRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV UTRECHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1965649934/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-f1" tvg-name="VIAPLAY F1" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/190889111/index.m3u8
-
-#EXTINF:-1 tvg-id="inultra" tvg-name="INULTRA" tvg-country="Netherlands" group-title="Netherlands",INULTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4018658498/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-west" tvg-name="OMROEP WEST" tvg-country="Netherlands" group-title="Netherlands",OMROEP WEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/21627316/index.m3u8
-
-#EXTINF:-1 tvg-id="stingray-lite-tv" tvg-name="STINGRAY LITE TV" tvg-country="Netherlands" group-title="Netherlands",STINGRAY LITE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1909661643/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-8" tvg-name="VIAPLAY EVENT 8" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2736963194/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-purmerend" tvg-name="RTV PURMEREND" tvg-country="Netherlands" group-title="Netherlands",RTV PURMEREND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2037855357/index.m3u8
+https://vavoo.to/play/1291072245/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv-utrecht" tvg-name="RTV UTRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV UTRECHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/31091519/index.m3u8
 
-#EXTINF:-1 tvg-id="nickmusic" tvg-name="NICKMUSIC" tvg-country="Netherlands" group-title="Netherlands",NICKMUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/518270746/index.m3u8
-
-#EXTINF:-1 tvg-id="nicktoons" tvg-name="NICKTOONS" tvg-country="Netherlands" group-title="Netherlands",NICKTOONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/778544979/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-brabant-radio" tvg-name="OMROEP BRABANT RADIO" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT RADIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3640625031/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-nof-1" tvg-name="RTV NOF 1" tvg-country="Netherlands" group-title="Netherlands",RTV NOF 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/431031381/index.m3u8
-
-#EXTINF:-1 tvg-id="viaplay-event-9" tvg-name="VIAPLAY EVENT 9" tvg-country="Netherlands" group-title="Netherlands",VIAPLAY EVENT 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2655164362/index.m3u8
-
-#EXTINF:-1 tvg-id="omroep-west" tvg-name="OMROEP WEST" tvg-country="Netherlands" group-title="Netherlands",OMROEP WEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2788860521/index.m3u8
-
-#EXTINF:-1 tvg-id="rakuten-family" tvg-name="RAKUTEN FAMILY" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3471516132/index.m3u8
-
-#EXTINF:-1 tvg-id="rakuten-stories" tvg-name="RAKUTEN STORIES" tvg-country="Netherlands" group-title="Netherlands",RAKUTEN STORIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3100186970/index.m3u8
-
-#EXTINF:-1 tvg-id="rtv-parkstad" tvg-name="RTV PARKSTAD" tvg-country="Netherlands" group-title="Netherlands",RTV PARKSTAD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1291072245/index.m3u8
-
 #EXTINF:-1 tvg-id="npo-radio-1" tvg-name="NPO RADIO 1" tvg-country="Netherlands" group-title="Netherlands",NPO RADIO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2669654917/index.m3u8
 
-#EXTINF:-1 tvg-id="omroep-hulst-tv" tvg-name="OMROEP HULST TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP HULST TV
+#EXTINF:-1 tvg-id="omroep-fryslan-tv" tvg-name="OMROEP FRYSLAN TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP FRYSLAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3576709928/index.m3u8
+https://vavoo.to/play/2783925862/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-pm-tv" tvg-name="OMROEP P&M TV" tvg-country="Netherlands" group-title="Netherlands",OMROEP P&M TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/689718194/index.m3u8
 
 #EXTINF:-1 tvg-id="omroep-tilburg" tvg-name="OMROEP TILBURG" tvg-country="Netherlands" group-title="Netherlands",OMROEP TILBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2832493580/index.m3u8
 
-#EXTINF:-1 tvg-id="omrop-frysln-tv" tvg-name="OMROP FRYSLÂN TV" tvg-country="Netherlands" group-title="Netherlands",OMROP FRYSLÂN TV
+#EXTINF:-1 tvg-id="rtv-nof-1" tvg-name="RTV NOF 1" tvg-country="Netherlands" group-title="Netherlands",RTV NOF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/538490918/index.m3u8
+https://vavoo.to/play/431031381/index.m3u8
 
-#EXTINF:-1 tvg-id="orts" tvg-name="ORTS" tvg-country="Netherlands" group-title="Netherlands",ORTS
+#EXTINF:-1 tvg-id="omroep-brabant" tvg-name="OMROEP BRABANT" tvg-country="Netherlands" group-title="Netherlands",OMROEP BRABANT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1814925347/index.m3u8
+https://vavoo.to/play/1951811712/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv-utrecht" tvg-name="RTV UTRECHT" tvg-country="Netherlands" group-title="Netherlands",RTV UTRECHT
+#EXTINF:-1 tvg-id="rtv-arnhem" tvg-name="RTV ARNHEM" tvg-country="Netherlands" group-title="Netherlands",RTV ARNHEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2796210402/index.m3u8
+https://vavoo.to/play/3662572817/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-rijnmond" tvg-name="RTV RIJNMOND" tvg-country="Netherlands" group-title="Netherlands",RTV RIJNMOND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2572980356/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-nieuws" tvg-name="NPO NIEUWS" tvg-country="Netherlands" group-title="Netherlands",NPO NIEUWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2880122002/index.m3u8
+
+#EXTINF:-1 tvg-id="npo-politiek" tvg-name="NPO POLITIEK" tvg-country="Netherlands" group-title="Netherlands",NPO POLITIEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4288638811/index.m3u8
+
+#EXTINF:-1 tvg-id="omroep-west" tvg-name="OMROEP WEST" tvg-country="Netherlands" group-title="Netherlands",OMROEP WEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/21627316/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv-drenthe" tvg-name="RTV DRENTHE" tvg-country="Netherlands" group-title="Netherlands",RTV DRENTHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2935917618/index.m3u8
 

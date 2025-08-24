@@ -1,48 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="kino-nova" tvg-name="KINO NOVA" tvg-country="Bulgaria" group-title="Bulgaria",KINO NOVA
+#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX SPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/367205987/index.m3u8
-
-#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-country="Bulgaria" group-title="Bulgaria",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3800908036/index.m3u8
-
-#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX SPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3502546645/index.m3u8
-
-#EXTINF:-1 tvg-id="nova-tv" tvg-name="NOVA TV" tvg-country="Bulgaria" group-title="Bulgaria",NOVA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2261886020/index.m3u8
-
-#EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX SPORT 4" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2622760472/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Bulgaria" group-title="Bulgaria",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2180719613/index.m3u8
-
-#EXTINF:-1 tvg-id="btv-comedy" tvg-name="BTV COMEDY" tvg-country="Bulgaria" group-title="Bulgaria",BTV COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1404761373/index.m3u8
-
-#EXTINF:-1 tvg-id="diema-sport" tvg-name="DIEMA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/782948666/index.m3u8
-
-#EXTINF:-1 tvg-id="diema-sport" tvg-name="DIEMA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3984233559/index.m3u8
+https://vavoo.to/play/1421125992/index.m3u8
 
 #EXTINF:-1 tvg-id="diema-sport-2" tvg-name="DIEMA SPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -54,190 +14,245 @@ https://vavoo.to/play/3591341829/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2945858102/index.m3u8
 
-#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX SPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 2
+#EXTINF:-1 tvg-id="diema-sport" tvg-name="DIEMA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/320132024/index.m3u8
-
-#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX SPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1421125992/index.m3u8
-
-#EXTINF:-1 tvg-id="planeta-tv" tvg-name="PLANETA TV" tvg-country="Bulgaria" group-title="Bulgaria",PLANETA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1819053706/index.m3u8
-
-#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-country="Bulgaria" group-title="Bulgaria",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2650040518/index.m3u8
-
-#EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX SPORT 3" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/779418120/index.m3u8
-
-#EXTINF:-1 tvg-id="fen-tv" tvg-name="FEN TV" tvg-country="Bulgaria" group-title="Bulgaria",FEN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/566807500/index.m3u8
+https://vavoo.to/play/3984233559/index.m3u8
 
 #EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX SPORT 4" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1602513781/index.m3u8
-
-#EXTINF:-1 tvg-id="diema-family" tvg-name="DIEMA FAMILY" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1032040630/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1337595654/index.m3u8
-
-#EXTINF:-1 tvg-id="euronews" tvg-name="EURONEWS" tvg-country="Bulgaria" group-title="Bulgaria",EURONEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1926603815/index.m3u8
-
-#EXTINF:-1 tvg-id="wness-tv" tvg-name="WNESS TV" tvg-country="Bulgaria" group-title="Bulgaria",WNESS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3772974425/index.m3u8
-
-#EXTINF:-1 tvg-id="code-fashion-tv" tvg-name="CODE FASHION TV" tvg-country="Bulgaria" group-title="Bulgaria",CODE FASHION TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1461004363/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-4" tvg-name="BNT 4" tvg-country="Bulgaria" group-title="Bulgaria",BNT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1149528404/index.m3u8
-
-#EXTINF:-1 tvg-id="action-box" tvg-name="ACTION BOX" tvg-country="Bulgaria" group-title="Bulgaria",ACTION BOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4121223228/index.m3u8
-
-#EXTINF:-1 tvg-id="evrokom" tvg-name="EVROKOM" tvg-country="Bulgaria" group-title="Bulgaria",EVROKOM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3328545244/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Bulgaria" group-title="Bulgaria",CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3577968635/index.m3u8
-
-#EXTINF:-1 tvg-id="plovdivska-pravoslavna-tv" tvg-name="PLOVDIVSKA PRAVOSLAVNA TV" tvg-country="Bulgaria" group-title="Bulgaria",PLOVDIVSKA PRAVOSLAVNA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2169709312/index.m3u8
-
-#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2231668112/index.m3u8
-
-#EXTINF:-1 tvg-id="balkanika" tvg-name="BALKANIKA" tvg-country="Bulgaria" group-title="Bulgaria",BALKANIKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1588054328/index.m3u8
-
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Bulgaria" group-title="Bulgaria",INVESTIGATION DISCOVERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/21081072/index.m3u8
-
-#EXTINF:-1 tvg-id="vtk" tvg-name="VTK" tvg-country="Bulgaria" group-title="Bulgaria",VTK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3916212970/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Bulgaria" group-title="Bulgaria",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3909993444/index.m3u8
-
-#EXTINF:-1 tvg-id="eurofolk-tv" tvg-name="EUROFOLK TV" tvg-country="Bulgaria" group-title="Bulgaria",EUROFOLK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3079780913/index.m3u8
-
-#EXTINF:-1 tvg-id="diema-sport-3" tvg-name="DIEMA SPORT 3" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3949964981/index.m3u8
-
-#EXTINF:-1 tvg-id="nova-tv" tvg-name="NOVA TV" tvg-country="Bulgaria" group-title="Bulgaria",NOVA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2164896592/index.m3u8
+https://vavoo.to/play/2622760472/index.m3u8
 
 #EXTINF:-1 tvg-id="planeta" tvg-name="PLANETA" tvg-country="Bulgaria" group-title="Bulgaria",PLANETA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2356277850/index.m3u8
 
-#EXTINF:-1 tvg-id="diema-family" tvg-name="DIEMA FAMILY" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA FAMILY
+#EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX SPORT 3" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/379201128/index.m3u8
+https://vavoo.to/play/779418120/index.m3u8
 
-#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX SPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 1
+#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX SPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2539971589/index.m3u8
+https://vavoo.to/play/3502546645/index.m3u8
 
-#EXTINF:-1 tvg-id="kinonova" tvg-name="KINONOVA" tvg-country="Bulgaria" group-title="Bulgaria",KINONOVA
+#EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX SPORT 4" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1972526918/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-1" tvg-name="BNT 1" tvg-country="Bulgaria" group-title="Bulgaria",BNT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2529026777/index.m3u8
-
-#EXTINF:-1 tvg-id="btv-action" tvg-name="BTV ACTION" tvg-country="Bulgaria" group-title="Bulgaria",BTV ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/536338491/index.m3u8
-
-#EXTINF:-1 tvg-id="btv-story" tvg-name="BTV STORY" tvg-country="Bulgaria" group-title="Bulgaria",BTV STORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3679243852/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME" tvg-country="Bulgaria" group-title="Bulgaria",FOX CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1715237185/index.m3u8
+https://vavoo.to/play/1602513781/index.m3u8
 
 #EXTINF:-1 tvg-id="fen-tv" tvg-name="FEN TV" tvg-country="Bulgaria" group-title="Bulgaria",FEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/4194813727/index.m3u8
 
-#EXTINF:-1 tvg-id="diema-tv" tvg-name="DIEMA TV" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA TV
+#EXTINF:-1 tvg-id="nova-tv" tvg-name="NOVA TV" tvg-country="Bulgaria" group-title="Bulgaria",NOVA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3938899839/index.m3u8
+https://vavoo.to/play/2261886020/index.m3u8
 
 #EXTINF:-1 tvg-id="btv-cinema" tvg-name="BTV CINEMA" tvg-country="Bulgaria" group-title="Bulgaria",BTV CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1802488789/index.m3u8
 
+#EXTINF:-1 tvg-id="nova-sport" tvg-name="NOVA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",NOVA SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2771280932/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Bulgaria" group-title="Bulgaria",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2180719613/index.m3u8
+
+#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX SPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2539971589/index.m3u8
+
+#EXTINF:-1 tvg-id="wness-tv" tvg-name="WNESS TV" tvg-country="Bulgaria" group-title="Bulgaria",WNESS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3772974425/index.m3u8
+
+#EXTINF:-1 tvg-id="planeta-tv" tvg-name="PLANETA TV" tvg-country="Bulgaria" group-title="Bulgaria",PLANETA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1819053706/index.m3u8
+
+#EXTINF:-1 tvg-id="code-fashion-tv" tvg-name="CODE FASHION TV" tvg-country="Bulgaria" group-title="Bulgaria",CODE FASHION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1461004363/index.m3u8
+
+#EXTINF:-1 tvg-id="bnt-1" tvg-name="BNT 1" tvg-country="Bulgaria" group-title="Bulgaria",BNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2529026777/index.m3u8
+
+#EXTINF:-1 tvg-id="bnt-4" tvg-name="BNT 4" tvg-country="Bulgaria" group-title="Bulgaria",BNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1149528404/index.m3u8
+
+#EXTINF:-1 tvg-id="dstv" tvg-name="DSTV" tvg-country="Bulgaria" group-title="Bulgaria",DSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2986022367/index.m3u8
+
+#EXTINF:-1 tvg-id="action-box" tvg-name="ACTION BOX" tvg-country="Bulgaria" group-title="Bulgaria",ACTION BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4121223228/index.m3u8
+
+#EXTINF:-1 tvg-id="planeta-folk" tvg-name="PLANETA FOLK" tvg-country="Bulgaria" group-title="Bulgaria",PLANETA FOLK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1490544367/index.m3u8
+
+#EXTINF:-1 tvg-id="bnt-3" tvg-name="BNT 3" tvg-country="Bulgaria" group-title="Bulgaria",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3967660473/index.m3u8
+
+#EXTINF:-1 tvg-id="magic-tv" tvg-name="MAGIC TV" tvg-country="Bulgaria" group-title="Bulgaria",MAGIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3599796967/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Bulgaria" group-title="Bulgaria",24 KITCHEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3909993444/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-00s" tvg-name="MTV 00S" tvg-country="Bulgaria" group-title="Bulgaria",MTV 00S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3764864653/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Bulgaria" group-title="Bulgaria",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/805571294/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-tv" tvg-name="TRAVEL TV" tvg-country="Bulgaria" group-title="Bulgaria",TRAVEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/91910041/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-1" tvg-name="TV 1" tvg-country="Bulgaria" group-title="Bulgaria",TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/618262489/index.m3u8
+
+#EXTINF:-1 tvg-id="diema-sport" tvg-name="DIEMA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/782948666/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-nova" tvg-name="KINO NOVA" tvg-country="Bulgaria" group-title="Bulgaria",KINO NOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/367205987/index.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-country="Bulgaria" group-title="Bulgaria",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3800908036/index.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-country="Bulgaria" group-title="Bulgaria",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2650040518/index.m3u8
+
+#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX SPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/320132024/index.m3u8
+
 #EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX SPORT 3" tvg-country="Bulgaria" group-title="Bulgaria",MAX SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3986995045/index.m3u8
+
+#EXTINF:-1 tvg-id="nova-tv" tvg-name="NOVA TV" tvg-country="Bulgaria" group-title="Bulgaria",NOVA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2164896592/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-story" tvg-name="BTV STORY" tvg-country="Bulgaria" group-title="Bulgaria",BTV STORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3679243852/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-cinema" tvg-name="BTV CINEMA" tvg-country="Bulgaria" group-title="Bulgaria",BTV CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3652191999/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Bulgaria" group-title="Bulgaria",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1606160440/index.m3u8
+
+#EXTINF:-1 tvg-id="fen-tv" tvg-name="FEN TV" tvg-country="Bulgaria" group-title="Bulgaria",FEN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/566807500/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-comedy" tvg-name="BTV COMEDY" tvg-country="Bulgaria" group-title="Bulgaria",BTV COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1404761373/index.m3u8
+
+#EXTINF:-1 tvg-id="diema-family" tvg-name="DIEMA FAMILY" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1032040630/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME" tvg-country="Bulgaria" group-title="Bulgaria",FOX CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1793487407/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-action" tvg-name="BTV ACTION" tvg-country="Bulgaria" group-title="Bulgaria",BTV ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2905091345/index.m3u8
+
+#EXTINF:-1 tvg-id="diema-family" tvg-name="DIEMA FAMILY" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/379201128/index.m3u8
+
+#EXTINF:-1 tvg-id="kinonova" tvg-name="KINONOVA" tvg-country="Bulgaria" group-title="Bulgaria",KINONOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1972526918/index.m3u8
+
+#EXTINF:-1 tvg-id="evrokom" tvg-name="EVROKOM" tvg-country="Bulgaria" group-title="Bulgaria",EVROKOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3328545244/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-action" tvg-name="BTV ACTION" tvg-country="Bulgaria" group-title="Bulgaria",BTV ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/536338491/index.m3u8
+
+#EXTINF:-1 tvg-id="diema-sport-3" tvg-name="DIEMA SPORT 3" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3949964981/index.m3u8
+
+#EXTINF:-1 tvg-id="balkanika" tvg-name="BALKANIKA" tvg-country="Bulgaria" group-title="Bulgaria",BALKANIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1588054328/index.m3u8
 
 #EXTINF:-1 tvg-id="btv-comedy" tvg-name="BTV COMEDY" tvg-country="Bulgaria" group-title="Bulgaria",BTV COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -249,40 +264,30 @@ https://vavoo.to/play/3781507127/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1710746124/index.m3u8
 
-#EXTINF:-1 tvg-id="btv-action" tvg-name="BTV ACTION" tvg-country="Bulgaria" group-title="Bulgaria",BTV ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2905091345/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Bulgaria" group-title="Bulgaria",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4269935167/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1266114284/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME" tvg-country="Bulgaria" group-title="Bulgaria",FOX CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1793487407/index.m3u8
-
 #EXTINF:-1 tvg-id="bnt-1" tvg-name="BNT 1" tvg-country="Bulgaria" group-title="Bulgaria",BNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2355422756/index.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO
+#EXTINF:-1 tvg-id="euronews" tvg-name="EURONEWS" tvg-country="Bulgaria" group-title="Bulgaria",EURONEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1103383282/index.m3u8
+https://vavoo.to/play/1926603815/index.m3u8
 
-#EXTINF:-1 tvg-id="cinema-plus" tvg-name="CINEMA PLUS" tvg-country="Bulgaria" group-title="Bulgaria",CINEMA PLUS
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/934472657/index.m3u8
+https://vavoo.to/play/2231668112/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME" tvg-country="Bulgaria" group-title="Bulgaria",FOX CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1715237185/index.m3u8
+
+#EXTINF:-1 tvg-id="plovdivska-pravoslavna-tv" tvg-name="PLOVDIVSKA PRAVOSLAVNA TV" tvg-country="Bulgaria" group-title="Bulgaria",PLOVDIVSKA PRAVOSLAVNA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2169709312/index.m3u8
 
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Bulgaria" group-title="Bulgaria",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -294,15 +299,130 @@ https://vavoo.to/play/549796346/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3533398255/index.m3u8
 
-#EXTINF:-1 tvg-id="btv-cinema" tvg-name="BTV CINEMA" tvg-country="Bulgaria" group-title="Bulgaria",BTV CINEMA
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Bulgaria" group-title="Bulgaria",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3652191999/index.m3u8
+https://vavoo.to/play/4097263521/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1103383282/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Bulgaria" group-title="Bulgaria",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1375527585/index.m3u8
+
+#EXTINF:-1 tvg-id="diema-tv" tvg-name="DIEMA TV" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3938899839/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Bulgaria" group-title="Bulgaria",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3577968635/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1337595654/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-box" tvg-name="COMEDY BOX" tvg-country="Bulgaria" group-title="Bulgaria",COMEDY BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/630852751/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/376803656/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Bulgaria" group-title="Bulgaria",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4269935167/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Bulgaria" group-title="Bulgaria",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1822214929/index.m3u8
+
+#EXTINF:-1 tvg-id="78-tv" tvg-name="7/8 TV" tvg-country="Bulgaria" group-title="Bulgaria",7/8 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1090435732/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy-plus" tvg-name="COMEDY PLUS" tvg-country="Bulgaria" group-title="Bulgaria",COMEDY PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1032729392/index.m3u8
+
+#EXTINF:-1 tvg-id="auto-motor-sport" tvg-name="AUTO MOTOR SPORT" tvg-country="Bulgaria" group-title="Bulgaria",AUTO MOTOR SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1708359465/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Bulgaria" group-title="Bulgaria",24 KITCHEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1540493006/index.m3u8
+
+#EXTINF:-1 tvg-id="the-voice-tv" tvg-name="THE VOICE TV" tvg-country="Bulgaria" group-title="Bulgaria",THE VOICE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4023386050/index.m3u8
+
+#EXTINF:-1 tvg-id="evrokom" tvg-name="EVROKOM" tvg-country="Bulgaria" group-title="Bulgaria",EVROKOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3250423496/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Bulgaria" group-title="Bulgaria",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1036143516/index.m3u8
+
+#EXTINF:-1 tvg-id="dstv" tvg-name="DSTV" tvg-country="Bulgaria" group-title="Bulgaria",DSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3694629916/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-lady" tvg-name="BTV LADY" tvg-country="Bulgaria" group-title="Bulgaria",BTV LADY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/913203329/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Bulgaria" group-title="Bulgaria",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/937172426/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/13268090/index.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Bulgaria" group-title="Bulgaria",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/21081072/index.m3u8
+
+#EXTINF:-1 tvg-id="roma-tv" tvg-name="ROMA TV" tvg-country="Bulgaria" group-title="Bulgaria",ROMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/212348644/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-country="Bulgaria" group-title="Bulgaria",CINEMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3781491829/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Bulgaria" group-title="Bulgaria",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3119534972/index.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -314,45 +434,70 @@ https://vavoo.to/play/2474272926/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/153846227/index.m3u8
 
-#EXTINF:-1 tvg-id="nova-sport" tvg-name="NOVA SPORT" tvg-country="Bulgaria" group-title="Bulgaria",NOVA SPORT
+#EXTINF:-1 tvg-id="balkanika-music-tv" tvg-name="BALKANIKA MUSIC TV" tvg-country="Bulgaria" group-title="Bulgaria",BALKANIKA MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2771280932/index.m3u8
+https://vavoo.to/play/1063393777/index.m3u8
 
-#EXTINF:-1 tvg-id="78-tv" tvg-name="7/8 TV" tvg-country="Bulgaria" group-title="Bulgaria",7/8 TV
+#EXTINF:-1 tvg-id="ring" tvg-name="RING" tvg-country="Bulgaria" group-title="Bulgaria",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1090435732/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Bulgaria" group-title="Bulgaria",HBO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1375527585/index.m3u8
-
-#EXTINF:-1 tvg-id="dstv" tvg-name="DSTV" tvg-country="Bulgaria" group-title="Bulgaria",DSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3694629916/index.m3u8
-
-#EXTINF:-1 tvg-id="evrokom" tvg-name="EVROKOM" tvg-country="Bulgaria" group-title="Bulgaria",EVROKOM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3250423496/index.m3u8
+https://vavoo.to/play/927756604/index.m3u8
 
 #EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-country="Bulgaria" group-title="Bulgaria",FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3214541036/index.m3u8
+https://vavoo.to/play/3236112686/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Bulgaria" group-title="Bulgaria",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1984286700/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/235695536/index.m3u8
+
+#EXTINF:-1 tvg-id="diema" tvg-name="DIEMA" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2041249158/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1198132906/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-plus" tvg-name="CINEMA PLUS" tvg-country="Bulgaria" group-title="Bulgaria",CINEMA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/934472657/index.m3u8
+
+#EXTINF:-1 tvg-id="bg-music-channel" tvg-name="BG MUSIC CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",BG MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1918230108/index.m3u8
+
+#EXTINF:-1 tvg-id="movie-star" tvg-name="MOVIE STAR" tvg-country="Bulgaria" group-title="Bulgaria",MOVIE STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3471251446/index.m3u8
+
+#EXTINF:-1 tvg-id="bulgaria-on-air" tvg-name="BULGARIA ON AIR" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA ON AIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2977990447/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-country="Bulgaria" group-title="Bulgaria",CINEMAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3988717339/index.m3u8
 
-#EXTINF:-1 tvg-id="dstv" tvg-name="DSTV" tvg-country="Bulgaria" group-title="Bulgaria",DSTV
+#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Bulgaria" group-title="Bulgaria",TV 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2986022367/index.m3u8
+https://vavoo.to/play/3687579037/index.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -364,100 +509,185 @@ https://vavoo.to/play/3093560896/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/876686464/index.m3u8
 
-#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",FOOD NETWORK
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-country="Bulgaria" group-title="Bulgaria",EPIC DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3692629984/index.m3u8
+https://vavoo.to/play/3753516110/index.m3u8
 
-#EXTINF:-1 tvg-id="the-voice-tv" tvg-name="THE VOICE TV" tvg-country="Bulgaria" group-title="Bulgaria",THE VOICE TV
+#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV" tvg-country="Bulgaria" group-title="Bulgaria",CITY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4023386050/index.m3u8
+https://vavoo.to/play/3324742664/index.m3u8
 
-#EXTINF:-1 tvg-id="diema" tvg-name="DIEMA" tvg-country="Bulgaria" group-title="Bulgaria",DIEMA
+#EXTINF:-1 tvg-id="agro-tv" tvg-name="AGRO TV" tvg-country="Bulgaria" group-title="Bulgaria",AGRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2041249158/index.m3u8
+https://vavoo.to/play/1318605640/index.m3u8
 
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Bulgaria" group-title="Bulgaria",BABY TV
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3416795335/index.m3u8
+https://vavoo.to/play/1266114284/index.m3u8
 
-#EXTINF:-1 tvg-id="bulgaria-on-air" tvg-name="BULGARIA ON AIR" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA ON AIR
+#EXTINF:-1 tvg-id="bg-music" tvg-name="BG MUSIC" tvg-country="Bulgaria" group-title="Bulgaria",BG MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2977990447/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-country="Bulgaria" group-title="Bulgaria",CINEMAX 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3781491829/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Bulgaria" group-title="Bulgaria",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1807489071/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1176264166/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Bulgaria" group-title="Bulgaria",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1540493006/index.m3u8
-
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Bulgaria" group-title="Bulgaria",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4097263521/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-country="Bulgaria" group-title="Bulgaria",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1984286700/index.m3u8
-
-#EXTINF:-1 tvg-id="bg-music-channel" tvg-name="BG MUSIC CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",BG MUSIC CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1918230108/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Bulgaria" group-title="Bulgaria",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1198132906/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/376803656/index.m3u8
-
-#EXTINF:-1 tvg-id="fen-folk" tvg-name="FEN FOLK" tvg-country="Bulgaria" group-title="Bulgaria",FEN FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1541535727/index.m3u8
-
-#EXTINF:-1 tvg-id="roma-tv" tvg-name="ROMA TV" tvg-country="Bulgaria" group-title="Bulgaria",ROMA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/212348644/index.m3u8
-
-#EXTINF:-1 tvg-id="dizi-channel" tvg-name="DIZI CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",DIZI CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1832108544/index.m3u8
+https://vavoo.to/play/1383754365/index.m3u8
 
 #EXTINF:-1 tvg-id="magic-tv" tvg-name="MAGIC TV" tvg-country="Bulgaria" group-title="Bulgaria",MAGIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3566525947/index.m3u8
 
+#EXTINF:-1 tvg-id="bnt-2" tvg-name="BNT 2" tvg-country="Bulgaria" group-title="Bulgaria",BNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3418660084/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Bulgaria" group-title="Bulgaria",AXN BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3788101792/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Bulgaria" group-title="Bulgaria",TV 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3692292745/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Bulgaria" group-title="Bulgaria",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3416795335/index.m3u8
+
+#EXTINF:-1 tvg-id="bulgaria-24" tvg-name="BULGARIA 24" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2032068489/index.m3u8
+
+#EXTINF:-1 tvg-id="auto-motor-sport" tvg-name="AUTO MOTOR SPORT" tvg-country="Bulgaria" group-title="Bulgaria",AUTO MOTOR SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3208497021/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera-english" tvg-name="ALJAZEERA ENGLISH" tvg-country="Bulgaria" group-title="Bulgaria",ALJAZEERA ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2800458330/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Bulgaria" group-title="Bulgaria",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1176264166/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4134081780/index.m3u8
+
+#EXTINF:-1 tvg-id="dizi-channel" tvg-name="DIZI CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",DIZI CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1832108544/index.m3u8
+
+#EXTINF:-1 tvg-id="vtk" tvg-name="VTK" tvg-country="Bulgaria" group-title="Bulgaria",VTK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3916212970/index.m3u8
+
+#EXTINF:-1 tvg-id="film-plus" tvg-name="FILM PLUS" tvg-country="Bulgaria" group-title="Bulgaria",FILM PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3392903209/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-country="Bulgaria" group-title="Bulgaria",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1807489071/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Bulgaria" group-title="Bulgaria",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3732887862/index.m3u8
+
+#EXTINF:-1 tvg-id="eurofolk-tv" tvg-name="EUROFOLK TV" tvg-country="Bulgaria" group-title="Bulgaria",EUROFOLK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3079780913/index.m3u8
+
+#EXTINF:-1 tvg-id="bnt-3" tvg-name="BNT 3" tvg-country="Bulgaria" group-title="Bulgaria",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4137989444/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Bulgaria" group-title="Bulgaria",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4025501657/index.m3u8
+
+#EXTINF:-1 tvg-id="folklor-tv" tvg-name="FOLKLOR TV" tvg-country="Bulgaria" group-title="Bulgaria",FOLKLOR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2157640092/index.m3u8
+
+#EXTINF:-1 tvg-id="nova-news" tvg-name="NOVA NEWS" tvg-country="Bulgaria" group-title="Bulgaria",NOVA NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2497402570/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX LIFE" tvg-country="Bulgaria" group-title="Bulgaria",FOX LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2135288369/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Bulgaria" group-title="Bulgaria",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4262594289/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="BLOOMBERG TV" tvg-country="Bulgaria" group-title="Bulgaria",BLOOMBERG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2114825503/index.m3u8
+
 #EXTINF:-1 tvg-id="nova-news" tvg-name="NOVA NEWS" tvg-country="Bulgaria" group-title="Bulgaria",NOVA NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2550224292/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Bulgaria" group-title="Bulgaria",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2523527914/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-plus" tvg-name="TV PLUS" tvg-country="Bulgaria" group-title="Bulgaria",TV PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1793684627/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-extra" tvg-name="FILMBOX EXTRA" tvg-country="Bulgaria" group-title="Bulgaria",FILMBOX EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3284828278/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="BLOOMBERG" tvg-country="Bulgaria" group-title="Bulgaria",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2376279153/index.m3u8
+
+#EXTINF:-1 tvg-id="iconcerts" tvg-name="ICONCERTS" tvg-country="Bulgaria" group-title="Bulgaria",ICONCERTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3564883209/index.m3u8
+
+#EXTINF:-1 tvg-id="fen-folk" tvg-name="FEN FOLK" tvg-country="Bulgaria" group-title="Bulgaria",FEN FOLK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1541535727/index.m3u8
+
+#EXTINF:-1 tvg-id="tiankov-folk" tvg-name="TIANKOV FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV FOLK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/904693821/index.m3u8
 
 #EXTINF:-1 tvg-id="box-tv" tvg-name="BOX TV" tvg-country="Bulgaria" group-title="Bulgaria",BOX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -469,295 +699,125 @@ https://vavoo.to/play/3692483927/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/131717508/index.m3u8
 
-#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-country="Bulgaria" group-title="Bulgaria",AXN BLACK
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Bulgaria" group-title="Bulgaria",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3788101792/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4134081780/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORER" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT EXPLORER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1600902519/index.m3u8
-
-#EXTINF:-1 tvg-id="magic-tv" tvg-name="MAGIC TV" tvg-country="Bulgaria" group-title="Bulgaria",MAGIC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3599796967/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Bulgaria" group-title="Bulgaria",TV 1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3687579037/index.m3u8
-
-#EXTINF:-1 tvg-id="auto-motor-sport" tvg-name="AUTO MOTOR SPORT" tvg-country="Bulgaria" group-title="Bulgaria",AUTO MOTOR SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3208497021/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-2" tvg-name="BNT 2" tvg-country="Bulgaria" group-title="Bulgaria",BNT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3418660084/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-1000" tvg-name="TV 1000" tvg-country="Bulgaria" group-title="Bulgaria",TV 1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3692292745/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Bulgaria" group-title="Bulgaria",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4262594289/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Bulgaria" group-title="Bulgaria",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1036143516/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-3" tvg-name="BNT 3" tvg-country="Bulgaria" group-title="Bulgaria",BNT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4137989444/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-00s" tvg-name="MTV 00S" tvg-country="Bulgaria" group-title="Bulgaria",MTV 00S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3764864653/index.m3u8
-
-#EXTINF:-1 tvg-id="bulgaria-24" tvg-name="BULGARIA 24" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2032068489/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/235695536/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-2" tvg-name="BNT 2" tvg-country="Bulgaria" group-title="Bulgaria",BNT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3508377609/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Bulgaria" group-title="Bulgaria",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/13268090/index.m3u8
-
-#EXTINF:-1 tvg-id="comedy-box" tvg-name="COMEDY BOX" tvg-country="Bulgaria" group-title="Bulgaria",COMEDY BOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/630852751/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Bulgaria" group-title="Bulgaria",NICK JR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/937172426/index.m3u8
-
-#EXTINF:-1 tvg-id="nova-news" tvg-name="NOVA NEWS" tvg-country="Bulgaria" group-title="Bulgaria",NOVA NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2497402570/index.m3u8
-
-#EXTINF:-1 tvg-id="film-plus" tvg-name="FILM PLUS" tvg-country="Bulgaria" group-title="Bulgaria",FILM PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3392903209/index.m3u8
-
-#EXTINF:-1 tvg-id="aljazeera-english" tvg-name="ALJAZEERA ENGLISH" tvg-country="Bulgaria" group-title="Bulgaria",ALJAZEERA ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2800458330/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2542225813/index.m3u8
-
-#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV" tvg-country="Bulgaria" group-title="Bulgaria",CITY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3253967644/index.m3u8
-
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Bulgaria" group-title="Bulgaria",AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1606160440/index.m3u8
-
-#EXTINF:-1 tvg-id="auto-motor-sport" tvg-name="AUTO MOTOR SPORT" tvg-country="Bulgaria" group-title="Bulgaria",AUTO MOTOR SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1708359465/index.m3u8
-
-#EXTINF:-1 tvg-id="bg-music" tvg-name="BG MUSIC" tvg-country="Bulgaria" group-title="Bulgaria",BG MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1383754365/index.m3u8
-
-#EXTINF:-1 tvg-id="retro-music" tvg-name="RETRO MUSIC" tvg-country="Bulgaria" group-title="Bulgaria",RETRO MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/283245961/index.m3u8
+https://vavoo.to/play/2701553908/index.m3u8
 
 #EXTINF:-1 tvg-id="folklor" tvg-name="FOLKLOR" tvg-country="Bulgaria" group-title="Bulgaria",FOLKLOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1130624059/index.m3u8
 
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Bulgaria" group-title="Bulgaria",ANIMAL PLANET
+#EXTINF:-1 tvg-id="alfa-tv" tvg-name="ALFA TV" tvg-country="Bulgaria" group-title="Bulgaria",ALFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2523527914/index.m3u8
+https://vavoo.to/play/1426505444/index.m3u8
 
-#EXTINF:-1 tvg-id="balkanika-music-tv" tvg-name="BALKANIKA MUSIC TV" tvg-country="Bulgaria" group-title="Bulgaria",BALKANIKA MUSIC TV
+#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV" tvg-country="Bulgaria" group-title="Bulgaria",CITY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1063393777/index.m3u8
+https://vavoo.to/play/3253967644/index.m3u8
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-country="Bulgaria" group-title="Bulgaria",NICK JR
+#EXTINF:-1 tvg-id="retro-music" tvg-name="RETRO MUSIC" tvg-country="Bulgaria" group-title="Bulgaria",RETRO MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/805571294/index.m3u8
-
-#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Bulgaria" group-title="Bulgaria",BOOMERANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3119534972/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX LIFE" tvg-country="Bulgaria" group-title="Bulgaria",FOX LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2135288369/index.m3u8
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-country="Bulgaria" group-title="Bulgaria",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4025501657/index.m3u8
-
-#EXTINF:-1 tvg-id="comedy-plus" tvg-name="COMEDY PLUS" tvg-country="Bulgaria" group-title="Bulgaria",COMEDY PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1032729392/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2843528813/index.m3u8
-
-#EXTINF:-1 tvg-id="tiankov-folk" tvg-name="TIANKOV FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/904693821/index.m3u8
-
-#EXTINF:-1 tvg-id="tv999" tvg-name="TV999" tvg-country="Bulgaria" group-title="Bulgaria",TV999
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/36225782/index.m3u8
-
-#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-country="Bulgaria" group-title="Bulgaria",EPIC DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3753516110/index.m3u8
-
-#EXTINF:-1 tvg-id="the-voice" tvg-name="THE VOICE" tvg-country="Bulgaria" group-title="Bulgaria",THE VOICE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2558410791/index.m3u8
-
-#EXTINF:-1 tvg-id="filmbox-extra" tvg-name="FILMBOX EXTRA" tvg-country="Bulgaria" group-title="Bulgaria",FILMBOX EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3284828278/index.m3u8
-
-#EXTINF:-1 tvg-id="iconcerts" tvg-name="ICONCERTS" tvg-country="Bulgaria" group-title="Bulgaria",ICONCERTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3564883209/index.m3u8
+https://vavoo.to/play/283245961/index.m3u8
 
 #EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Bulgaria" group-title="Bulgaria",BABY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3429908435/index.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="BLOOMBERG" tvg-country="Bulgaria" group-title="Bulgaria",BLOOMBERG
+#EXTINF:-1 tvg-id="tiankov-orient-folk" tvg-name="TIANKOV ORIENT FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV ORIENT FOLK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2376279153/index.m3u8
+https://vavoo.to/play/1966113455/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="bnt-2" tvg-name="BNT 2" tvg-country="Bulgaria" group-title="Bulgaria",BNT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1347565371/index.m3u8
+https://vavoo.to/play/3508377609/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-country="Bulgaria" group-title="Bulgaria",BBC EARTH
+#EXTINF:-1 tvg-id="the-voice" tvg-name="THE VOICE" tvg-country="Bulgaria" group-title="Bulgaria",THE VOICE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2369997090/index.m3u8
+https://vavoo.to/play/2558410791/index.m3u8
 
-#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-country="Bulgaria" group-title="Bulgaria",FOX
+#EXTINF:-1 tvg-id="bnt-4" tvg-name="BNT 4" tvg-country="Bulgaria" group-title="Bulgaria",BNT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3236112686/index.m3u8
+https://vavoo.to/play/1583181225/index.m3u8
 
 #EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="DA VINCI LEARNING" tvg-country="Bulgaria" group-title="Bulgaria",DA VINCI LEARNING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3350268377/index.m3u8
 
-#EXTINF:-1 tvg-id="world-fight-channel" tvg-name="WORLD FIGHT CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",WORLD FIGHT CHANNEL
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1799700824/index.m3u8
+https://vavoo.to/play/2542225813/index.m3u8
 
-#EXTINF:-1 tvg-id="agro-tv" tvg-name="AGRO TV" tvg-country="Bulgaria" group-title="Bulgaria",AGRO TV
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORER" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT EXPLORER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1318605640/index.m3u8
+https://vavoo.to/play/1600902519/index.m3u8
 
-#EXTINF:-1 tvg-id="travel-tv" tvg-name="TRAVEL TV" tvg-country="Bulgaria" group-title="Bulgaria",TRAVEL TV
+#EXTINF:-1 tvg-id="hit-mix" tvg-name="HIT MIX" tvg-country="Bulgaria" group-title="Bulgaria",HIT MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/91910041/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Bulgaria" group-title="Bulgaria",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2701553908/index.m3u8
-
-#EXTINF:-1 tvg-id="e-kids" tvg-name="E KIDS" tvg-country="Bulgaria" group-title="Bulgaria",E KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1106460317/index.m3u8
-
-#EXTINF:-1 tvg-id="bnt-3" tvg-name="BNT 3" tvg-country="Bulgaria" group-title="Bulgaria",BNT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3967660473/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-plus" tvg-name="TV PLUS" tvg-country="Bulgaria" group-title="Bulgaria",TV PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1793684627/index.m3u8
+https://vavoo.to/play/3151238370/index.m3u8
 
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="WORLD FASHION CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",WORLD FASHION CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1386348539/index.m3u8
 
+#EXTINF:-1 tvg-id="world-fight-channel" tvg-name="WORLD FIGHT CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",WORLD FIGHT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1799700824/index.m3u8
+
+#EXTINF:-1 tvg-id="skat-tv" tvg-name="SKAT TV" tvg-country="Bulgaria" group-title="Bulgaria",SKAT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/293243409/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1347565371/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-evropa" tvg-name="TV EVROPA" tvg-country="Bulgaria" group-title="Bulgaria",TV EVROPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2473349072/index.m3u8
+
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-country="Bulgaria" group-title="Bulgaria",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/609687320/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT NATURE
+#EXTINF:-1 tvg-id="tiankov-folk" tvg-name="TIANKOV FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV FOLK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3995006118/index.m3u8
+https://vavoo.to/play/519380707/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Bulgaria" group-title="Bulgaria",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/616423683/index.m3u8
+
+#EXTINF:-1 tvg-id="tv999" tvg-name="TV999" tvg-country="Bulgaria" group-title="Bulgaria",TV999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/36225782/index.m3u8
+
+#EXTINF:-1 tvg-id="e-kids" tvg-name="E KIDS" tvg-country="Bulgaria" group-title="Bulgaria",E KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1106460317/index.m3u8
 
 #EXTINF:-1 tvg-id="ekids" tvg-name="EKIDS" tvg-country="Bulgaria" group-title="Bulgaria",EKIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -769,130 +829,85 @@ https://vavoo.to/play/3598389734/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3865054049/index.m3u8
 
-#EXTINF:-1 tvg-id="planeta-folk" tvg-name="PLANETA FOLK" tvg-country="Bulgaria" group-title="Bulgaria",PLANETA FOLK
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1490544367/index.m3u8
-
-#EXTINF:-1 tvg-id="alfa-tv" tvg-name="ALFA TV" tvg-country="Bulgaria" group-title="Bulgaria",ALFA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1426505444/index.m3u8
-
-#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Bulgaria" group-title="Bulgaria",DUCK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/616423683/index.m3u8
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="BLOOMBERG TV" tvg-country="Bulgaria" group-title="Bulgaria",BLOOMBERG TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2114825503/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Bulgaria" group-title="Bulgaria",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3732887862/index.m3u8
-
-#EXTINF:-1 tvg-id="folklor-tv" tvg-name="FOLKLOR TV" tvg-country="Bulgaria" group-title="Bulgaria",FOLKLOR TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2157640092/index.m3u8
-
-#EXTINF:-1 tvg-id="btv-lady" tvg-name="BTV LADY" tvg-country="Bulgaria" group-title="Bulgaria",BTV LADY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/913203329/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Bulgaria" group-title="Bulgaria",HBO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1260775004/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-1" tvg-name="TV 1" tvg-country="Bulgaria" group-title="Bulgaria",TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1226141210/index.m3u8
-
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-country="Bulgaria" group-title="Bulgaria",HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1975892045/index.m3u8
-
-#EXTINF:-1 tvg-id="wild-tv" tvg-name="WILD TV" tvg-country="Bulgaria" group-title="Bulgaria",WILD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/681770962/index.m3u8
-
-#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Bulgaria" group-title="Bulgaria",DUCK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/593884695/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-1" tvg-name="TV 1" tvg-country="Bulgaria" group-title="Bulgaria",TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/618262489/index.m3u8
-
-#EXTINF:-1 tvg-id="bstv" tvg-name="BSTV" tvg-country="Bulgaria" group-title="Bulgaria",BSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/442015131/index.m3u8
-
-#EXTINF:-1 tvg-id="star-crime" tvg-name="STAR CRIME" tvg-country="Bulgaria" group-title="Bulgaria",STAR CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1242163609/index.m3u8
-
-#EXTINF:-1 tvg-id="v2beat-tv" tvg-name="V2BEAT TV" tvg-country="Bulgaria" group-title="Bulgaria",V2BEAT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3938292130/index.m3u8
-
-#EXTINF:-1 tvg-id="movie-star" tvg-name="MOVIE STAR" tvg-country="Bulgaria" group-title="Bulgaria",MOVIE STAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2084100828/index.m3u8
+https://vavoo.to/play/2843528813/index.m3u8
 
 #EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Bulgaria" group-title="Bulgaria",CBS REALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2143126970/index.m3u8
 
-#EXTINF:-1 tvg-id="movie-star" tvg-name="MOVIE STAR" tvg-country="Bulgaria" group-title="Bulgaria",MOVIE STAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3471251446/index.m3u8
-
-#EXTINF:-1 tvg-id="destinations" tvg-name="DESTINATIONS" tvg-country="Bulgaria" group-title="Bulgaria",DESTINATIONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/508166537/index.m3u8
-
 #EXTINF:-1 tvg-id="film-plus" tvg-name="FILM PLUS" tvg-country="Bulgaria" group-title="Bulgaria",FILM PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3336674119/index.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-country="Bulgaria" group-title="Bulgaria",FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3214541036/index.m3u8
+
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="DUCK TV" tvg-country="Bulgaria" group-title="Bulgaria",DUCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/593884695/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-country="Bulgaria" group-title="Bulgaria",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2369997090/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-3" tvg-name="HBO 3" tvg-country="Bulgaria" group-title="Bulgaria",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1260775004/index.m3u8
+
+#EXTINF:-1 tvg-id="id-extra" tvg-name="ID EXTRA" tvg-country="Bulgaria" group-title="Bulgaria",ID EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1285652493/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-1" tvg-name="TV 1" tvg-country="Bulgaria" group-title="Bulgaria",TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1226141210/index.m3u8
+
+#EXTINF:-1 tvg-id="star-crime" tvg-name="STAR CRIME" tvg-country="Bulgaria" group-title="Bulgaria",STAR CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1242163609/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2035738277/index.m3u8
+
+#EXTINF:-1 tvg-id="star-life" tvg-name="STAR LIFE" tvg-country="Bulgaria" group-title="Bulgaria",STAR LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4284215108/index.m3u8
+
+#EXTINF:-1 tvg-id="kanal-0" tvg-name="KANAL 0" tvg-country="Bulgaria" group-title="Bulgaria",KANAL 0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/880817015/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-country="Bulgaria" group-title="Bulgaria",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1975892045/index.m3u8
 
 #EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION" tvg-country="Bulgaria" group-title="Bulgaria",MOTORVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1804212747/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-evropa" tvg-name="TV EVROPA" tvg-country="Bulgaria" group-title="Bulgaria",TV EVROPA
+#EXTINF:-1 tvg-id="fightbox" tvg-name="FIGHTBOX" tvg-country="Bulgaria" group-title="Bulgaria",FIGHTBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2473349072/index.m3u8
-
-#EXTINF:-1 tvg-id="bulgaria-24" tvg-name="BULGARIA 24" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3134106340/index.m3u8
-
-#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV" tvg-country="Bulgaria" group-title="Bulgaria",CITY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3324742664/index.m3u8
+https://vavoo.to/play/3066884648/index.m3u8
 
 #EXTINF:-1 tvg-id="sportal-live-during-events-only" tvg-name="SPORTAL [LIVE DURING EVENTS ONLY]" tvg-country="Bulgaria" group-title="Bulgaria",SPORTAL [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -904,60 +919,65 @@ https://vavoo.to/play/981381135/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3032872784/index.m3u8
 
-#EXTINF:-1 tvg-id="id-extra" tvg-name="ID EXTRA" tvg-country="Bulgaria" group-title="Bulgaria",ID EXTRA
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-country="Bulgaria" group-title="Bulgaria",VIASAT NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1285652493/index.m3u8
+https://vavoo.to/play/3995006118/index.m3u8
 
-#EXTINF:-1 tvg-id="ring" tvg-name="RING" tvg-country="Bulgaria" group-title="Bulgaria",RING
+#EXTINF:-1 tvg-id="bulgaria-24" tvg-name="BULGARIA 24" tvg-country="Bulgaria" group-title="Bulgaria",BULGARIA 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1518399743/index.m3u8
+https://vavoo.to/play/3134106340/index.m3u8
 
-#EXTINF:-1 tvg-id="hit-mix" tvg-name="HIT MIX" tvg-country="Bulgaria" group-title="Bulgaria",HIT MIX
+#EXTINF:-1 tvg-id="destinations" tvg-name="DESTINATIONS" tvg-country="Bulgaria" group-title="Bulgaria",DESTINATIONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3151238370/index.m3u8
+https://vavoo.to/play/508166537/index.m3u8
 
-#EXTINF:-1 tvg-id="kanal-0" tvg-name="KANAL 0" tvg-country="Bulgaria" group-title="Bulgaria",KANAL 0
+#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/880817015/index.m3u8
+https://vavoo.to/play/3692629984/index.m3u8
 
-#EXTINF:-1 tvg-id="star-life" tvg-name="STAR LIFE" tvg-country="Bulgaria" group-title="Bulgaria",STAR LIFE
+#EXTINF:-1 tvg-id="movie-star" tvg-name="MOVIE STAR" tvg-country="Bulgaria" group-title="Bulgaria",MOVIE STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4284215108/index.m3u8
-
-#EXTINF:-1 tvg-id="fightbox" tvg-name="FIGHTBOX" tvg-country="Bulgaria" group-title="Bulgaria",FIGHTBOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3066884648/index.m3u8
-
-#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",TRAVEL CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2035738277/index.m3u8
-
-#EXTINF:-1 tvg-id="light-channel" tvg-name="LIGHT CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",LIGHT CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/289340232/index.m3u8
-
-#EXTINF:-1 tvg-id="tiankov-orient-folk" tvg-name="TIANKOV ORIENT FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV ORIENT FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1966113455/index.m3u8
+https://vavoo.to/play/2084100828/index.m3u8
 
 #EXTINF:-1 tvg-id="tvn-bulgaria" tvg-name="TVN BULGARIA" tvg-country="Bulgaria" group-title="Bulgaria",TVN BULGARIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1666254526/index.m3u8
 
-#EXTINF:-1 tvg-id="bnt-4" tvg-name="BNT 4" tvg-country="Bulgaria" group-title="Bulgaria",BNT 4
+#EXTINF:-1 tvg-id="bstv" tvg-name="BSTV" tvg-country="Bulgaria" group-title="Bulgaria",BSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1583181225/index.m3u8
+https://vavoo.to/play/442015131/index.m3u8
+
+#EXTINF:-1 tvg-id="rodina" tvg-name="RODINA" tvg-country="Bulgaria" group-title="Bulgaria",RODINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1707089745/index.m3u8
+
+#EXTINF:-1 tvg-id="wild-tv" tvg-name="WILD TV" tvg-country="Bulgaria" group-title="Bulgaria",WILD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/681770962/index.m3u8
+
+#EXTINF:-1 tvg-id="light-channel" tvg-name="LIGHT CHANNEL" tvg-country="Bulgaria" group-title="Bulgaria",LIGHT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/289340232/index.m3u8
+
+#EXTINF:-1 tvg-id="ring" tvg-name="RING" tvg-country="Bulgaria" group-title="Bulgaria",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1518399743/index.m3u8
+
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JIMJAM" tvg-country="Bulgaria" group-title="Bulgaria",JIMJAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3815634294/index.m3u8
 
 #EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Bulgaria" group-title="Bulgaria",FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -969,38 +989,18 @@ https://vavoo.to/play/4144011582/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/241553435/index.m3u8
 
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JIMJAM" tvg-country="Bulgaria" group-title="Bulgaria",JIMJAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3815634294/index.m3u8
-
-#EXTINF:-1 tvg-id="ring" tvg-name="RING" tvg-country="Bulgaria" group-title="Bulgaria",RING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/927756604/index.m3u8
-
-#EXTINF:-1 tvg-id="rodina" tvg-name="RODINA" tvg-country="Bulgaria" group-title="Bulgaria",RODINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1707089745/index.m3u8
-
 #EXTINF:-1 tvg-id="tv-evropa" tvg-name="TV EVROPA" tvg-country="Bulgaria" group-title="Bulgaria",TV EVROPA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2679524542/index.m3u8
 
+#EXTINF:-1 tvg-id="v2beat-tv" tvg-name="V2BEAT TV" tvg-country="Bulgaria" group-title="Bulgaria",V2BEAT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3938292130/index.m3u8
+
 #EXTINF:-1 tvg-id="skat" tvg-name="SKAT" tvg-country="Bulgaria" group-title="Bulgaria",SKAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3127852812/index.m3u8
-
-#EXTINF:-1 tvg-id="tiankov-folk" tvg-name="TIANKOV FOLK" tvg-country="Bulgaria" group-title="Bulgaria",TIANKOV FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/519380707/index.m3u8
-
-#EXTINF:-1 tvg-id="skat-tv" tvg-name="SKAT TV" tvg-country="Bulgaria" group-title="Bulgaria",SKAT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/293243409/index.m3u8
 

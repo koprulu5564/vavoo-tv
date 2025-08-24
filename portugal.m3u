@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
+#EXTINF:-1 tvg-id="benfica-tv" tvg-name="BENFICA TV" tvg-country="Portugal" group-title="Portugal",BENFICA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3508326983/index.m3u8
+https://vavoo.to/play/2894250918/index.m3u8
 
-#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
+#EXTINF:-1 tvg-id="cm-tv" tvg-name="CM TV" tvg-country="Portugal" group-title="Portugal",CM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/75626190/index.m3u8
+https://vavoo.to/play/805844173/index.m3u8
 
 #EXTINF:-1 tvg-id="cm-tv" tvg-name="CM TV" tvg-country="Portugal" group-title="Portugal",CM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -19,955 +19,915 @@ https://vavoo.to/play/3846016605/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2182682775/index.m3u8
 
-#EXTINF:-1 tvg-id="tvi" tvg-name="TVI" tvg-country="Portugal" group-title="Portugal",TVI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2647788125/index.m3u8
-
-#EXTINF:-1 tvg-id="cm-tv" tvg-name="CM TV" tvg-country="Portugal" group-title="Portugal",CM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/805844173/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-hd" tvg-name="SIC HD" tvg-country="Portugal" group-title="Portugal",SIC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3099098765/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-1" tvg-name="RTP 1" tvg-country="Portugal" group-title="Portugal",RTP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3213786206/index.m3u8
-
-#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Portugal" group-title="Portugal",HISTORIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/525538314/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-reality" tvg-name="TVI REALITY" tvg-country="Portugal" group-title="Portugal",TVI REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3475414729/index.m3u8
-
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Portugal" group-title="Portugal",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/538838100/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1438628906/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-hd" tvg-name="TVI HD" tvg-country="Portugal" group-title="Portugal",TVI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3101553820/index.m3u8
-
-#EXTINF:-1 tvg-id="sic" tvg-name="SIC" tvg-country="Portugal" group-title="Portugal",SIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3762658364/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-" tvg-name="SPORT TV +" tvg-country="Portugal" group-title="Portugal",SPORT TV +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3862034077/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1000427064/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-fic" tvg-name="TVI FIC" tvg-country="Portugal" group-title="Portugal",TVI FIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/265959469/index.m3u8
-
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Portugal" group-title="Portugal",AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2341819341/index.m3u8
-
-#EXTINF:-1 tvg-id="amc-hd" tvg-name="AMC HD" tvg-country="Portugal" group-title="Portugal",AMC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3322904148/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1276326705/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-1-hd" tvg-name="SPORT TV 1 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3966581533/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-reality" tvg-name="TVI REALITY" tvg-country="Portugal" group-title="Portugal",TVI REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2164586665/index.m3u8
-
 #EXTINF:-1 tvg-id="benfica-tv" tvg-name="BENFICA TV" tvg-country="Portugal" group-title="Portugal",BENFICA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1059923452/index.m3u8
-
-#EXTINF:-1 tvg-id="star-channel" tvg-name="STAR CHANNEL" tvg-country="Portugal" group-title="Portugal",STAR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/473732861/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-24" tvg-name="TVI 24" tvg-country="Portugal" group-title="Portugal",TVI 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3954588404/index.m3u8
-
-#EXTINF:-1 tvg-id="axn-hd" tvg-name="AXN HD" tvg-country="Portugal" group-title="Portugal",AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3143462075/index.m3u8
-
-#EXTINF:-1 tvg-id="crime-district" tvg-name="CRIME DISTRICT" tvg-country="Portugal" group-title="Portugal",CRIME DISTRICT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3588471466/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemundo" tvg-name="CINEMUNDO" tvg-country="Portugal" group-title="Portugal",CINEMUNDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4254404503/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-11-hd" tvg-name="CANAL 11 HD" tvg-country="Portugal" group-title="Portugal",CANAL 11 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2972159450/index.m3u8
-
-#EXTINF:-1 tvg-id="record-tv" tvg-name="RECORD TV" tvg-country="Portugal" group-title="Portugal",RECORD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1211778226/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-action-hd" tvg-name="TVCINE ACTION HD" tvg-country="Portugal" group-title="Portugal",TVCINE ACTION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/793631803/index.m3u8
-
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="Portugal" group-title="Portugal",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/503347396/index.m3u8
-
-#EXTINF:-1 tvg-id="amc-break" tvg-name="AMC BREAK" tvg-country="Portugal" group-title="Portugal",AMC BREAK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1676049953/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-africa" tvg-name="RTP AFRICA" tvg-country="Portugal" group-title="Portugal",RTP AFRICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1885378174/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3458328824/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2344682350/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3428940222/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/702454257/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-1-hd" tvg-name="RTP 1 HD" tvg-country="Portugal" group-title="Portugal",RTP 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1394401047/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-hd" tvg-name="FOX HD" tvg-country="Portugal" group-title="Portugal",FOX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/737435862/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-hollywood" tvg-name="CANAL HOLLYWOOD" tvg-country="Portugal" group-title="Portugal",CANAL HOLLYWOOD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3628095071/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="ELEVEN SPORTS 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1599763557/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv" tvg-name="SPORT TV" tvg-country="Portugal" group-title="Portugal",SPORT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2259646737/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-3" tvg-name="RTP 3" tvg-country="Portugal" group-title="Portugal",RTP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3310235454/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3064015582/index.m3u8
-
-#EXTINF:-1 tvg-id="axn-movies" tvg-name="AXN MOVIES" tvg-country="Portugal" group-title="Portugal",AXN MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/474759302/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-movies-hd" tvg-name="FOX MOVIES HD" tvg-country="Portugal" group-title="Portugal",FOX MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3499798327/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-1" tvg-name="ELEVEN SPORT 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1814987647/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="ELEVEN SPORTS 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/419040949/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="ELEVEN SPORTS 3" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/630859525/index.m3u8
-
-#EXTINF:-1 tvg-id="cine-mundo" tvg-name="CINE MUNDO" tvg-country="Portugal" group-title="Portugal",CINE MUNDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2596009475/index.m3u8
-
-#EXTINF:-1 tvg-id="trace-urban-hd" tvg-name="TRACE URBAN HD" tvg-country="Portugal" group-title="Portugal",TRACE URBAN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3694338679/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-mulher" tvg-name="SIC MULHER" tvg-country="Portugal" group-title="Portugal",SIC MULHER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3572250232/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-1" tvg-name="ELEVEN SPORT 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1631199830/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-3-hd" tvg-name="SPORT TV 3 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2923969632/index.m3u8
-
-#EXTINF:-1 tvg-id="disney-junior" tvg-name="DISNEY JUNIOR" tvg-country="Portugal" group-title="Portugal",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/771141542/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2080453864/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-4-hd" tvg-name="ELEVEN SPORTS 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2361343746/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-2-hd" tvg-name="ELEVEN SPORTS 2 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1255159429/index.m3u8
-
-#EXTINF:-1 tvg-id="blaze" tvg-name="BLAZE" tvg-country="Portugal" group-title="Portugal",BLAZE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3679644515/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3654612487/index.m3u8
-
-#EXTINF:-1 tvg-id="toros-tv" tvg-name="TOROS TV" tvg-country="Portugal" group-title="Portugal",TOROS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/784576657/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4081172808/index.m3u8
-
-#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/676691326/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-record" tvg-name="TV RECORD" tvg-country="Portugal" group-title="Portugal",TV RECORD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2291776416/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-edition-hd" tvg-name="TVCINE EDITION HD" tvg-country="Portugal" group-title="Portugal",TVCINE EDITION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2599146036/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-edition" tvg-name="TVCINE EDITION" tvg-country="Portugal" group-title="Portugal",TVCINE EDITION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1761868334/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1096883544/index.m3u8
-
-#EXTINF:-1 tvg-id="afro-music" tvg-name="AFRO MUSIC" tvg-country="Portugal" group-title="Portugal",AFRO MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1069493045/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Portugal" group-title="Portugal",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/278568941/index.m3u8
-
-#EXTINF:-1 tvg-id="a-bola-tv" tvg-name="A BOLA TV" tvg-country="Portugal" group-title="Portugal",A BOLA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1865352457/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2549518439/index.m3u8
-
-#EXTINF:-1 tvg-id="a-bola-tv" tvg-name="A BOLA TV" tvg-country="Portugal" group-title="Portugal",A BOLA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/476765689/index.m3u8
-
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Portugal" group-title="Portugal",INVESTIGATION DISCOVERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1181792777/index.m3u8
-
-#EXTINF:-1 tvg-id="cacavision" tvg-name="CAÇAVISION" tvg-country="Portugal" group-title="Portugal",CAÇAVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3682477794/index.m3u8
-
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Portugal" group-title="Portugal",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3404489721/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-caras" tvg-name="SIC CARAS" tvg-country="Portugal" group-title="Portugal",SIC CARAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2736589383/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-5" tvg-name="ELEVEN SPORTS 5" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2866467493/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-3-hd" tvg-name="SPORT TV 3 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2849222045/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-classic" tvg-name="MTV CLASSIC" tvg-country="Portugal" group-title="Portugal",MTV CLASSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4017090315/index.m3u8
-
-#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Portugal" group-title="Portugal",CBS REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3775102231/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/971104126/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-1-hd" tvg-name="SPORT TV 1 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2112830810/index.m3u8
 
 #EXTINF:-1 tvg-id="sic-noticias-hd" tvg-name="SIC NOTICIAS HD" tvg-country="Portugal" group-title="Portugal",SIC NOTICIAS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2132630830/index.m3u8
 
-#EXTINF:-1 tvg-id="sic-noticias" tvg-name="SIC NOTICIAS" tvg-country="Portugal" group-title="Portugal",SIC NOTICIAS
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4112970089/index.m3u8
+https://vavoo.to/play/1000427064/index.m3u8
 
-#EXTINF:-1 tvg-id="canal-11" tvg-name="CANAL 11" tvg-country="Portugal" group-title="Portugal",CANAL 11
+#EXTINF:-1 tvg-id="fox-movies-hd" tvg-name="FOX MOVIES HD" tvg-country="Portugal" group-title="Portugal",FOX MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/199161253/index.m3u8
+https://vavoo.to/play/3499798327/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="TV GLOBO" tvg-country="Portugal" group-title="Portugal",TV GLOBO
+#EXTINF:-1 tvg-id="fox-hd" tvg-name="FOX HD" tvg-country="Portugal" group-title="Portugal",FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3068526841/index.m3u8
+https://vavoo.to/play/737435862/index.m3u8
 
-#EXTINF:-1 tvg-id="benfica-tv" tvg-name="BENFICA TV" tvg-country="Portugal" group-title="Portugal",BENFICA TV
+#EXTINF:-1 tvg-id="rtp-3" tvg-name="RTP 3" tvg-country="Portugal" group-title="Portugal",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1531114528/index.m3u8
-
-#EXTINF:-1 tvg-id="benfica-tv" tvg-name="BENFICA TV" tvg-country="Portugal" group-title="Portugal",BENFICA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2894250918/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-novelas" tvg-name="SIC NOVELAS" tvg-country="Portugal" group-title="Portugal",SIC NOVELAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1911367959/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-mulher" tvg-name="SIC MULHER" tvg-country="Portugal" group-title="Portugal",SIC MULHER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/590086654/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-2-hd" tvg-name="SPORT TV 2 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/779445982/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-top" tvg-name="TVCINE TOP" tvg-country="Portugal" group-title="Portugal",TVCINE TOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1167702614/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-comedy-hd" tvg-name="FOX COMEDY HD" tvg-country="Portugal" group-title="Portugal",FOX COMEDY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/992741389/index.m3u8
+https://vavoo.to/play/3310235454/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel-hd" tvg-name="DISCOVERY CHANNEL HD" tvg-country="Portugal" group-title="Portugal",DISCOVERY CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/783187914/index.m3u8
 
-#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="ELEVEN SPORTS 4" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="a-bola-tv" tvg-name="A BOLA TV" tvg-country="Portugal" group-title="Portugal",A BOLA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2545613589/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-2-hd" tvg-name="SPORT TV 2 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1658993918/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-internacional" tvg-name="RTP INTERNACIONAL" tvg-country="Portugal" group-title="Portugal",RTP INTERNACIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/254790946/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-crime-hd" tvg-name="FOX CRIME HD" tvg-country="Portugal" group-title="Portugal",FOX CRIME HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1009109875/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-1-hd" tvg-name="ELEVEN SPORTS 1 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3294572902/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-action" tvg-name="TVCINE ACTION" tvg-country="Portugal" group-title="Portugal",TVCINE ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3790970324/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-4-hd" tvg-name="SPORT TV 4 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2760717689/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-11-hd" tvg-name="CANAL 11 HD" tvg-country="Portugal" group-title="Portugal",CANAL 11 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1835935719/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-top-hd" tvg-name="TVCINE TOP HD" tvg-country="Portugal" group-title="Portugal",TVCINE TOP HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/405619759/index.m3u8
-
-#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Portugal" group-title="Portugal",HISTORIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1471702249/index.m3u8
-
-#EXTINF:-1 tvg-id="star-comedy" tvg-name="STAR COMEDY" tvg-country="Portugal" group-title="Portugal",STAR COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1282781678/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-caras" tvg-name="SIC CARAS" tvg-country="Portugal" group-title="Portugal",SIC CARAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3495482039/index.m3u8
-
-#EXTINF:-1 tvg-id="btv-hd" tvg-name="BTV HD" tvg-country="Portugal" group-title="Portugal",BTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/419434034/index.m3u8
-
-#EXTINF:-1 tvg-id="amc-crime" tvg-name="AMC CRIME" tvg-country="Portugal" group-title="Portugal",AMC CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2077195788/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild-hd" tvg-name="NAT GEO WILD HD" tvg-country="Portugal" group-title="Portugal",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2693289753/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-6" tvg-name="SPORT TV 6" tvg-country="Portugal" group-title="Portugal",SPORT TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2118231470/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-3" tvg-name="ELEVEN SPORT 3" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/384749599/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-3-hd" tvg-name="ELEVEN SPORTS 3 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2256156187/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv--hd" tvg-name="SPORT TV + HD" tvg-country="Portugal" group-title="Portugal",SPORT TV + HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/18224894/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3033626759/index.m3u8
-
-#EXTINF:-1 tvg-id="wwe-network" tvg-name="WWE NETWORK" tvg-country="Portugal" group-title="Portugal",WWE NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/355320503/index.m3u8
-
-#EXTINF:-1 tvg-id="star-crime" tvg-name="STAR CRIME" tvg-country="Portugal" group-title="Portugal",STAR CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2422531998/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-2" tvg-name="ELEVEN SPORT 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/730790319/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-ficco" tvg-name="TVI FICÇÃO" tvg-country="Portugal" group-title="Portugal",TVI FICÇÃO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/956832485/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-3" tvg-name="RTP 3" tvg-country="Portugal" group-title="Portugal",RTP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/276534702/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen-hd" tvg-name="24 KITCHEN HD" tvg-country="Portugal" group-title="Portugal",24 KITCHEN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/574978281/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-7" tvg-name="SPORT TV 7" tvg-country="Portugal" group-title="Portugal",SPORT TV 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1126272030/index.m3u8
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Portugal" group-title="Portugal",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1668808212/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-2" tvg-name="ELEVEN SPORT 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/492504973/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Portugal" group-title="Portugal",CANAL PANDA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4002241315/index.m3u8
-
-#EXTINF:-1 tvg-id="nos-studios" tvg-name="NOS STUDIOS" tvg-country="Portugal" group-title="Portugal",NOS STUDIOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2726144103/index.m3u8
-
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Portugal" group-title="Portugal",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1116719162/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-4-hd" tvg-name="ELEVEN SPORT 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3523975641/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-5-hd" tvg-name="ELEVEN SPORT 5 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/513907015/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-madeira" tvg-name="RTP MADEIRA" tvg-country="Portugal" group-title="Portugal",RTP MADEIRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3637826537/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-country="Portugal" group-title="Portugal",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2121846219/index.m3u8
-
-#EXTINF:-1 tvg-id="fox-life-hd" tvg-name="FOX LIFE HD" tvg-country="Portugal" group-title="Portugal",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2739768128/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-nos" tvg-name="CANAL NOS" tvg-country="Portugal" group-title="Portugal",CANAL NOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3173711892/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Portugal" group-title="Portugal",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2672740913/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-1-hd" tvg-name="ELEVEN SPORTS 1 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1255821242/index.m3u8
-
-#EXTINF:-1 tvg-id="caza-y-pesca" tvg-name="CAZA Y PESCA" tvg-country="Portugal" group-title="Portugal",CAZA Y PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3988851775/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Portugal" group-title="Portugal",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3292309622/index.m3u8
-
-#EXTINF:-1 tvg-id="crime-invistigation" tvg-name="CRIME INVISTIGATION" tvg-country="Portugal" group-title="Portugal",CRIME INVISTIGATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1137861489/index.m3u8
-
-#EXTINF:-1 tvg-id="odisseia" tvg-name="ODISSEIA" tvg-country="Portugal" group-title="Portugal",ODISSEIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2111785550/index.m3u8
-
-#EXTINF:-1 tvg-id="syfy-portugal" tvg-name="SYFY PORTUGAL" tvg-country="Portugal" group-title="Portugal",SYFY PORTUGAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1633515070/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Portugal" group-title="Portugal",NAT GEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1196955352/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-frica" tvg-name="RTP ÁFRICA" tvg-country="Portugal" group-title="Portugal",RTP ÁFRICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/368968283/index.m3u8
-
-#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-country="Portugal" group-title="Portugal",CNBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/230373228/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-emotion-hd" tvg-name="TVCINE EMOTION HD" tvg-country="Portugal" group-title="Portugal",TVCINE EMOTION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4064509244/index.m3u8
-
-#EXTINF:-1 tvg-id="casa--pesca" tvg-name="CASA & PESCA" tvg-country="Portugal" group-title="Portugal",CASA & PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/700421686/index.m3u8
-
-#EXTINF:-1 tvg-id="star-life" tvg-name="STAR LIFE" tvg-country="Portugal" group-title="Portugal",STAR LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4075632687/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Portugal" group-title="Portugal",CANAL PANDA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2695839043/index.m3u8
-
-#EXTINF:-1 tvg-id="star-movies" tvg-name="STAR MOVIES" tvg-country="Portugal" group-title="Portugal",STAR MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/891358544/index.m3u8
-
-#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3247544311/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-2" tvg-name="RTP 2" tvg-country="Portugal" group-title="Portugal",RTP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4163765902/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Portugal" group-title="Portugal",DISCOVERY WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/575701033/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="TVCINE EMOTION" tvg-country="Portugal" group-title="Portugal",TVCINE EMOTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3859589230/index.m3u8
-
-#EXTINF:-1 tvg-id="odisseia" tvg-name="ODISSEIA" tvg-country="Portugal" group-title="Portugal",ODISSEIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/892615341/index.m3u8
-
-#EXTINF:-1 tvg-id="axn-white-hd" tvg-name="AXN WHITE HD" tvg-country="Portugal" group-title="Portugal",AXN WHITE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3286985327/index.m3u8
-
-#EXTINF:-1 tvg-id="kanuca-tv" tvg-name="KANUCA TV" tvg-country="Portugal" group-title="Portugal",KANUCA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1894635407/index.m3u8
-
-#EXTINF:-1 tvg-id="afro-music-channel" tvg-name="AFRO MUSIC CHANNEL" tvg-country="Portugal" group-title="Portugal",AFRO MUSIC CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1972183649/index.m3u8
-
-#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-country="Portugal" group-title="Portugal",SYFY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3865452148/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Portugal" group-title="Portugal",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2359297640/index.m3u8
-
-#EXTINF:-1 tvg-id="travel-channel-hd" tvg-name="TRAVEL CHANNEL HD" tvg-country="Portugal" group-title="Portugal",TRAVEL CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/224744270/index.m3u8
-
-#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Portugal" group-title="Portugal",TRAVEL CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4282023659/index.m3u8
-
-#EXTINF:-1 tvg-id="tpa-notcias" tvg-name="TPA NOTÍCIAS" tvg-country="Portugal" group-title="Portugal",TPA NOTÍCIAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3663001423/index.m3u8
-
-#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-country="Portugal" group-title="Portugal",HOLLYWOOD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2412387466/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-180" tvg-name="CANAL 180" tvg-country="Portugal" group-title="Portugal",CANAL 180
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1874759730/index.m3u8
-
-#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Portugal" group-title="Portugal",AXN WHITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/477021226/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Portugal" group-title="Portugal",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1966027521/index.m3u8
-
-#EXTINF:-1 tvg-id="porto-canal" tvg-name="PORTO CANAL" tvg-country="Portugal" group-title="Portugal",PORTO CANAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1862087663/index.m3u8
-
-#EXTINF:-1 tvg-id="nos-studios" tvg-name="NOS STUDIOS" tvg-country="Portugal" group-title="Portugal",NOS STUDIOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3965701639/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-3-hd" tvg-name="ELEVEN SPORTS 3 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2665930621/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1631158010/index.m3u8
-
-#EXTINF:-1 tvg-id="vh1" tvg-name="VH1" tvg-country="Portugal" group-title="Portugal",VH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1260407014/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-acores" tvg-name="RTP AÇORES" tvg-country="Portugal" group-title="Portugal",RTP AÇORES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1100907938/index.m3u8
-
-#EXTINF:-1 tvg-id="casa-e-cozinha" tvg-name="CASA E COZINHA" tvg-country="Portugal" group-title="Portugal",CASA E COZINHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3354497993/index.m3u8
-
-#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1719081758/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Portugal" group-title="Portugal",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2742858545/index.m3u8
-
-#EXTINF:-1 tvg-id="cancao-nova" tvg-name="CANCAO NOVA" tvg-country="Portugal" group-title="Portugal",CANCAO NOVA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1711720571/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-k" tvg-name="SIC K" tvg-country="Portugal" group-title="Portugal",SIC K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2133493834/index.m3u8
-
-#EXTINF:-1 tvg-id="rtp-memria" tvg-name="RTP MEMÓRIA" tvg-country="Portugal" group-title="Portugal",RTP MEMÓRIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3518481964/index.m3u8
-
-#EXTINF:-1 tvg-id="mcm-pop" tvg-name="MCM POP" tvg-country="Portugal" group-title="Portugal",MCM POP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3005054584/index.m3u8
-
-#EXTINF:-1 tvg-id="porto-canal" tvg-name="PORTO CANAL" tvg-country="Portugal" group-title="Portugal",PORTO CANAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2864320028/index.m3u8
-
-#EXTINF:-1 tvg-id="caccia-e-pesca" tvg-name="CACCIA E PESCA" tvg-country="Portugal" group-title="Portugal",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1577389543/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-2-hd" tvg-name="ELEVEN SPORTS 2 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/423629886/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-nba" tvg-name="SPORT TV NBA" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1718019314/index.m3u8
-
-#EXTINF:-1 tvg-id="saude" tvg-name="SAUDE+" tvg-country="Portugal" group-title="Portugal",SAUDE+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3680852273/index.m3u8
-
-#EXTINF:-1 tvg-id="mcm-pop" tvg-name="MCM POP" tvg-country="Portugal" group-title="Portugal",MCM POP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/998167995/index.m3u8
+https://vavoo.to/play/476765689/index.m3u8
 
 #EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME+ INVESTIGATION" tvg-country="Portugal" group-title="Portugal",CRIME+ INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/327951467/index.m3u8
 
-#EXTINF:-1 tvg-id="rtp-memria" tvg-name="RTP MEMÓRIA" tvg-country="Portugal" group-title="Portugal",RTP MEMÓRIA
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-country="Portugal" group-title="Portugal",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3594847568/index.m3u8
+https://vavoo.to/play/2121846219/index.m3u8
 
-#EXTINF:-1 tvg-id="panda-kids" tvg-name="PANDA KIDS" tvg-country="Portugal" group-title="Portugal",PANDA KIDS
+#EXTINF:-1 tvg-id="benfica-tv" tvg-name="BENFICA TV" tvg-country="Portugal" group-title="Portugal",BENFICA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2171243952/index.m3u8
+https://vavoo.to/play/1531114528/index.m3u8
 
-#EXTINF:-1 tvg-id="eleven-sports-5-fhd" tvg-name="ELEVEN SPORTS 5 FHD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1985937235/index.m3u8
+https://vavoo.to/play/1438628906/index.m3u8
 
-#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION" tvg-country="Portugal" group-title="Portugal",MOTORVISION
+#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/462395947/index.m3u8
+https://vavoo.to/play/3508326983/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/75626190/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi" tvg-name="TVI" tvg-country="Portugal" group-title="Portugal",TVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2647788125/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="ELEVEN SPORTS 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1599763557/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-1" tvg-name="RTP 1" tvg-country="Portugal" group-title="Portugal",RTP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3213786206/index.m3u8
+
+#EXTINF:-1 tvg-id="sic" tvg-name="SIC" tvg-country="Portugal" group-title="Portugal",SIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3762658364/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-hd" tvg-name="TVI HD" tvg-country="Portugal" group-title="Portugal",TVI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3101553820/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/702454257/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-country="Portugal" group-title="Portugal",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/538838100/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-3-hd" tvg-name="SPORT TV 3 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2923969632/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-hollywood" tvg-name="CANAL HOLLYWOOD" tvg-country="Portugal" group-title="Portugal",CANAL HOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3628095071/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1276326705/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-2-hd" tvg-name="SPORT TV 2 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/779445982/index.m3u8
+
+#EXTINF:-1 tvg-id="cine-mundo" tvg-name="CINE MUNDO" tvg-country="Portugal" group-title="Portugal",CINE MUNDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2596009475/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-hd" tvg-name="AXN HD" tvg-country="Portugal" group-title="Portugal",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3143462075/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2-hd" tvg-name="ELEVEN SPORTS 2 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1255159429/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-novelas" tvg-name="SIC NOVELAS" tvg-country="Portugal" group-title="Portugal",SIC NOVELAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1911367959/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="TV GLOBO" tvg-country="Portugal" group-title="Portugal",TV GLOBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3068526841/index.m3u8
+
+#EXTINF:-1 tvg-id="star-channel" tvg-name="STAR CHANNEL" tvg-country="Portugal" group-title="Portugal",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/473732861/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3458328824/index.m3u8
+
+#EXTINF:-1 tvg-id="star-crime" tvg-name="STAR CRIME" tvg-country="Portugal" group-title="Portugal",STAR CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2422531998/index.m3u8
+
+#EXTINF:-1 tvg-id="blaze" tvg-name="BLAZE" tvg-country="Portugal" group-title="Portugal",BLAZE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3679644515/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3-hd" tvg-name="ELEVEN SPORTS 3 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2256156187/index.m3u8
+
+#EXTINF:-1 tvg-id="toros-tv" tvg-name="TOROS TV" tvg-country="Portugal" group-title="Portugal",TOROS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/784576657/index.m3u8
+
+#EXTINF:-1 tvg-id="trace-urban-hd" tvg-name="TRACE URBAN HD" tvg-country="Portugal" group-title="Portugal",TRACE URBAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3694338679/index.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Portugal" group-title="Portugal",HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/525538314/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4-hd" tvg-name="ELEVEN SPORTS 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2361343746/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-nos" tvg-name="CANAL NOS" tvg-country="Portugal" group-title="Portugal",CANAL NOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3173711892/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen-hd" tvg-name="24 KITCHEN HD" tvg-country="Portugal" group-title="Portugal",24 KITCHEN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/574978281/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-comedy-hd" tvg-name="FOX COMEDY HD" tvg-country="Portugal" group-title="Portugal",FOX COMEDY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/992741389/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-internacional" tvg-name="RTP INTERNACIONAL" tvg-country="Portugal" group-title="Portugal",RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/254790946/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="Portugal" group-title="Portugal",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/503347396/index.m3u8
+
+#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Portugal" group-title="Portugal",24 KITCHEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2176778441/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="NAT GEO" tvg-country="Portugal" group-title="Portugal",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1196955352/index.m3u8
 
 #EXTINF:-1 tvg-id="rtp-2" tvg-name="RTP 2" tvg-country="Portugal" group-title="Portugal",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/756792350/index.m3u8
+https://vavoo.to/play/4163765902/index.m3u8
 
-#EXTINF:-1 tvg-id="travelxp" tvg-name="TRAVELXP" tvg-country="Portugal" group-title="Portugal",TRAVELXP
+#EXTINF:-1 tvg-id="fox-life-hd" tvg-name="FOX LIFE HD" tvg-country="Portugal" group-title="Portugal",FOX LIFE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2769296124/index.m3u8
+https://vavoo.to/play/2739768128/index.m3u8
+
+#EXTINF:-1 tvg-id="odisseia" tvg-name="ODISSEIA" tvg-country="Portugal" group-title="Portugal",ODISSEIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2111785550/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-edition-hd" tvg-name="TVCINE EDITION HD" tvg-country="Portugal" group-title="Portugal",TVCINE EDITION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2599146036/index.m3u8
+
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHIONTV" tvg-country="Portugal" group-title="Portugal",FASHIONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3688799089/index.m3u8
+
+#EXTINF:-1 tvg-id="amc-break" tvg-name="AMC BREAK" tvg-country="Portugal" group-title="Portugal",AMC BREAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1676049953/index.m3u8
 
 #EXTINF:-1 tvg-id="sic-radical" tvg-name="SIC RADICAL" tvg-country="Portugal" group-title="Portugal",SIC RADICAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/178864298/index.m3u8
 
-#EXTINF:-1 tvg-id="pfc" tvg-name="PFC" tvg-country="Portugal" group-title="Portugal",PFC
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-country="Portugal" group-title="Portugal",AXN WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3753231864/index.m3u8
+https://vavoo.to/play/477021226/index.m3u8
 
-#EXTINF:-1 tvg-id="dizi-channel" tvg-name="DIZI CHANNEL" tvg-country="Portugal" group-title="Portugal",DIZI CHANNEL
+#EXTINF:-1 tvg-id="canal-180" tvg-name="CANAL 180" tvg-country="Portugal" group-title="Portugal",CANAL 180
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3318391725/index.m3u8
+https://vavoo.to/play/1874759730/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="SPORT TV 1" tvg-country="Portugal" group-title="Portugal",SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3428940222/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-1" tvg-name="ELEVEN SPORT 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1631199830/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-1-hd" tvg-name="SPORT TV 1 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2112830810/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-1-hd" tvg-name="SPORT TV 1 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3966581533/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-hd" tvg-name="BTV HD" tvg-country="Portugal" group-title="Portugal",BTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/419434034/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-1" tvg-name="ELEVEN SPORT 1" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1814987647/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3064015582/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1096883544/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1-hd" tvg-name="ELEVEN SPORTS 1 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1255821242/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1-hd" tvg-name="ELEVEN SPORTS 1 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3294572902/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv" tvg-name="SPORT TV" tvg-country="Portugal" group-title="Portugal",SPORT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2259646737/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-2" tvg-name="ELEVEN SPORT 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/730790319/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-3" tvg-name="SPORT TV 3" tvg-country="Portugal" group-title="Portugal",SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3033626759/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-hd" tvg-name="SIC HD" tvg-country="Portugal" group-title="Portugal",SIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3099098765/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="ELEVEN SPORTS 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/419040949/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2344682350/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-reality" tvg-name="TVI REALITY" tvg-country="Portugal" group-title="Portugal",TVI REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3475414729/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-2" tvg-name="ELEVEN SPORT 2" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/492504973/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv--hd" tvg-name="SPORT TV + HD" tvg-country="Portugal" group-title="Portugal",SPORT TV + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/18224894/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-noticias" tvg-name="SIC NOTICIAS" tvg-country="Portugal" group-title="Portugal",SIC NOTICIAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4112970089/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-" tvg-name="SPORT TV +" tvg-country="Portugal" group-title="Portugal",SPORT TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3862034077/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-3-hd" tvg-name="SPORT TV 3 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2849222045/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-3" tvg-name="ELEVEN SPORT 3" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/384749599/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-1-hd" tvg-name="RTP 1 HD" tvg-country="Portugal" group-title="Portugal",RTP 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1394401047/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-11" tvg-name="CANAL 11" tvg-country="Portugal" group-title="Portugal",CANAL 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/199161253/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-top" tvg-name="TVCINE TOP" tvg-country="Portugal" group-title="Portugal",TVCINE TOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1167702614/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="ELEVEN SPORTS 3" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/630859525/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-action" tvg-name="TVCINE ACTION" tvg-country="Portugal" group-title="Portugal",TVCINE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3790970324/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-2-hd" tvg-name="SPORT TV 2 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1658993918/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3654612487/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-5" tvg-name="SPORT TV 5" tvg-country="Portugal" group-title="Portugal",SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/971104126/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-crime-hd" tvg-name="FOX CRIME HD" tvg-country="Portugal" group-title="Portugal",FOX CRIME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1009109875/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-movies" tvg-name="AXN MOVIES" tvg-country="Portugal" group-title="Portugal",AXN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/474759302/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-24" tvg-name="TVI 24" tvg-country="Portugal" group-title="Portugal",TVI 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3954588404/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-2-hd" tvg-name="ELEVEN SPORTS 2 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/423629886/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="SPORT TV 2" tvg-country="Portugal" group-title="Portugal",SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2080453864/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-reality" tvg-name="TVI REALITY" tvg-country="Portugal" group-title="Portugal",TVI REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2164586665/index.m3u8
+
+#EXTINF:-1 tvg-id="star-movies" tvg-name="STAR MOVIES" tvg-country="Portugal" group-title="Portugal",STAR MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/891358544/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-district" tvg-name="CRIME DISTRICT" tvg-country="Portugal" group-title="Portugal",CRIME DISTRICT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3588471466/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-mulher" tvg-name="SIC MULHER" tvg-country="Portugal" group-title="Portugal",SIC MULHER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3572250232/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-11-hd" tvg-name="CANAL 11 HD" tvg-country="Portugal" group-title="Portugal",CANAL 11 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1835935719/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="ELEVEN SPORTS 4" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2545613589/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="EUROSPORT 1" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2549518439/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-action-hd" tvg-name="TVCINE ACTION HD" tvg-country="Portugal" group-title="Portugal",TVCINE ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/793631803/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-11-hd" tvg-name="CANAL 11 HD" tvg-country="Portugal" group-title="Portugal",CANAL 11 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2972159450/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-mulher" tvg-name="SIC MULHER" tvg-country="Portugal" group-title="Portugal",SIC MULHER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/590086654/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-country="Portugal" group-title="Portugal",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/278568941/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-4" tvg-name="SPORT TV 4" tvg-country="Portugal" group-title="Portugal",SPORT TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4081172808/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-4-hd" tvg-name="ELEVEN SPORT 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3523975641/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-7" tvg-name="SPORT TV 7" tvg-country="Portugal" group-title="Portugal",SPORT TV 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1126272030/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemundo" tvg-name="CINEMUNDO" tvg-country="Portugal" group-title="Portugal",CINEMUNDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4254404503/index.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="HISTORIA" tvg-country="Portugal" group-title="Portugal",HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1471702249/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-country="Portugal" group-title="Portugal",EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1631158010/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-fic" tvg-name="TVI FIC" tvg-country="Portugal" group-title="Portugal",TVI FIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/265959469/index.m3u8
+
+#EXTINF:-1 tvg-id="record-tv" tvg-name="RECORD TV" tvg-country="Portugal" group-title="Portugal",RECORD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1211778226/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-country="Portugal" group-title="Portugal",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2341819341/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-2" tvg-name="RTP 2" tvg-country="Portugal" group-title="Portugal",RTP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/756792350/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="DISNEY JUNIOR" tvg-country="Portugal" group-title="Portugal",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/771141542/index.m3u8
+
+#EXTINF:-1 tvg-id="star-comedy" tvg-name="STAR COMEDY" tvg-country="Portugal" group-title="Portugal",STAR COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1282781678/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-top-hd" tvg-name="TVCINE TOP HD" tvg-country="Portugal" group-title="Portugal",TVCINE TOP HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/405619759/index.m3u8
+
+#EXTINF:-1 tvg-id="amc-crime" tvg-name="AMC CRIME" tvg-country="Portugal" group-title="Portugal",AMC CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2077195788/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-3-hd" tvg-name="ELEVEN SPORTS 3 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2665930621/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-4-hd" tvg-name="SPORT TV 4 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2760717689/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-3" tvg-name="RTP 3" tvg-country="Portugal" group-title="Portugal",RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/276534702/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-invistigation" tvg-name="CRIME INVISTIGATION" tvg-country="Portugal" group-title="Portugal",CRIME INVISTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1137861489/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-caras" tvg-name="SIC CARAS" tvg-country="Portugal" group-title="Portugal",SIC CARAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3495482039/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Portugal" group-title="Portugal",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2672740913/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild-hd" tvg-name="NAT GEO WILD HD" tvg-country="Portugal" group-title="Portugal",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2693289753/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-edition" tvg-name="TVCINE EDITION" tvg-country="Portugal" group-title="Portugal",TVCINE EDITION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1761868334/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-ficco" tvg-name="TVI FICÇÃO" tvg-country="Portugal" group-title="Portugal",TVI FICÇÃO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/956832485/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-6" tvg-name="SPORT TV 6" tvg-country="Portugal" group-title="Portugal",SPORT TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2118231470/index.m3u8
+
+#EXTINF:-1 tvg-id="syfy-portugal" tvg-name="SYFY PORTUGAL" tvg-country="Portugal" group-title="Portugal",SYFY PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1633515070/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-record" tvg-name="TV RECORD" tvg-country="Portugal" group-title="Portugal",TV RECORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2291776416/index.m3u8
+
+#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/676691326/index.m3u8
+
+#EXTINF:-1 tvg-id="wwe-network" tvg-name="WWE NETWORK" tvg-country="Portugal" group-title="Portugal",WWE NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/355320503/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-caras" tvg-name="SIC CARAS" tvg-country="Portugal" group-title="Portugal",SIC CARAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2736589383/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-country="Portugal" group-title="Portugal",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1668808212/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Portugal" group-title="Portugal",CANAL PANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2695839043/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-portugal" tvg-name="MTV PORTUGAL" tvg-country="Portugal" group-title="Portugal",MTV PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3555716419/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-5" tvg-name="ELEVEN SPORTS 5" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2866467493/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel-hd" tvg-name="TRAVEL CHANNEL HD" tvg-country="Portugal" group-title="Portugal",TRAVEL CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/224744270/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="TVCINE EMOTION" tvg-country="Portugal" group-title="Portugal",TVCINE EMOTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3859589230/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport-5-hd" tvg-name="ELEVEN SPORT 5 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/513907015/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-africa" tvg-name="RTP AFRICA" tvg-country="Portugal" group-title="Portugal",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1885378174/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Portugal" group-title="Portugal",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1332279307/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Portugal" group-title="Portugal",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1966027521/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-madeira" tvg-name="RTP MADEIRA" tvg-country="Portugal" group-title="Portugal",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3637826537/index.m3u8
+
+#EXTINF:-1 tvg-id="nos-studios" tvg-name="NOS STUDIOS" tvg-country="Portugal" group-title="Portugal",NOS STUDIOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2726144103/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="DISCOVERY WORLD" tvg-country="Portugal" group-title="Portugal",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/575701033/index.m3u8
+
+#EXTINF:-1 tvg-id="nos-studios" tvg-name="NOS STUDIOS" tvg-country="Portugal" group-title="Portugal",NOS STUDIOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3965701639/index.m3u8
+
+#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3247544311/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Portugal" group-title="Portugal",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3292309622/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Portugal" group-title="Portugal",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3404489721/index.m3u8
+
+#EXTINF:-1 tvg-id="amc-hd" tvg-name="AMC HD" tvg-country="Portugal" group-title="Portugal",AMC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3322904148/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-panda" tvg-name="CANAL PANDA" tvg-country="Portugal" group-title="Portugal",CANAL PANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4002241315/index.m3u8
+
+#EXTINF:-1 tvg-id="sporting-tv" tvg-name="SPORTING TV" tvg-country="Portugal" group-title="Portugal",SPORTING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1719081758/index.m3u8
+
+#EXTINF:-1 tvg-id="casa-e-cozinha" tvg-name="CASA E COZINHA" tvg-country="Portugal" group-title="Portugal",CASA E COZINHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3354497993/index.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-country="Portugal" group-title="Portugal",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1181792777/index.m3u8
+
+#EXTINF:-1 tvg-id="afro-music" tvg-name="AFRO MUSIC" tvg-country="Portugal" group-title="Portugal",AFRO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1069493045/index.m3u8
+
+#EXTINF:-1 tvg-id="cacavision" tvg-name="CAÇAVISION" tvg-country="Portugal" group-title="Portugal",CAÇAVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3682477794/index.m3u8
+
+#EXTINF:-1 tvg-id="vh1" tvg-name="VH1" tvg-country="Portugal" group-title="Portugal",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1260407014/index.m3u8
+
+#EXTINF:-1 tvg-id="odisseia" tvg-name="ODISSEIA" tvg-country="Portugal" group-title="Portugal",ODISSEIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/892615341/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Portugal" group-title="Portugal",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3982415185/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-4-hd" tvg-name="ELEVEN SPORTS 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3195314998/index.m3u8
+
+#EXTINF:-1 tvg-id="caza-y-pesca" tvg-name="CAZA Y PESCA" tvg-country="Portugal" group-title="Portugal",CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3988851775/index.m3u8
+
+#EXTINF:-1 tvg-id="biggs" tvg-name="BIGGS" tvg-country="Portugal" group-title="Portugal",BIGGS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2693440346/index.m3u8
+
+#EXTINF:-1 tvg-id="alma-lusa" tvg-name="ALMA LUSA" tvg-country="Portugal" group-title="Portugal",ALMA LUSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3972324290/index.m3u8
+
+#EXTINF:-1 tvg-id="cancao-nova" tvg-name="CANCAO NOVA" tvg-country="Portugal" group-title="Portugal",CANCAO NOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1711720571/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-acores" tvg-name="RTP AÇORES" tvg-country="Portugal" group-title="Portugal",RTP AÇORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1100907938/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Portugal" group-title="Portugal",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2742858545/index.m3u8
+
+#EXTINF:-1 tvg-id="afro-music-channel" tvg-name="AFRO MUSIC CHANNEL" tvg-country="Portugal" group-title="Portugal",AFRO MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1972183649/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-nba" tvg-name="SPORT TV NBA" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1718019314/index.m3u8
+
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-country="Portugal" group-title="Portugal",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/230373228/index.m3u8
+
+#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION" tvg-country="Portugal" group-title="Portugal",MOTORVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/462395947/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="BABY TV" tvg-country="Portugal" group-title="Portugal",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1116719162/index.m3u8
+
+#EXTINF:-1 tvg-id="casa--pesca" tvg-name="CASA & PESCA" tvg-country="Portugal" group-title="Portugal",CASA & PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/700421686/index.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Portugal" group-title="Portugal",E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2910919734/index.m3u8
+
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="PORTO CANAL" tvg-country="Portugal" group-title="Portugal",PORTO CANAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1862087663/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Portugal" group-title="Portugal",NICK JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1165966812/index.m3u8
+
+#EXTINF:-1 tvg-id="star-life" tvg-name="STAR LIFE" tvg-country="Portugal" group-title="Portugal",STAR LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4075632687/index.m3u8
+
+#EXTINF:-1 tvg-id="opto" tvg-name="OPTO" tvg-country="Portugal" group-title="Portugal",OPTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2106247479/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-white-hd" tvg-name="AXN WHITE HD" tvg-country="Portugal" group-title="Portugal",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3286985327/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-acores" tvg-name="RTP ACORES" tvg-country="Portugal" group-title="Portugal",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1961433088/index.m3u8
+
+#EXTINF:-1 tvg-id="a-bola-tv" tvg-name="A BOLA TV" tvg-country="Portugal" group-title="Portugal",A BOLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1865352457/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcine-emotion-hd" tvg-name="TVCINE EMOTION HD" tvg-country="Portugal" group-title="Portugal",TVCINE EMOTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4064509244/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Portugal" group-title="Portugal",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/521041364/index.m3u8
+
+#EXTINF:-1 tvg-id="mcm-pop" tvg-name="MCM POP" tvg-country="Portugal" group-title="Portugal",MCM POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3005054584/index.m3u8
 
 #EXTINF:-1 tvg-id="porto-canal" tvg-name="PORTO CANAL" tvg-country="Portugal" group-title="Portugal",PORTO CANAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -979,380 +939,420 @@ https://vavoo.to/play/551507343/index.m3u8
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1075134364/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Portugal" group-title="Portugal",EUROSPORT 2
+#EXTINF:-1 tvg-id="saude" tvg-name="SAUDE+" tvg-country="Portugal" group-title="Portugal",SAUDE+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2658438359/index.m3u8
+https://vavoo.to/play/3680852273/index.m3u8
 
-#EXTINF:-1 tvg-id="kuriakos-tv" tvg-name="KURIAKOS TV" tvg-country="Portugal" group-title="Portugal",KURIAKOS TV
+#EXTINF:-1 tvg-id="rtp-memria" tvg-name="RTP MEMÓRIA" tvg-country="Portugal" group-title="Portugal",RTP MEMÓRIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2640469163/index.m3u8
+https://vavoo.to/play/3594847568/index.m3u8
 
-#EXTINF:-1 tvg-id="pfc" tvg-name="PFC" tvg-country="Portugal" group-title="Portugal",PFC
+#EXTINF:-1 tvg-id="tpa-notcias" tvg-name="TPA NOTÍCIAS" tvg-country="Portugal" group-title="Portugal",TPA NOTÍCIAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2447945475/index.m3u8
+https://vavoo.to/play/3663001423/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-00s" tvg-name="MTV 00S" tvg-country="Portugal" group-title="Portugal",MTV 00S
+#EXTINF:-1 tvg-id="panda-kids" tvg-name="PANDA KIDS" tvg-country="Portugal" group-title="Portugal",PANDA KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3875216039/index.m3u8
+https://vavoo.to/play/2171243952/index.m3u8
 
-#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Portugal" group-title="Portugal",FOOD NETWORK
+#EXTINF:-1 tvg-id="mcm-pop" tvg-name="MCM POP" tvg-country="Portugal" group-title="Portugal",MCM POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1960865357/index.m3u8
-
-#EXTINF:-1 tvg-id="campo-pequeno" tvg-name="CAMPO PEQUENO" tvg-country="Portugal" group-title="Portugal",CAMPO PEQUENO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/231845708/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-country="Portugal" group-title="Portugal",CARTOONITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1332279307/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-junior" tvg-name="NICK JUNIOR" tvg-country="Portugal" group-title="Portugal",NICK JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1165966812/index.m3u8
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="24 KITCHEN" tvg-country="Portugal" group-title="Portugal",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2176778441/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sport-6" tvg-name="ELEVEN SPORT 6" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3725483887/index.m3u8
-
-#EXTINF:-1 tvg-id="euronews" tvg-name="EURONEWS" tvg-country="Portugal" group-title="Portugal",EURONEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2842227117/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-4-hd" tvg-name="ELEVEN SPORTS 4 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3195314998/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-5-hd" tvg-name="SPORT TV 5 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1747400167/index.m3u8
-
-#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Portugal" group-title="Portugal",BOOMERANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3097266041/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-country="Portugal" group-title="Portugal",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3982415185/index.m3u8
-
-#EXTINF:-1 tvg-id="alma-lusa" tvg-name="ALMA LUSA" tvg-country="Portugal" group-title="Portugal",ALMA LUSA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3972324290/index.m3u8
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHIONTV" tvg-country="Portugal" group-title="Portugal",FASHIONTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3688799089/index.m3u8
-
-#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! ENTERTAINMENT" tvg-country="Portugal" group-title="Portugal",E! ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2910919734/index.m3u8
-
-#EXTINF:-1 tvg-id="sport-tv-nba-hd" tvg-name="SPORT TV NBA HD" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2751720311/index.m3u8
-
-#EXTINF:-1 tvg-id="eleven-sports-6-hd" tvg-name="ELEVEN SPORTS 6 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1783116785/index.m3u8
-
-#EXTINF:-1 tvg-id="stingray-retro" tvg-name="STINGRAY RETRO" tvg-country="Portugal" group-title="Portugal",STINGRAY RETRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2167632122/index.m3u8
-
-#EXTINF:-1 tvg-id="biggs" tvg-name="BIGGS" tvg-country="Portugal" group-title="Portugal",BIGGS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2693440346/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Portugal" group-title="Portugal",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3495357111/index.m3u8
-
-#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-country="Portugal" group-title="Portugal",E!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2635838576/index.m3u8
-
-#EXTINF:-1 tvg-id="canal-q" tvg-name="CANAL Q" tvg-country="Portugal" group-title="Portugal",CANAL Q
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2767092518/index.m3u8
-
-#EXTINF:-1 tvg-id="opto" tvg-name="OPTO" tvg-country="Portugal" group-title="Portugal",OPTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2106247479/index.m3u8
-
-#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/71983983/index.m3u8
+https://vavoo.to/play/998167995/index.m3u8
 
 #EXTINF:-1 tvg-id="sic-k" tvg-name="SIC K" tvg-country="Portugal" group-title="Portugal",SIC K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2854171354/index.m3u8
+https://vavoo.to/play/2133493834/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp-frica" tvg-name="RTP ÁFRICA" tvg-country="Portugal" group-title="Portugal",RTP ÁFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/368968283/index.m3u8
 
 #EXTINF:-1 tvg-id="c-music" tvg-name="C MUSIC" tvg-country="Portugal" group-title="Portugal",C MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2006567656/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-portugal" tvg-name="MTV PORTUGAL" tvg-country="Portugal" group-title="Portugal",MTV PORTUGAL
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG" tvg-country="Portugal" group-title="Portugal",BOOMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3555716419/index.m3u8
+https://vavoo.to/play/3097266041/index.m3u8
 
-#EXTINF:-1 tvg-id="rtp-acores" tvg-name="RTP ACORES" tvg-country="Portugal" group-title="Portugal",RTP ACORES
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-country="Portugal" group-title="Portugal",SYFY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1961433088/index.m3u8
+https://vavoo.to/play/3865452148/index.m3u8
 
-#EXTINF:-1 tvg-id="dog-tv" tvg-name="DOG TV" tvg-country="Portugal" group-title="Portugal",DOG TV
+#EXTINF:-1 tvg-id="euronews" tvg-name="EURONEWS" tvg-country="Portugal" group-title="Portugal",EURONEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1585099730/index.m3u8
+https://vavoo.to/play/2842227117/index.m3u8
 
-#EXTINF:-1 tvg-id="sic-radical" tvg-name="SIC RADICAL" tvg-country="Portugal" group-title="Portugal",SIC RADICAL
+#EXTINF:-1 tvg-id="pfc" tvg-name="PFC" tvg-country="Portugal" group-title="Portugal",PFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1149970122/index.m3u8
+https://vavoo.to/play/3753231864/index.m3u8
 
-#EXTINF:-1 tvg-id="w-sport" tvg-name="W-SPORT" tvg-country="Portugal" group-title="Portugal",W-SPORT
+#EXTINF:-1 tvg-id="travelxp" tvg-name="TRAVELXP" tvg-country="Portugal" group-title="Portugal",TRAVELXP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2869243622/index.m3u8
+https://vavoo.to/play/2769296124/index.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="BLOOMBERG" tvg-country="Portugal" group-title="Portugal",BLOOMBERG
+#EXTINF:-1 tvg-id="mtv-classic" tvg-name="MTV CLASSIC" tvg-country="Portugal" group-title="Portugal",MTV CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2362437748/index.m3u8
+https://vavoo.to/play/4017090315/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Portugal" group-title="Portugal",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/521041364/index.m3u8
+https://vavoo.to/play/2658438359/index.m3u8
 
-#EXTINF:-1 tvg-id="bom-som" tvg-name="BOM SOM" tvg-country="Portugal" group-title="Portugal",BOM SOM
+#EXTINF:-1 tvg-id="eleven-sport-6" tvg-name="ELEVEN SPORT 6" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/455247965/index.m3u8
+https://vavoo.to/play/3725483887/index.m3u8
 
-#EXTINF:-1 tvg-id="eleven-sports-6" tvg-name="ELEVEN SPORTS 6" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="dizi-channel" tvg-name="DIZI CHANNEL" tvg-country="Portugal" group-title="Portugal",DIZI CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3984238709/index.m3u8
+https://vavoo.to/play/3318391725/index.m3u8
 
-#EXTINF:-1 tvg-id="moto-gp-hd" tvg-name="MOTO GP HD" tvg-country="Portugal" group-title="Portugal",MOTO GP HD
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-country="Portugal" group-title="Portugal",TRAVEL CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/80762089/index.m3u8
+https://vavoo.to/play/4282023659/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-portugal" tvg-name="MTV PORTUGAL" tvg-country="Portugal" group-title="Portugal",MTV PORTUGAL
+#EXTINF:-1 tvg-id="rtp-memria" tvg-name="RTP MEMÓRIA" tvg-country="Portugal" group-title="Portugal",RTP MEMÓRIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3558682175/index.m3u8
+https://vavoo.to/play/3518481964/index.m3u8
 
-#EXTINF:-1 tvg-id="eleven-sports-6-hd" tvg-name="ELEVEN SPORTS 6 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6 HD
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-country="Portugal" group-title="Portugal",HOLLYWOOD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3466213503/index.m3u8
+https://vavoo.to/play/2412387466/index.m3u8
 
-#EXTINF:-1 tvg-id="ar-tv-canal-parlamento" tvg-name="AR TV CANAL PARLAMENTO" tvg-country="Portugal" group-title="Portugal",AR TV CANAL PARLAMENTO
+#EXTINF:-1 tvg-id="sic-k" tvg-name="SIC K" tvg-country="Portugal" group-title="Portugal",SIC K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1348598432/index.m3u8
+https://vavoo.to/play/2854171354/index.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-country="Portugal" group-title="Portugal",HGTV
+#EXTINF:-1 tvg-id="caccia-e-pesca" tvg-name="CACCIA E PESCA" tvg-country="Portugal" group-title="Portugal",CACCIA E PESCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3100022685/index.m3u8
+https://vavoo.to/play/1577389543/index.m3u8
 
-#EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM TOP" tvg-country="Portugal" group-title="Portugal",MCM TOP
+#EXTINF:-1 tvg-id="eleven-sports-5-fhd" tvg-name="ELEVEN SPORTS 5 FHD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3476156840/index.m3u8
+https://vavoo.to/play/1985937235/index.m3u8
 
-#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION" tvg-country="Portugal" group-title="Portugal",MOTORVISION
+#EXTINF:-1 tvg-id="mtv-00s" tvg-name="MTV 00S" tvg-country="Portugal" group-title="Portugal",MTV 00S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3138815174/index.m3u8
+https://vavoo.to/play/3875216039/index.m3u8
 
-#EXTINF:-1 tvg-id="axn-movies-hd" tvg-name="AXN MOVIES HD" tvg-country="Portugal" group-title="Portugal",AXN MOVIES HD
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="PORTO CANAL" tvg-country="Portugal" group-title="Portugal",PORTO CANAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2370723370/index.m3u8
-
-#EXTINF:-1 tvg-id="sic-internacional" tvg-name="SIC INTERNACIONAL" tvg-country="Portugal" group-title="Portugal",SIC INTERNACIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1987468951/index.m3u8
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR." tvg-country="Portugal" group-title="Portugal",NICK JR.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3285958459/index.m3u8
-
-#EXTINF:-1 tvg-id="artv" tvg-name="ARTV" tvg-country="Portugal" group-title="Portugal",ARTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/380717209/index.m3u8
-
-#EXTINF:-1 tvg-id="fireman-sam" tvg-name="FIREMAN SAM" tvg-country="Portugal" group-title="Portugal",FIREMAN SAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2568401236/index.m3u8
-
-#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3953435677/index.m3u8
-
-#EXTINF:-1 tvg-id="meo-videoclube" tvg-name="MEO VIDEOCLUBE" tvg-country="Portugal" group-title="Portugal",MEO VIDEOCLUBE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/631488050/index.m3u8
-
-#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2351548588/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-mana-1" tvg-name="TV MANA 1" tvg-country="Portugal" group-title="Portugal",TV MANA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3430368704/index.m3u8
-
-#EXTINF:-1 tvg-id="tvi-africa" tvg-name="TVI AFRICA" tvg-country="Portugal" group-title="Portugal",TVI AFRICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2391771240/index.m3u8
-
-#EXTINF:-1 tvg-id="tv-globo-now" tvg-name="TV GLOBO NOW" tvg-country="Portugal" group-title="Portugal",TV GLOBO NOW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2099488922/index.m3u8
+https://vavoo.to/play/2864320028/index.m3u8
 
 #EXTINF:-1 tvg-id="motorvision-tv" tvg-name="MOTORVISION TV" tvg-country="Portugal" group-title="Portugal",MOTORVISION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/174225106/index.m3u8
 
+#EXTINF:-1 tvg-id="food-network" tvg-name="FOOD NETWORK" tvg-country="Portugal" group-title="Portugal",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1960865357/index.m3u8
+
+#EXTINF:-1 tvg-id="bom-som" tvg-name="BOM SOM" tvg-country="Portugal" group-title="Portugal",BOM SOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/455247965/index.m3u8
+
+#EXTINF:-1 tvg-id="moto-gp-hd" tvg-name="MOTO GP HD" tvg-country="Portugal" group-title="Portugal",MOTO GP HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/80762089/index.m3u8
+
+#EXTINF:-1 tvg-id="campo-pequeno" tvg-name="CAMPO PEQUENO" tvg-country="Portugal" group-title="Portugal",CAMPO PEQUENO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/231845708/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-nba-hd" tvg-name="SPORT TV NBA HD" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2751720311/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR." tvg-country="Portugal" group-title="Portugal",NICK JR.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3285958459/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-6" tvg-name="ELEVEN SPORTS 6" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3984238709/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="EUROSPORT 2" tvg-country="Portugal" group-title="Portugal",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3495357111/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-country="Portugal" group-title="Portugal",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3100022685/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-radical" tvg-name="SIC RADICAL" tvg-country="Portugal" group-title="Portugal",SIC RADICAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1149970122/index.m3u8
+
+#EXTINF:-1 tvg-id="kanuca-tv" tvg-name="KANUCA TV" tvg-country="Portugal" group-title="Portugal",KANUCA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1894635407/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-mana-1" tvg-name="TV MANA 1" tvg-country="Portugal" group-title="Portugal",TV MANA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3430368704/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-portugal" tvg-name="MTV PORTUGAL" tvg-country="Portugal" group-title="Portugal",MTV PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3558682175/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-country="Portugal" group-title="Portugal",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2359297640/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="BLOOMBERG" tvg-country="Portugal" group-title="Portugal",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2362437748/index.m3u8
+
+#EXTINF:-1 tvg-id="meo-videoclube" tvg-name="MEO VIDEOCLUBE" tvg-country="Portugal" group-title="Portugal",MEO VIDEOCLUBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/631488050/index.m3u8
+
+#EXTINF:-1 tvg-id="w-sport" tvg-name="W-SPORT" tvg-country="Portugal" group-title="Portugal",W-SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2869243622/index.m3u8
+
+#EXTINF:-1 tvg-id="ar-tv-canal-parlamento" tvg-name="AR TV CANAL PARLAMENTO" tvg-country="Portugal" group-title="Portugal",AR TV CANAL PARLAMENTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1348598432/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-6-hd" tvg-name="ELEVEN SPORTS 6 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1783116785/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-6-hd" tvg-name="ELEVEN SPORTS 6 HD" tvg-country="Portugal" group-title="Portugal",ELEVEN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3466213503/index.m3u8
+
+#EXTINF:-1 tvg-id="dog-tv" tvg-name="DOG TV" tvg-country="Portugal" group-title="Portugal",DOG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1585099730/index.m3u8
+
+#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-country="Portugal" group-title="Portugal",E!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2635838576/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-tv-5-hd" tvg-name="SPORT TV 5 HD" tvg-country="Portugal" group-title="Portugal",SPORT TV 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1747400167/index.m3u8
+
+#EXTINF:-1 tvg-id="canal-q" tvg-name="CANAL Q" tvg-country="Portugal" group-title="Portugal",CANAL Q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2767092518/index.m3u8
+
+#EXTINF:-1 tvg-id="artv" tvg-name="ARTV" tvg-country="Portugal" group-title="Portugal",ARTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/380717209/index.m3u8
+
+#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3953435677/index.m3u8
+
 #EXTINF:-1 tvg-id="jim-jam" tvg-name="JIM JAM" tvg-country="Portugal" group-title="Portugal",JIM JAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/3973057265/index.m3u8
 
-#EXTINF:-1 tvg-id="disney" tvg-name="DISNEY+" tvg-country="Portugal" group-title="Portugal",DISNEY+
+#EXTINF:-1 tvg-id="pfc" tvg-name="PFC" tvg-country="Portugal" group-title="Portugal",PFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2551829420/index.m3u8
+https://vavoo.to/play/2447945475/index.m3u8
+
+#EXTINF:-1 tvg-id="sic-internacional" tvg-name="SIC INTERNACIONAL" tvg-country="Portugal" group-title="Portugal",SIC INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1987468951/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-africa" tvg-name="TVI AFRICA" tvg-country="Portugal" group-title="Portugal",TVI AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2391771240/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray-retro" tvg-name="STINGRAY RETRO" tvg-country="Portugal" group-title="Portugal",STINGRAY RETRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2167632122/index.m3u8
+
+#EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM TOP" tvg-country="Portugal" group-title="Portugal",MCM TOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3476156840/index.m3u8
 
 #EXTINF:-1 tvg-id="canal-q" tvg-name="CANAL Q" tvg-country="Portugal" group-title="Portugal",CANAL Q
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/747491557/index.m3u8
 
-#EXTINF:-1 tvg-id="sport-tv-nba-hd" tvg-name="SPORT TV NBA HD" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA HD
+#EXTINF:-1 tvg-id="disney" tvg-name="DISNEY+" tvg-country="Portugal" group-title="Portugal",DISNEY+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3476204840/index.m3u8
+https://vavoo.to/play/2551829420/index.m3u8
+
+#EXTINF:-1 tvg-id="axn-movies-hd" tvg-name="AXN MOVIES HD" tvg-country="Portugal" group-title="Portugal",AXN MOVIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2370723370/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport-6" tvg-name="EUROSPORT 6" tvg-country="Portugal" group-title="Portugal",EUROSPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1811163671/index.m3u8
 
-#EXTINF:-1 tvg-id="fatima-tv" tvg-name="FATIMA TV" tvg-country="Portugal" group-title="Portugal",FATIMA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2395509066/index.m3u8
-
 #EXTINF:-1 tvg-id="tvi-reality-camara-2" tvg-name="TVI REALITY CAMARA 2" tvg-country="Portugal" group-title="Portugal",TVI REALITY CAMARA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1870155352/index.m3u8
 
-#EXTINF:-1 tvg-id="tvi-reality-camara-3" tvg-name="TVI REALITY CAMARA 3" tvg-country="Portugal" group-title="Portugal",TVI REALITY CAMARA 3
+#EXTINF:-1 tvg-id="fireman-sam" tvg-name="FIREMAN SAM" tvg-country="Portugal" group-title="Portugal",FIREMAN SAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1377331176/index.m3u8
+https://vavoo.to/play/2568401236/index.m3u8
 
-#EXTINF:-1 tvg-id="tvi-reality-camara-4" tvg-name="TVI REALITY CAMARA 4" tvg-country="Portugal" group-title="Portugal",TVI REALITY CAMARA 4
+#EXTINF:-1 tvg-id="sport-tv-nba-hd" tvg-name="SPORT TV NBA HD" tvg-country="Portugal" group-title="Portugal",SPORT TV NBA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/3761814520/index.m3u8
+https://vavoo.to/play/3476204840/index.m3u8
 
-#EXTINF:-1 tvg-id="kombat-sport" tvg-name="KOMBAT SPORT" tvg-country="Portugal" group-title="Portugal",KOMBAT SPORT
+#EXTINF:-1 tvg-id="tv-globo-now" tvg-name="TV GLOBO NOW" tvg-country="Portugal" group-title="Portugal",TV GLOBO NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2141709191/index.m3u8
-
-#EXTINF:-1 tvg-id="toros" tvg-name="TOROS" tvg-country="Portugal" group-title="Portugal",TOROS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1619697698/index.m3u8
-
-#EXTINF:-1 tvg-id="kuriakos-kids" tvg-name="KURIAKOS KIDS" tvg-country="Portugal" group-title="Portugal",KURIAKOS KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/4169387839/index.m3u8
+https://vavoo.to/play/2099488922/index.m3u8
 
 #EXTINF:-1 tvg-id="toros-tv" tvg-name="TOROS TV" tvg-country="Portugal" group-title="Portugal",TOROS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1243809524/index.m3u8
 
-#EXTINF:-1 tvg-id="kombat-sport" tvg-name="KOMBAT SPORT" tvg-country="Portugal" group-title="Portugal",KOMBAT SPORT
+#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/70466683/index.m3u8
+https://vavoo.to/play/2351548588/index.m3u8
 
-#EXTINF:-1 tvg-id="panda-biggs" tvg-name="PANDA BIGGS" tvg-country="Portugal" group-title="Portugal",PANDA BIGGS
+#EXTINF:-1 tvg-id="toros" tvg-name="TOROS" tvg-country="Portugal" group-title="Portugal",TOROS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/2958694111/index.m3u8
+https://vavoo.to/play/1619697698/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-reality-camara-3" tvg-name="TVI REALITY CAMARA 3" tvg-country="Portugal" group-title="Portugal",TVI REALITY CAMARA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1377331176/index.m3u8
 
 #EXTINF:-1 tvg-id="tvi-reality-mosaico" tvg-name="TVI REALITY MOSAICO" tvg-country="Portugal" group-title="Portugal",TVI REALITY MOSAICO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/1909931690/index.m3u8
 
-#EXTINF:-1 tvg-id="meo-destaques" tvg-name="MEO DESTAQUES" tvg-country="Portugal" group-title="Portugal",MEO DESTAQUES
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Portugal" group-title="Portugal",CBS REALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
-https://vavoo.to/play/1545104352/index.m3u8
+https://vavoo.to/play/3775102231/index.m3u8
+
+#EXTINF:-1 tvg-id="fatima-tv" tvg-name="FATIMA TV" tvg-country="Portugal" group-title="Portugal",FATIMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2395509066/index.m3u8
+
+#EXTINF:-1 tvg-id="panda-biggs" tvg-name="PANDA BIGGS" tvg-country="Portugal" group-title="Portugal",PANDA BIGGS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2958694111/index.m3u8
+
+#EXTINF:-1 tvg-id="kombat-sport" tvg-name="KOMBAT SPORT" tvg-country="Portugal" group-title="Portugal",KOMBAT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/70466683/index.m3u8
+
+#EXTINF:-1 tvg-id="tvi-reality-camara-4" tvg-name="TVI REALITY CAMARA 4" tvg-country="Portugal" group-title="Portugal",TVI REALITY CAMARA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3761814520/index.m3u8
+
+#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION" tvg-country="Portugal" group-title="Portugal",MOTORVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/3138815174/index.m3u8
+
+#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-country="Portugal" group-title="Portugal",FUEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/71983983/index.m3u8
+
+#EXTINF:-1 tvg-id="kuriakos-kids" tvg-name="KURIAKOS KIDS" tvg-country="Portugal" group-title="Portugal",KURIAKOS KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/4169387839/index.m3u8
+
+#EXTINF:-1 tvg-id="kuriakos-tv" tvg-name="KURIAKOS TV" tvg-country="Portugal" group-title="Portugal",KURIAKOS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2640469163/index.m3u8
+
+#EXTINF:-1 tvg-id="kombat-sport" tvg-name="KOMBAT SPORT" tvg-country="Portugal" group-title="Portugal",KOMBAT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/2141709191/index.m3u8
 
 #EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS REALITY" tvg-country="Portugal" group-title="Portugal",CBS REALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://vavoo.to/
 https://vavoo.to/play/2938182519/index.m3u8
+
+#EXTINF:-1 tvg-id="meo-destaques" tvg-name="MEO DESTAQUES" tvg-country="Portugal" group-title="Portugal",MEO DESTAQUES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://vavoo.to/
+https://vavoo.to/play/1545104352/index.m3u8
 
 #EXTINF:-1 tvg-id="local-viso" tvg-name="LOCAL VISÃO" tvg-country="Portugal" group-title="Portugal",LOCAL VISÃO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
